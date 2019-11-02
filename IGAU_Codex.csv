@@ -1,101 +1,1216 @@
-"timestamp (S)","Name_Localised (S)","System (S)"
-"2019-11-01T08:41:47Z","Non Terraformable","Clookeou EC-D d12-6"
-"2019-10-29T06:11:42Z","Non Terraformable","Flimbu EH-U d3-6"
-"2019-10-28T10:45:11Z","Non Terraformable","Flimbu NK-E d12-6"
-"2019-10-28T10:44:30Z","Non Terraformable","Flimbu NK-E d12-6"
-"2019-10-28T04:26:22Z","Silicate Vapour Gas Vent","Myliengooe ZA-E d12-5"
-"2019-10-28T04:00:32Z","Silicate Vapour Gas Vent","Myliengooe ZA-E d12-5"
-"2019-10-28T03:57:49Z","Silicate Vapour Gas Vent","Myliengooe ZA-E d12-5"
-"2019-10-28T03:53:25Z","Silicate Vapour Gas Vent","Myliengooe ZA-E d12-5"
-"2019-10-28T03:31:56Z","Silicate Vapour Gas Vent","Myliengooe ZA-E d12-5"
-"2019-10-28T03:07:42Z","Silicate Vapour Gas Vent","Myliengooe ZA-E d12-5"
-"2019-10-28T02:33:43Z","Silicate Vapour Gas Vent","Myliengooe ZA-E d12-5"
-"2019-10-25T10:56:20Z","Rubellum Peduncle Tree","Hypi Chroa QV-J c23-1"
-"2019-10-25T08:42:49Z","Iron Magma Lava Spout","Kyloopa ZK-O d6-2"
-"2019-10-25T08:38:38Z","Iron Magma Lava Spout","Kyloopa ZK-O d6-2"
-"2019-10-15T09:19:19Z","Non Terraformable","Pyraleau MI-Q d6-177"
-"2019-10-15T08:22:44Z","L Type Star","Skaude AA-A h294"
-"2019-10-15T08:16:39Z","Neutron Star","Skaude QU-O e6-41"
-"2019-10-15T07:45:40Z","M Type Star","Skaude II-X c3-32"
-"2019-10-13T09:02:31Z","Standard gas giant","Moanza"
-"2019-10-11T04:51:59Z","Viride Peduncle Tree","Prie Aoc KA-H c10-1"
-"2019-10-11T04:50:20Z","Ostrinum Peduncle Tree","Prie Aoc KA-H c10-1"
-"2019-10-10T09:50:08Z","Ostrinum Peduncle Tree","Prie Aoc IL-P d5-2"
-"2019-10-10T09:21:35Z","Non Terraformable","Prie Aoc XN-B c13-2"
-"2019-10-10T09:06:31Z","Non Terraformable","Prie Aoc NR-N d6-11"
-"2019-10-10T08:41:17Z","Non Terraformable","Prie Aoc UD-K d8-6"
-"2019-10-10T08:28:12Z","M Type Star","Prie Aoc KC-D d12-0"
-"2019-10-10T08:26:45Z","Non Terraformable","Prie Aoc KC-D d12-3"
-"2019-10-10T08:13:57Z","Non Terraformable","Prie Aoc NJ-X c28-1"
-"2019-10-01T08:07:19Z","Non Terraformable","Fachoa BI-M c10-0"
-"2019-09-29T10:25:25Z","L Type Star","Eupaild TV-Y b20-0"
-"2019-09-29T07:55:45Z","Non Terraformable","Eupaild LI-I c26-0"
-"2019-09-28T19:51:42Z","Non Terraformable","Striechaea ZI-T c6-0"
-"2019-09-28T17:15:21Z","G Type Star","Striechaea TD-K c11-0"
-"2019-09-22T17:15:25Z","Non Terraformable","Skuequ TR-F c1"
-"2019-09-21T06:10:07Z","Y Type Star","Cheia Eork FC-S d5-2"
-"2019-09-21T00:18:37Z","Non Terraformable","Pyroo Eork YK-F c14-0"
-"2019-09-19T05:49:59Z","Earthlike body","Choi Dryou WY-Q c21-0 1"
-"2019-09-17T22:56:37Z","T Tauri Star","Ceeckia BV-X e1-0"
-"2019-09-17T15:55:03Z","G Type Star","Cliewuae NF-Y c17-0"
-"2019-09-14T07:12:38Z","Standard gas giant","Ploxiae ZP-V d3-39"
-"2019-09-14T04:20:32Z","Standard gas giant","Grea Bloae OG-B c2-1"
-"2019-09-14T03:55:07Z","Non Terraformable","Blue Bloae XV-B d14-41"
-"2019-09-14T03:17:34Z","Non Terraformable","Blue Bloae YQ-K d9-8"
-"2019-09-14T03:16:23Z","Terraformable","Blue Bloae YQ-K d9-8"
-"2019-09-14T03:05:32Z","Non Terraformable","Blue Bloae JP-A c16-5"
-"2019-09-13T23:12:39Z","Non Terraformable","Drooti DX-Y c2-0"
-"2019-09-13T22:55:17Z","Neutron Star","Auphailf FE-F d12-3"
-"2019-09-13T07:24:36Z","F Type Star","Flyai Graae DG-M d8-2"
-"2019-09-13T07:23:03Z","Non Terraformable","Flyai Graae AG-A c16-1"
-"2019-09-13T01:40:14Z","Non Terraformable","Swuemaei YO-Y d1-3"
-"2019-09-12T02:53:58Z","Non Terraformable","Slatchoea ZL-W c18-4"
-"2019-09-07T08:29:51Z","G Type Star","Praea Freau XU-G d10-0"
-"2019-09-01T08:50:01Z","Terraformable","Gyrafaae OD-T d3-1"
-"2019-09-01T08:48:22Z","M Type Star","Dryi Brai DC-O c6-0"
-"2019-08-30T06:45:42Z","Non Terraformable","Yepoi JC-B c27-0"
-"2019-08-29T04:14:00Z","F Type Star","Neamue MX-B d13-4"
-"2019-08-28T08:24:41Z","L Type Star","Eorm Fraae ZV-U c3-0"
-"2019-08-28T01:13:33Z","Crystalline Shards","Eiphain SX-U d2-13"
-"2019-08-21T06:13:02Z","Non Terraformable","Rifee VI-K d8-16"
-"2019-08-18T21:40:01Z","Standard gas giant","Hedgau ZJ-I d9-8"
-"2019-08-17T07:30:51Z","Standard gas giant","Bludgeou UT-I d9-13"
-"2019-08-17T07:08:02Z","Non Terraformable","Bludgeou SN-K d8-7"
-"2019-08-17T07:01:56Z","Non Terraformable","Bludgeou BZ-Y c14-2"
-"2019-08-17T06:51:17Z","Non Terraformable","Phoo Airgh OP-F c11-2"
-"2019-08-14T05:29:45Z","Water Ice Fumarole","Schafaei AR-M c7-2"
-"2019-08-08T05:12:43Z","Earthlike body","Hedgea AZ-S d3-42 B 6"
-"2019-08-07T08:27:54Z","Earthlike body","Slegue LO-X d2-31 3"
-"2019-08-07T08:22:08Z","Earthlike body","Slegue LO-X d2-31 3"
-"2019-08-07T00:23:34Z","Earthlike body","Phrooe Hypooe RX-A d1-4 3"
-"2019-08-04T05:39:52Z","Standard gas giant","Hypiae Aescs EC-T c17-0"
-"2019-08-03T06:50:58Z","Terraformable","Myoideau GR-W d1-0"
-"2019-08-03T03:55:54Z","Silicate Vapour Gas Vent","Eafots FB-F d11-20"
-"2019-07-14T07:36:10Z","Common Thargoid Barnacle","Merope"
-"2019-06-28T08:49:09Z","T Type Star","Thailu NH-T b37-0"
-"2019-06-27T21:48:27Z","Iron Magma Lava Spout","Thailu WC-F b45-0"
-"2019-06-27T06:54:20Z","Non Terraformable","Thaileae SI-I c26-0"
-"2019-06-27T06:53:03Z","K Type Star","Thaileae SI-I c26-0"
-"2019-06-26T21:52:46Z","Standard gas giant","Cralou AA-Y d1-1"
-"2019-06-19T03:12:11Z","Non Terraformable","Prua Dryou TQ-I c24-1"
-"2019-06-17T23:49:53Z","Iron Magma Lava Spout","Swoiphs SK-D c13-0"
-"2019-06-14T04:12:56Z","Prasinum Metallic Crystals","Skaudai AM-B d14-138"
-"2019-06-14T02:51:15Z","Roseum Brain Tree","Prua Phoe TS-B d43"
-"2019-06-11T23:51:34Z","B Types","Blua Eaec OI-T e3-350"
-"2019-06-09T22:57:25Z","Non Terraformable","Gru Eork SN-Y c15-0"
-"2019-06-06T23:51:59Z","Earthlike body","Blau Thaa DA-X c2-0 2"
-"2019-06-05T08:21:39Z","O Type Stars","HD 193793"
-"2019-05-27T10:43:17Z","Non Terraformable","Flyua Hype JE-O d7-47"
-"2019-05-27T08:11:08Z","Non Terraformable","Blaa Dryou BB-M d8-38"
-"2019-05-27T07:01:17Z","M Type Star","Greae Eoq JK-D d13-7"
-"2019-05-22T17:32:17Z","Non Terraformable","Slulee DK-I d9-99"
-"2019-05-22T06:42:54Z","Terraformable","Eodgols KP-Q b46-7"
-"2019-05-21T19:08:37Z","Earthlike body","Ogairy HY-G c24-4045 AB 8"
-"2019-05-21T04:50:12Z","Standard gas giant","Phoi Auscs VS-T d3-5984"
-"2019-05-20T15:58:29Z","B Types","Sagittarius A*"
-"2019-05-19T22:50:56Z","M Type Star","Dryau Aowsy ZA-W c15-2485"
-"2019-05-19T19:22:29Z","M Type Star","Pueloe WO-Z c13-201"
-"2019-05-15T22:57:59Z","B Types","Hypheerld PZ-O e6-12"
-"2019-05-15T08:00:21Z","F Type Star","Oochoss PD-I d10-2"
-"2019-05-15T07:41:57Z","Non Terraformable","Oochoss UJ-G d11-0"
-"2019-05-03T08:11:44Z","Non Terraformable","Col 285 Sector TY-R d4-74"
+Name_Localised,System,timestamp
+Non Terraformable,Flyua Hype JE-O d7-47,2019-05-27T10:43:17Z
+Water Ice Fumarole,Schafaei AR-M c7-2,2019-08-14T05:29:45Z
+Earthlike body,Slegue LO-X d2-31 3,2019-08-07T08:22:08Z
+Earthlike body,Slegue LO-X d2-31 3,2019-08-07T08:27:54Z
+Non Terraformable,Prie Aoc XN-B c13-2,2019-10-10T09:21:35Z
+Non Terraformable,Swuemaei YO-Y d1-3,2019-09-13T01:40:14Z
+B Types,Sagittarius A*,2019-05-20T15:58:29Z
+Standard gas giant,Bludgeou UT-I d9-13,2019-08-17T07:30:51Z
+G Type Star,Striechaea TD-K c11-0,2019-09-28T17:15:21Z
+Earthlike body,Ogairy HY-G c24-4045 AB 8,2019-05-21T19:08:37Z
+Standard gas giant,Hypiae Aescs EC-T c17-0,2019-08-04T05:39:52Z
+Iron Magma Lava Spout,Thailu WC-F b45-0,2019-06-27T21:48:27Z
+Non Terraformable,Col 285 Sector TY-R d4-74,2019-05-03T08:11:44Z
+Non Terraformable,Blue Bloae YQ-K d9-8,2019-09-14T03:17:34Z
+M Type Star,Skaude II-X c3-32,2019-10-15T07:45:40Z
+Non Terraformable,Prie Aoc UD-K d8-6,2019-10-10T08:41:17Z
+Non Terraformable,Skuequ TR-F c1,2019-09-22T17:15:25Z
+L Type Star,Skaude AA-A h294,2019-10-15T08:22:44Z
+Non Terraformable,Fachoa BI-M c10-0,2019-10-01T08:07:19Z
+Terraformable,Gyrafaae OD-T d3-1,2019-09-01T08:50:01Z
+Non Terraformable,Eupaild LI-I c26-0,2019-09-29T07:55:45Z
+Non Terraformable,Phoo Airgh OP-F c11-2,2019-08-17T06:51:17Z
+Earthlike body,Blau Thaa DA-X c2-0 2,2019-06-06T23:51:59Z
+M Type Star,Prie Aoc KC-D d12-0,2019-10-10T08:28:12Z
+F Type Star,Oochoss PD-I d10-2,2019-05-15T08:00:21Z
+Non Terraformable,Prie Aoc NR-N d6-11,2019-10-10T09:06:31Z
+Non Terraformable,Flimbu NK-E d12-6,2019-10-28T10:45:11Z
+Non Terraformable,Bludgeou SN-K d8-7,2019-08-17T07:08:02Z
+Neutron Star,Skaude QU-O e6-41,2019-10-15T08:16:39Z
+Non Terraformable,Blaa Dryou BB-M d8-38,2019-05-27T08:11:08Z
+Non Terraformable,Pyroo Eork YK-F c14-0,2019-09-21T00:18:37Z
+Non Terraformable,Slulee DK-I d9-99,2019-05-22T17:32:17Z
+Non Terraformable,Oochoss UJ-G d11-0,2019-05-15T07:41:57Z
+O Type Stars,HD 193793,2019-06-05T08:21:39Z
+Non Terraformable,Thaileae SI-I c26-0,2019-06-27T06:54:20Z
+Earthlike body,Choi Dryou WY-Q c21-0 1,2019-09-19T05:49:59Z
+Non Terraformable,Prua Dryou TQ-I c24-1,2019-06-19T03:12:11Z
+Iron Magma Lava Spout,Kyloopa ZK-O d6-2,2019-10-25T08:38:38Z
+Common Thargoid Barnacle,Merope,2019-07-14T07:36:10Z
+Non Terraformable,Blue Bloae XV-B d14-41,2019-09-14T03:55:07Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:07:42Z
+Non Terraformable,Flimbu EH-U d3-6,2019-10-29T06:11:42Z
+Non Terraformable,Drooti DX-Y c2-0,2019-09-13T23:12:39Z
+Rubellum Peduncle Tree,Hypi Chroa QV-J c23-1,2019-10-25T10:56:20Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:57:49Z
+Non Terraformable,Blue Bloae JP-A c16-5,2019-09-14T03:05:32Z
+Non Terraformable,Slatchoea ZL-W c18-4,2019-09-12T02:53:58Z
+M Type Star,Dryi Brai DC-O c6-0,2019-09-01T08:48:22Z
+M Type Star,Dryau Aowsy ZA-W c15-2485,2019-05-19T22:50:56Z
+Standard gas giant,Grea Bloae OG-B c2-1,2019-09-14T04:20:32Z
+Terraformable,Blue Bloae YQ-K d9-8,2019-09-14T03:16:23Z
+Iron Magma Lava Spout,Swoiphs SK-D c13-0,2019-06-17T23:49:53Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:31:56Z
+Non Terraformable,Graea Hypue XP-G d10-119,2019-11-01T09:08:48Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:26:22Z
+Roseum Brain Tree,Prua Phoe TS-B d43,2019-06-14T02:51:15Z
+Standard gas giant,Moanza,2019-10-13T09:02:31Z
+L Type Star,Eupaild TV-Y b20-0,2019-09-29T10:25:25Z
+Silicate Vapour Gas Vent,Eafots FB-F d11-20,2019-08-03T03:55:54Z
+B Types,Hypheerld PZ-O e6-12,2019-05-15T22:57:59Z
+Non Terraformable,Flimbu NK-E d12-6,2019-10-28T10:44:30Z
+Standard gas giant,Hedgau ZJ-I d9-8,2019-08-18T21:40:01Z
+Viride Peduncle Tree,Prie Aoc KA-H c10-1,2019-10-11T04:51:59Z
+G Type Star,Cliewuae NF-Y c17-0,2019-09-17T15:55:03Z
+Non Terraformable,Yepoi JC-B c27-0,2019-08-30T06:45:42Z
+Non Terraformable,Bludgeou BZ-Y c14-2,2019-08-17T07:01:56Z
+K Type Star,Thaileae SI-I c26-0,2019-06-27T06:53:03Z
+B Types,Blua Eaec OI-T e3-350,2019-06-11T23:51:34Z
+Standard gas giant,Cralou AA-Y d1-1,2019-06-26T21:52:46Z
+Non Terraformable,Pyraleau MI-Q d6-177,2019-10-15T09:19:19Z
+L Type Star,Eorm Fraae ZV-U c3-0,2019-08-28T08:24:41Z
+Terraformable,Eodgols KP-Q b46-7,2019-05-22T06:42:54Z
+Ostrinum Peduncle Tree,Prie Aoc KA-H c10-1,2019-10-11T04:50:20Z
+Earthlike body,Hedgea AZ-S d3-42 B 6,2019-08-08T05:12:43Z
+Non Terraformable,Striechaea ZI-T c6-0,2019-09-28T19:51:42Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:33:43Z
+T Tauri Star,Ceeckia BV-X e1-0,2019-09-17T22:56:37Z
+F Type Star,Flyai Graae DG-M d8-2,2019-09-13T07:24:36Z
+F Type Star,Neamue MX-B d13-4,2019-08-29T04:14:00Z
+Iron Magma Lava Spout,Kyloopa ZK-O d6-2,2019-10-25T08:42:49Z
+Crystalline Shards,Eiphain SX-U d2-13,2019-08-28T01:13:33Z
+Non Terraformable,Prie Aoc KC-D d12-3,2019-10-10T08:26:45Z
+Y Type Star,Cheia Eork FC-S d5-2,2019-09-21T06:10:07Z
+G Type Star,Praea Freau XU-G d10-0,2019-09-07T08:29:51Z
+Non Terraformable,Gru Eork SN-Y c15-0,2019-06-09T22:57:25Z
+Standard gas giant,Phoi Auscs VS-T d3-5984,2019-05-21T04:50:12Z
+Non Terraformable,Clookeou EC-D d12-6,2019-11-01T08:41:47Z
+Standard gas giant,Ploxiae ZP-V d3-39,2019-09-14T07:12:38Z
+Prasinum Metallic Crystals,Skaudai AM-B d14-138,2019-06-14T04:12:56Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:00:32Z
+Earthlike body,Phrooe Hypooe RX-A d1-4 3,2019-08-07T00:23:34Z
+M Type Star,Pueloe WO-Z c13-201,2019-05-19T19:22:29Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:53:25Z
+Non Terraformable,Graea Hypue XP-G d10-119,2019-11-01T09:08:23Z
+Terraformable,Myoideau GR-W d1-0,2019-08-03T06:50:58Z
+Neutron Star,Auphailf FE-F d12-3,2019-09-13T22:55:17Z
+M Type Star,Greae Eoq JK-D d13-7,2019-05-27T07:01:17Z
+T Type Star,Thailu NH-T b37-0,2019-06-28T08:49:09Z
+Non Terraformable,Rifee VI-K d8-16,2019-08-21T06:13:02Z
+Non Terraformable,Flyai Graae AG-A c16-1,2019-09-13T07:23:03Z
+Ostrinum Peduncle Tree,Prie Aoc IL-P d5-2,2019-10-10T09:50:08Z
+Non Terraformable,Prie Aoc NJ-X c28-1,2019-10-10T08:13:57Z
+Standard gas giant,Dryae Eaewsy KI-J c25-0,2019-08-06T03:49:57Z
+K Type Star,Engofy RQ-C c29-2,2019-06-29T22:52:40Z
+Terraformable,Striechaea EK-R c7-0,2019-09-28T17:21:09Z
+F Type Star,Engofy IZ-D d13-13,2019-06-29T23:21:10Z
+A Type Star,Prie Fruia CH-D d12-2,2019-09-07T23:26:56Z
+Silicate Vapour Fumarole,Myoideau GR-W d1-0,2019-08-03T08:14:32Z
+Caeruleum Lagrange Cloud,Skaudai AM-B d14-138,2019-06-14T04:10:55Z
+Non Terraformable,Synookio QM-W d1-64,2019-05-19T06:32:00Z
+Standard gas giant,Blooe Dryou DW-T d4-12,2019-06-29T03:57:41Z
+Sulphur Dioxide Gas Vent,Zunao PE-P c19-1659,2019-11-01T21:40:29Z
+Non Terraformable,Clookeou EC-D d12-6,2019-11-01T08:42:13Z
+Terraformable,Gyrafaae OD-T d3-1,2019-09-01T08:50:43Z
+Terraformable,Dryuae Chruia VD-J d9-5008,2019-05-20T20:06:10Z
+Standard gas giant,Slatchoi ID-R c21-2,2019-09-12T03:06:02Z
+Standard gas giant,Praea Freau XA-M c21-0,2019-09-07T08:55:07Z
+Non Terraformable,Skaude DJ-F d12-217,2019-10-15T08:16:02Z
+Non Terraformable,Pueloe IH-U c16-68,2019-05-19T19:31:42Z
+Terraformable,Praei Fruia JC-D d12-2,2019-09-08T23:40:53Z
+L Type Star,Puwaae HH-Y c0,2019-09-17T16:20:18Z
+Standard gas giant,Engofy EZ-D d13-28,2019-06-29T23:16:16Z
+Silicate Vapour Fumarole,Phae Phlai WY-R c4-2,2019-08-15T03:07:05Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:50:49Z
+Standard gas giant,Engofy EZ-D d13-28,2019-06-29T23:19:04Z
+Sulphur Dioxide Fumarole,Col 359 Sector TW-I b11-7,2019-05-30T06:58:27Z
+Earthlike body,Blua Eoq UA-C d14-9 2,2019-06-19T10:26:24Z
+Prasinum Metallic Crystals,Flyiedge NI-V b34-1,2019-06-15T04:55:49Z
+DA Type Star,LHS 253,2019-05-12T12:19:31Z
+Non Terraformable,Flyai Graae GM-H c12-2,2019-09-13T07:12:42Z
+T Type Star,Blue Bloae JP-A c16-5,2019-09-14T03:04:51Z
+Non Terraformable,Myoideau GR-W d1-0,2019-08-03T06:50:35Z
+Standard gas giant,Preou Thoe SS-U d2-19,2019-08-19T00:26:37Z
+Sulphur Dioxide Fumarole,Tiefua FK-A d15,2019-08-16T06:44:13Z
+Non Terraformable,Myoagea HU-E c25-0,2019-09-07T10:18:12Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:02:30Z
+Non Terraformable,Eupaild KN-Q d6-4,2019-09-29T10:11:28Z
+Non Terraformable,Moanza,2019-10-13T09:02:38Z
+Iron Magma Lava Spout,Kyloopa ZK-O d6-2,2019-10-25T08:17:53Z
+Standard gas giant,Slulee PW-N d6-35,2019-05-22T17:45:33Z
+K Type Star,Yepoi JC-B c27-0,2019-08-30T06:45:39Z
+Terraformable,Myoideau NI-T d3-0,2019-08-04T05:02:53Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:26:14Z
+Earthlike body,Eembaisk QR-T c4-292 2,2019-05-21T00:28:43Z
+Standard gas giant,Blu Euq WD-T d3-76,2019-05-18T06:17:00Z
+Earthlike body,Tiefua BB-O d6-10 2,2019-08-16T07:54:25Z
+Earthlike body,Eishat ZN-F c0 A 1,2019-09-17T04:42:56Z
+Earthlike body,Praei Fruia JC-D d12-2 6,2019-09-09T00:16:28Z
+A Type Star,Oochoss PD-I d10-1,2019-05-15T07:57:34Z
+B Types,Graea Eoq YA-W e2-1,2019-06-23T06:32:17Z
+Ostrinum Peduncle Tree,Prie Aoc KA-H c10-1,2019-10-11T04:51:42Z
+K Type Giant,HIP 6971,2019-10-14T04:11:49Z
+Non Terraformable,Myoagaae BC-D d12-4,2019-09-08T06:09:21Z
+Non Terraformable,Eisharr OZ-Z c16-0,2019-09-20T06:06:38Z
+K Type Star,Synookio GR-W d1-115,2019-05-22T06:27:08Z
+F Type Star,Thaileae HY-F d12-2,2019-06-27T06:56:33Z
+Non Terraformable,Hypao Auwsy AK-A c29-0,2019-10-29T09:08:34Z
+Non Terraformable,IC 2944 Sector EQ-O d6-0,2019-06-19T10:09:57Z
+Purpureum Metallic Crystals,Flyiedge NI-V b34-1,2019-06-15T05:01:51Z
+Earthlike body,Systease XL-P c5-0 2,2019-09-04T04:44:33Z
+O Type Supergiant,HR 5680,2019-06-09T05:51:52Z
+Non Terraformable,Blaa Dryou SJ-Y d1-15,2019-05-27T07:07:23Z
+Roseum Brain Tree,Prua Phoe TS-B d43,2019-06-14T02:50:28Z
+Silicate Magma Lava Spout,Gria Eork CS-N c9-3,2019-06-22T06:43:25Z
+G Type Star,Zuni WP-G c10-1922,2019-05-20T02:02:57Z
+K Type Star,Praea Freau PJ-P c19-0,2019-09-07T08:27:35Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:19:19Z
+Non Terraformable,Oochoss UJ-G d11-0,2019-05-15T07:39:09Z
+L Type Star,Pueloe EB-W c15-251,2019-05-19T19:29:19Z
+Standard gas giant,Hedgau ZJ-I d9-8,2019-08-18T21:14:17Z
+Standard gas giant,Eorm Fraae UK-O d6-0,2019-08-29T01:20:35Z
+A Type Star,Pyroo Eork UG-S d5-4,2019-09-21T00:41:43Z
+Non Terraformable,Gru Eork RP-R c20-3,2019-05-27T06:22:49Z
+Silicate Vapour Fumarole,Sifaea BL-P d5-76,2019-07-07T20:10:39Z
+Prasinum Metallic Crystals,Flyiedge NI-V b34-1,2019-06-15T04:54:11Z
+Standard gas giant,Hedgau DE-T d3-14,2019-08-17T22:19:54Z
+Neutron Star,Blue Bloae OJ-F d12-66,2019-09-14T03:46:36Z
+Neutron Star,Gru Eork FG-Y g0,2019-06-09T23:06:36Z
+Standard gas giant,Muemea ZU-P d5-0,2019-08-31T04:44:52Z
+Non Terraformable,Eodgols KP-Q b46-7,2019-05-22T06:44:47Z
+Sulphur Dioxide Fumarole,Tiefua FK-A d15,2019-08-15T06:45:49Z
+Non Terraformable,Zuni MD-K d8-2246,2019-05-20T02:16:00Z
+Earthlike body,Prai Bliae FT-G d11-2 2,2019-09-13T05:17:08Z
+Sulphur Dioxide Fumarole,Col 359 Sector TW-I b11-7,2019-05-30T17:15:18Z
+A Type Star,Bloo Drye ZJ-X d2-37,2019-06-25T06:17:29Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:11:04Z
+Earthlike body,Ploi Airg JD-R c18-5 BC 1,2019-08-25T01:23:55Z
+K Type Star,Flyai Blou WU-M d8-4,2019-09-28T16:57:29Z
+Standard gas giant,Eor Chruia ZV-M d7-6243,2019-05-21T03:02:10Z
+Non Terraformable,Oochoss PD-R d5-1,2019-05-15T09:02:14Z
+Sulphur Dioxide Gas Vent,HIP 12099,2019-05-25T23:56:59Z
+Non Terraformable,Oochoss PD-I d10-1,2019-05-15T07:58:29Z
+Standard gas giant,Myoagea HU-E c25-0,2019-09-07T10:20:22Z
+Earthlike body,Auconds DJ-R b24-0 B 1,2019-07-06T02:52:59Z
+Non Terraformable,Hypiae Freau PG-Y d2,2019-08-30T06:50:54Z
+A Type Star,Praea Freau NH-D d12-0,2019-09-07T10:06:50Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:50:43Z
+F Type Star,Flimbu HJ-G d11-2,2019-10-29T05:38:42Z
+Carbon Dioxide Ice Fumarole,Eiphain SX-U d2-13,2019-08-28T01:11:21Z
+Non Terraformable,Gru Eork TE-F d12-34,2019-05-27T06:50:04Z
+Silicate Vapour Gas Vent,Myoideau GR-W d1-0,2019-08-03T08:14:59Z
+Earthlike body,Kasu EA-A d1 CDEF 4,2019-09-02T23:21:51Z
+Standard gas giant,Stuemeae OS-U c2-5702,2019-05-20T16:00:44Z
+Guardian Beacon,Synuefe KU-F b44-4,2019-07-16T07:04:39Z
+T Type Star,Pueloe UZ-O c19-156,2019-05-19T19:38:18Z
+Neutron Star,Baukoa LC-U d3-7286,2019-05-21T02:15:35Z
+Crystalline Shards,Ploxiae ZP-V d3-39,2019-09-14T07:35:09Z
+Caeruleum Peduncle Pod,Weqee OI-Y c28-0,2019-10-11T22:44:44Z
+Terraformable,Fleckeae JZ-D d13-0,2019-09-18T02:13:08Z
+Standard gas giant,Struia Eork TK-A c3-1,2019-09-18T20:12:34Z
+Guardian Codex,Skaudai AM-B d14-138,2019-06-14T04:43:37Z
+K Type Star,Rhiefue WN-E c26-0,2019-08-28T08:12:51Z
+T Tauri Star,Dryooe Eaescs FZ-H c26-1,2019-08-06T05:03:08Z
+Silicate Vapour Fumarole,Sifaea BL-P d5-76,2019-07-07T08:14:39Z
+A Type Star,Greou Prou IN-H d11-3,2019-09-12T06:50:13Z
+Standard gas giant,Striechaea TD-K c11-0,2019-09-28T17:15:56Z
+Water Ice Fumarole,Prae Drye AC-S c5-0,2019-06-04T06:27:16Z
+M Type Star,Zuni WP-G c10-1922,2019-05-20T02:04:34Z
+Neutron Star,Engofy EZ-D d13-28,2019-06-29T23:15:49Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:34:22Z
+Ostrinum Peduncle Tree,Flimbu NK-E d12-6,2019-10-29T04:18:06Z
+F Type Star,Bludgeou NB-O d6-8,2019-08-17T06:59:23Z
+Terraformable,Eiphain BV-O d6-1,2019-08-28T05:46:38Z
+L Type Star,Prieluia PS-S c17-30,2019-05-19T03:57:11Z
+Standard gas giant,Oochoss CM-Q c20-0,2019-05-15T08:06:58Z
+Non Terraformable,Zuni MD-K d8-2246,2019-05-20T02:15:01Z
+Earthlike body,Cumboae FW-N d6-3 C 6,2019-08-30T04:31:11Z
+Crystalline Shards,Tiefua FK-A d15,2019-08-15T06:45:31Z
+M Type Star,Graea Hypue SY-S e3-20,2019-11-01T09:02:55Z
+Y Type Star,Prieluia TD-K d8-262,2019-05-19T03:53:35Z
+Non Terraformable,Plaa Ain AL-N c20-66,2019-05-19T05:25:04Z
+Candidum Peduncle Pod,Prie Aoc IL-P d5-2,2019-10-10T09:51:08Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:48:10Z
+Non Terraformable,Niju,2019-05-08T11:21:00Z
+Non Terraformable,Gru Eork SN-Y c15-0,2019-06-09T22:58:30Z
+Earthlike body,Tiefua BB-O d6-10 2,2019-08-16T07:39:36Z
+B Types,Greou Prou VZ-O e6-1,2019-09-12T06:52:58Z
+Silicate Vapour Fumarole,Prue Eohm AW-C d6,2019-08-07T09:26:35Z
+Non Terraformable,Thaileae IY-F d12-0,2019-06-27T10:40:48Z
+Non Terraformable,Blue Bloae YQ-K d9-8,2019-09-14T03:17:17Z
+Guardian Codex,Skaudai AM-B d14-138,2019-06-14T04:45:27Z
+Non Terraformable,Engofy EZ-D d13-28,2019-06-29T23:16:25Z
+M Type Star,Mekretu,2019-04-30T07:09:24Z
+O Type Stars,Dryio Flyuae EG-Y g406,2019-06-12T23:31:40Z
+Standard gas giant,Prie Fruia FI-I c23-0,2019-09-07T23:41:00Z
+Standard gas giant,Blaa Gree TT-L c10-2,2019-09-14T05:24:22Z
+Y Type Star,Oochoss PD-R d5-1,2019-05-15T09:02:20Z
+Standard gas giant,Flyai Graae GM-H c12-2,2019-09-13T07:13:37Z
+Earthlike body,Prie Aoc HV-X c14-2 1,2019-10-10T08:50:29Z
+A Type Star,Antliae Sector FG-Y d145,2019-05-03T08:09:39Z
+B Types,Pyrooe Eohn AB-W e2-0,2019-09-17T07:57:20Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:37:14Z
+S Type Giant,Wredguia XD-K d8-24,2019-07-08T11:01:07Z
+Terraformable,Engofy PX-J c25-3,2019-06-30T00:10:19Z
+Prasinum Bioluminescent Anemone,Cralou AA-A h35,2019-06-26T22:42:41Z
+G Type Star,Pueloe JR-N d6-157,2019-05-19T19:24:39Z
+Viride Peduncle Tree,Weqee OI-Y c28-0,2019-10-11T22:45:02Z
+Silicate Vapour Fumarole,Synuefue FN-Y c28-0,2019-06-04T00:48:40Z
+L Type Star,Prie Aoc JM-L c21-1,2019-10-10T08:30:20Z
+Standard gas giant,Weqee OI-Y c28-0,2019-10-11T22:31:12Z
+Neutron Star,Boewnst LY-G d11-1469,2019-06-13T06:50:59Z
+Caeruleum Peduncle Tree,Kyloopa GG-X d1-6,2019-10-25T09:51:31Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:36:28Z
+Earthlike body,Eafosty ZR-D c12-1 9,2019-08-10T09:14:02Z
+T Type Star,Gyrafaae EN-B c13-0,2019-09-02T21:37:46Z
+K Type Star,Dryau Aowsy JC-D c12-115,2019-05-19T22:45:58Z
+Earthlike body,Blanco 1 Sector YZ-P c5-1 1,2019-05-15T03:27:04Z
+Amphora Plant,Cralou QN-S d4-1,2019-06-27T01:57:25Z
+Non Terraformable,Ogairy OX-L c7-2536,2019-05-19T23:23:42Z
+G Type Star,Flimbu NK-E d12-6,2019-10-28T10:43:52Z
+Caeruleum Peduncle Tree,Weqee OI-Y c28-0,2019-10-11T22:45:29Z
+Standard gas giant,Praei Fruia WV-E d11-21,2019-09-08T22:20:41Z
+K Type Star,Flimbu LM-O c21-1,2019-10-29T05:39:56Z
+Standard gas giant,Blooe Dryou ZN-K c11-2,2019-06-29T02:43:09Z
+Carbon Dioxide Ice Fumarole,Cralou IC-G b3-0,2019-06-26T08:26:59Z
+Standard gas giant,Engofy EZ-D d13-28,2019-06-29T23:16:50Z
+Non Terraformable,Eupaild KN-Q d6-4,2019-09-29T10:12:47Z
+Standard gas giant,Choi Dryou XJ-P c22-0,2019-09-19T05:48:00Z
+Earthlike body,Gyrafaae SU-G d10-0 2,2019-09-02T22:10:38Z
+Non Terraformable,Cumboae VX-T c3-0,2019-08-29T06:52:28Z
+L Type Star,Phoo Airgh BL-O c6-0,2019-08-17T06:49:51Z
+K Type Star,Eupaild KN-Q d6-4,2019-09-29T10:10:33Z
+Non Terraformable,Plaa Ain VS-U d2-295,2019-05-19T04:54:13Z
+T Type Star,Dryau Aowsy RQ-C c26-1281,2019-05-19T23:07:23Z
+B Types,Dryae Eaewsy HN-S e4-2,2019-08-05T07:41:38Z
+Earthlike body,Gyrafaae NA-M c21-0 8,2019-09-02T22:20:41Z
+T Type Star,Myoagea HU-E c25-0,2019-09-07T10:16:21Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:03:16Z
+K Type Star,Slatchoea ZL-W c18-4,2019-09-12T02:51:28Z
+A Type Star,Eupaild HH-S d5-5,2019-09-29T10:23:45Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:32:02Z
+Standard gas giant,Col 359 Sector AL-M c8-4,2019-05-07T02:57:35Z
+Earthlike body,Praei Fruia JC-D d12-2 6,2019-09-08T23:39:48Z
+G Type Star,Eisharr JN-D c15-0,2019-09-21T00:09:46Z
+Water Ice Fumarole,Hypiae Aescs JI-A c14-0,2019-08-04T20:02:01Z
+Standard gas giant,Blie Thoi WO-Z d0,2019-06-05T07:11:03Z
+Non Terraformable,Beagle Point,2019-09-17T18:04:02Z
+Sulphur Dioxide Gas Vent,HIP 12099,2019-05-25T23:58:44Z
+Earthlike body,Flyua Hype PY-W c3-4 A 1,2019-05-27T10:09:27Z
+Non Terraformable,Zuni MO-Z c13-2284,2019-05-20T02:09:28Z
+DC Type Star,LP 63-267,2019-05-24T23:37:44Z
+Non Terraformable,Eupaild KN-Q d6-4,2019-09-29T10:11:11Z
+Earthlike body,Grea Eohn LM-Y c3-0 A 6,2019-07-03T00:13:38Z
+Non Terraformable,Hypiae Aescs AW-L c21-0,2019-08-04T05:29:03Z
+Common Thargoid Barnacle,Merope,2019-07-14T08:05:26Z
+G Type Star,Prie Aoc NI-B d13-1,2019-10-10T08:21:18Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:54:27Z
+Non Terraformable,Muemea IH-M d7-0,2019-08-31T05:06:14Z
+Non Terraformable,Slatchoi FZ-D d13-13,2019-09-12T04:11:50Z
+Prasinum Metallic Crystals,Pyraleau XS-T c19-23,2019-06-15T07:59:33Z
+Standard gas giant,Flyua Hype JE-O d7-47,2019-05-27T10:43:09Z
+Earthlike body,Myoagaae BC-D d12-4 A 7,2019-09-08T06:01:31Z
+Standard gas giant,Blu Ain AD-R c18-695,2019-05-22T03:18:42Z
+Standard gas giant,Prua Dryou DT-N c21-0,2019-06-19T01:36:15Z
+Non Terraformable,Rhiefue WN-E c26-0,2019-08-28T08:14:45Z
+Standard gas giant,Greae Eoq DC-D c28-3,2019-05-27T07:04:02Z
+Iron Magma Lava Spout,Thailu WC-F b45-0,2019-06-27T11:59:50Z
+Earthlike body,Gria Eoq NT-F d12-34 A 6,2019-06-24T05:33:16Z
+K Type Star,Cho Eurk DP-Z c13-0,2019-09-17T15:48:29Z
+Non Terraformable,Flyai Blou ZA-L d9-0,2019-09-28T16:55:21Z
+Non Terraformable,Prie Aoc NI-B d13-1,2019-10-10T08:22:42Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:33:05Z
+Earthlike body,Prie Aoc HV-X c14-2 1,2019-10-10T09:00:52Z
+Earthlike body,Engofy PX-J c25-3 A 4,2019-06-30T00:18:47Z
+Standard gas giant,Blu Ain UH-I c23-783,2019-05-22T02:57:52Z
+Terraformable,Cyoangooe ZG-S d5-1,2019-10-09T04:40:26Z
+Caeruleum Peduncle Tree,Eembaists TV-W c2-0,2019-10-28T09:50:44Z
+Earthlike body,Byua Euq BK-R b18-4 A 6,2019-05-22T23:04:11Z
+Purpureum Metallic Crystals,Thaileia MC-V b31-0,2019-06-10T10:10:41Z
+Ostrinum Peduncle Tree,Flimbu NK-E d12-6,2019-10-29T04:13:21Z
+G Type Star,Thaileae RC-K c25-0,2019-06-27T06:56:02Z
+Water Ice Fumarole,Blooe Flyao UA-H c13-2,2019-10-08T03:16:30Z
+Standard gas giant,Dryi Chreou SM-W d1-2,2019-08-31T08:32:23Z
+Neutron Star,Eafoth LY-Z d13-5,2019-08-10T06:05:31Z
+F Type Star,Dryau Aowsy CL-P d5-2011,2019-05-19T22:44:47Z
+Terraformable,Striechaea FX-A d1-3,2019-09-29T07:38:15Z
+Guardian Codex,Skaudai AM-B d14-138,2019-06-14T04:54:13Z
+M Type Star,Slatchoi CX-S c20-1,2019-09-12T02:57:54Z
+Standard gas giant,Weqee OI-Y c28-0,2019-10-11T22:32:53Z
+Y Type Star,Hedgau QO-Z d13-24,2019-08-18T23:16:45Z
+Non Terraformable,Myoagaae BC-D d12-4,2019-09-08T06:01:19Z
+Rubeum Metallic Crystals,Bleae Thaa CQ-N b7-2,2019-06-07T07:00:35Z
+T Tauri Star,Muemea MX-U e2-0,2019-08-31T05:05:18Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:49:38Z
+Earthlike body,Bleou Thoi DM-U d3-1 B 5,2019-06-06T01:54:35Z
+B Types,Glaitie MS-U e2-1,2019-09-10T07:08:43Z
+L Type Star,Hypao Auwsy AK-A c29-0,2019-10-29T09:04:57Z
+K Type Star,Pueloe WO-Z c13-201,2019-05-19T19:22:20Z
+Terraformable,Pueloe HC-D d12-2300,2019-05-19T19:45:08Z
+Non Terraformable,Zuni MD-K d8-2246,2019-05-20T02:15:10Z
+Non Terraformable,Skaude BW-A c2-27,2019-10-15T07:45:19Z
+Sulphur Dioxide Fumarole,Ploxiae ZP-V d3-39,2019-09-14T07:35:31Z
+Non Terraformable,Eisharr UL-W c18-0,2019-09-20T05:54:06Z
+Neutron Star,Skaude AP-A d17,2019-06-11T06:26:54Z
+Water Ice Fumarole,Prae Drye AC-S c5-0,2019-06-04T06:09:18Z
+Earthlike body,Iowhogy PL-F c11-1 AB 3,2019-08-27T04:58:11Z
+Water Ice Fumarole,Schafaei AR-M c7-2,2019-08-14T05:29:31Z
+Neutron Star,Pleia Aoc JQ-P d5-8,2019-10-11T07:39:36Z
+Standard gas giant,Eos Aowsy ZE-A d1023,2019-05-21T23:39:41Z
+L Type Star,Bla Dryoae ZW-K b0,2019-06-29T22:46:12Z
+Non Terraformable,Striechaea EK-R c7-0,2019-09-28T17:21:41Z
+Standard gas giant,Phipaa EH-M d7-5816,2019-05-20T18:10:23Z
+L Type Star,Eisharr HN-D c15-0,2019-09-20T23:56:15Z
+T Tauri Star,Engorshch FN-Q d6-1,2019-06-30T03:56:29Z
+F Type Star,Gyrafaae OD-T d3-1,2019-09-01T08:48:46Z
+Guardian Relic Tower,Skaudai AM-B d14-138,2019-06-14T04:40:53Z
+Prasinum Metallic Crystals,Bleae Thaa CQ-N b7-2,2019-06-07T07:05:40Z
+Terraformable,Praea Freau XU-G d10-0,2019-09-07T08:32:28Z
+Non Terraformable,Myrielk ZV-E c11-1226,2019-05-20T02:45:15Z
+Non Terraformable,Rhiefue WN-E c26-0,2019-08-28T08:14:51Z
+Terraformable,Myoagea HO-G c24-0,2019-09-07T21:36:13Z
+T Tauri Star,Rifee EW-D b26-0,2019-08-21T05:04:46Z
+Standard gas giant,Skuequ TR-F c1,2019-09-22T17:15:43Z
+Terraformable,Ogairy PQ-C c26-2469,2019-05-20T00:01:49Z
+Neutron Star,Greae Eoq OQ-B d14-0,2019-05-27T07:04:47Z
+Non Terraformable,Bludgeou SN-K d8-7,2019-08-17T07:09:00Z
+Non Terraformable,Flyai Blou ZA-L d9-0,2019-09-28T16:55:05Z
+A Type Star,Hypiae Freau PG-Y d2,2019-08-30T06:48:02Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:01:24Z
+Earthlike body,Nyautheou BG-A c3-1 A 6,2019-09-23T23:08:19Z
+Non Terraformable,Slatchoi CX-S c20-1,2019-09-12T02:57:57Z
+Crystalline Shards,Ploi Airg KR-N d6-34,2019-08-24T23:30:49Z
+Non Terraformable,Blu Ain OM-W d1-5495,2019-05-19T20:17:20Z
+F Type Star,Striechaea WB-S d5-4,2019-09-28T17:12:40Z
+Standard gas giant,HD 101298,2019-06-19T10:16:41Z
+Neutron Star,Flyai Blou YP-M d8-3,2019-09-28T17:11:03Z
+Non Terraformable,Prie Aoc KC-D d12-3,2019-10-10T08:27:10Z
+Non Terraformable,Oochoss UJ-G d11-0,2019-05-15T07:41:13Z
+Sulphur Dioxide Fumarole,Tiefua FK-A d15,2019-08-16T06:44:30Z
+Non Terraformable,Beagle Point,2019-09-17T18:04:34Z
+Standard gas giant,Blu Ain UH-I c23-783,2019-05-22T02:57:41Z
+Thargoid Interceptor Cyclops,HIP 16613,2019-06-08T09:05:58Z
+Y Type Star,Graea Hypue XP-G d10-119,2019-11-01T09:05:30Z
+Non Terraformable,Praea Freau PJ-P c19-0,2019-09-07T08:28:21Z
+Sulphur Dioxide Fumarole,Col 359 Sector TW-I b11-7,2019-05-29T00:51:37Z
+Guardian Beacon,Synuefe KU-F b44-4,2019-07-16T07:03:45Z
+DA Type Star,LHS 1838,2019-09-23T20:43:48Z
+F Type Star,Hypiae Freau TM-W d1-1,2019-08-30T07:04:05Z
+Non Terraformable,Slatchoi CX-J c25-1,2019-09-12T03:45:34Z
+Y Type Star,Blooe Dryou YA-U d4-0,2019-06-29T03:27:10Z
+Sulphur Dioxide Fumarole,Engofs SO-Z e0,2019-07-03T23:27:05Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:20:16Z
+Non Terraformable,Bludgeou SN-K d8-7,2019-08-17T07:07:22Z
+Non Terraformable,Blaa Dryou QT-G d11-75,2019-05-27T08:20:34Z
+Standard gas giant,Bloo Dryoae WX-B c16-0,2019-06-29T01:18:12Z
+Terraformable,Eorm Fraae UK-O d6-0,2019-08-29T01:15:57Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:25:14Z
+Neutron Star,Graea Hypue SY-S e3-20,2019-11-01T09:02:45Z
+Neutron Star,Stuenae XQ-L d8-9,2019-10-29T07:59:19Z
+M Type Star,Bla Dryoae WW-K b0,2019-06-29T22:34:19Z
+Prasinum Metallic Crystals,Flyiedge NI-V b34-1,2019-06-15T04:56:15Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:14:31Z
+Crystalline Shards,Eiphain SX-U d2-13,2019-08-28T01:42:16Z
+Non Terraformable,Hypao Auwsy MJ-G d11-10,2019-11-01T10:30:01Z
+Terraformable,Eupaild KN-Q d6-4,2019-09-29T10:11:23Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:07:36Z
+Non Terraformable,Myoagea HU-E c25-0,2019-09-07T10:18:54Z
+Standard gas giant,Flyue Bliae RW-F c13-0,2019-09-12T23:09:17Z
+T Tauri Star,Prua Phoe OX-S d4-80,2019-06-14T01:29:08Z
+Earthlike body,Lyruewry WF-F d11-22 5,2019-08-26T06:01:31Z
+Non Terraformable,Baukoa IG-Z c28-1356,2019-05-20T20:50:20Z
+Standard gas giant,Bleae Thua MG-F b53-2,2019-05-07T10:34:19Z
+T Type Star,Fachoa BI-M c10-0,2019-10-01T08:06:17Z
+Non Terraformable,Blua Eoq DS-Q c6-1,2019-06-19T09:35:53Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:54:55Z
+Terraformable,Pru Ain NX-B b27-14,2019-05-22T07:00:45Z
+Sulphur Dioxide Gas Vent,HIP 12099,2019-05-25T23:59:22Z
+Rubeum Metallic Crystals,NGC 6705 Sector AG-U b4-9,2019-06-15T09:02:27Z
+Y Type Star,Ogairy IG-Y d8723,2019-05-19T23:16:24Z
+Guardian Relic Tower,Skaudai AM-B d14-138,2019-06-14T04:36:59Z
+Non Terraformable,Engorshch YG-S d5-0,2019-06-30T03:39:24Z
+Earthlike body,Grea Eohn LM-Y c3-0 A 6,2019-07-02T23:35:05Z
+Standard gas giant,Myoagea HU-E c25-0,2019-09-07T10:20:02Z
+Rubeum Metallic Crystals,Skaudai AM-B d14-138,2019-06-14T04:14:04Z
+Terraformable,Graea Hypue XP-G d10-119,2019-11-01T09:05:39Z
+Thargoid Interceptor Cyclops,HIP 16613,2019-06-08T09:20:41Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:49:30Z
+Guardian Codex,Skaudai AM-B d14-138,2019-06-14T04:35:37Z
+Neutron Star,Phoo Airgh PI-T d3-12,2019-08-17T06:50:09Z
+Standard gas giant,Myoideau KX-U d2-2,2019-08-03T06:48:51Z
+Non Terraformable,Blaa Dryou WU-N d7-45,2019-05-27T08:02:56Z
+Water Ice Geyser,Greou Eoq UD-Z d1-35,2019-07-02T07:47:53Z
+M Type Star,Prieluia PS-S c17-30,2019-05-19T03:57:17Z
+Earthlike body,Cumboae FW-N d6-3 C 6,2019-08-30T04:07:58Z
+Non Terraformable,Skaude SQ-K d9-235,2019-10-15T07:51:34Z
+Non Terraformable,Slatchoea ZL-W c18-4,2019-09-12T02:55:13Z
+M Type Star,Myoagea HO-G c24-0,2019-09-07T21:35:45Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:54:49Z
+Non Terraformable,Synookio WV-M b7-4,2019-05-22T06:29:03Z
+L Type Star,Flyai Blou YP-M d8-3,2019-09-28T17:11:05Z
+F Type Star,Myoagea HB-F d11-2,2019-09-07T22:16:58Z
+Non Terraformable,Bludgeou BZ-Y c14-2,2019-08-17T07:01:46Z
+T Tauri Star,Byeia Ain AA-A e4698,2019-05-22T02:17:17Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:00:25Z
+M Type Star,Flyai Blou ZA-L d9-0,2019-09-28T16:54:13Z
+Standard gas giant,Clooku EM-M d7-147,2019-06-11T20:50:00Z
+Non Terraformable,Blue Bloae JP-A c16-5,2019-09-14T03:05:44Z
+Silicate Magma Lava Spout,Gria Eork CS-N c9-3,2019-06-22T06:40:16Z
+Non Terraformable,Myoideau KX-U d2-2,2019-08-03T06:48:18Z
+Non Terraformable,Gru Eork QN-J d9-2,2019-06-09T23:36:52Z
+Guardian Relic Tower,Skaudai AM-B d14-138,2019-06-14T04:37:13Z
+Non Terraformable,Blooe Bluae CY-F d12-12,2019-09-24T04:02:16Z
+Purpureum Metallic Crystals,Thaileia MC-V b31-0,2019-06-10T10:16:20Z
+Standard gas giant,Hypiae Aescs LI-Z c27-0,2019-08-04T05:22:07Z
+Non Terraformable,Engoks TD-Z d1-25,2019-07-02T10:46:44Z
+Standard gas giant,Blooe Dryou YA-U d4-0,2019-06-29T03:30:53Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:05:00Z
+Earthlike body,Veqia GA-P c19-0 B 1,2019-09-06T04:18:44Z
+Non Terraformable,Baukoa IG-Z c28-1356,2019-05-20T20:48:17Z
+Y Type Star,Hypi Chroa KR-V d2-4,2019-10-27T23:22:14Z
+Non Terraformable,Striechaea EK-R c7-0,2019-09-28T17:20:54Z
+Non Terraformable,Hypiae Freau PG-Y d2,2019-08-30T06:50:46Z
+Sulphur Dioxide Fumarole,Col 359 Sector TW-I b11-7,2019-05-29T00:45:54Z
+Earthlike body,Hypua Hypoo NO-X d2-3 1,2019-08-05T05:51:51Z
+Non Terraformable,Myoagea ET-G c24-0,2019-09-07T21:31:59Z
+Earthlike body,Synuefe OR-H c24-1 A 9,2019-05-15T01:28:01Z
+M Type Star,Eisharr OZ-Z c16-0,2019-09-20T05:58:05Z
+Non Terraformable,Gru Eork TE-F d12-34,2019-05-27T06:54:08Z
+Silicate Vapour Fumarole,Phae Phlai WY-R c4-2,2019-08-15T03:06:57Z
+Standard gas giant,Prie Fruia KC-D d12-1,2019-09-07T23:59:54Z
+Non Terraformable,Myoagea HZ-E c25-0,2019-09-07T21:27:21Z
+Earthlike body,Baukoa RJ-F c12-1790 A 2,2019-05-21T01:42:45Z
+DQ Type Star,LAWD 15,2019-11-01T09:12:49Z
+Non Terraformable,Blaa Dryou SJ-Y d1-15,2019-05-27T07:08:46Z
+Terraformable,Ceos,2019-10-15T11:11:18Z
+F Type Star,Prieluia TD-K d8-262,2019-05-19T03:50:37Z
+K Type Star,Eisharr WF-L d9-1,2019-09-20T05:48:31Z
+Terraformable,Eisharr WF-L d9-1,2019-09-20T05:49:56Z
+Standard gas giant,Blu Ain QD-K d8-2713,2019-05-19T21:05:04Z
+Non Terraformable,Choi Dryou WY-Q c21-0,2019-09-19T05:50:34Z
+Standard gas giant,Bloo Dryoae TE-Y c17-0,2019-06-28T09:41:49Z
+Terraformable,Blue Bloae JP-A c16-5,2019-09-14T03:05:25Z
+Silicate Vapour Fumarole,Phooe Aeb UV-U c16-3,2019-08-10T10:42:12Z
+Terraformable,Prie Aoc NJ-X c28-1,2019-10-10T08:14:03Z
+Standard gas giant,Eembaisk QC-J c10-1326,2019-05-20T22:52:58Z
+Non Terraformable,Eorm Fraae UK-O d6-0,2019-08-29T01:20:03Z
+Non Terraformable,Flyai Graae GM-H c12-2,2019-09-13T07:11:27Z
+Standard gas giant,Eembaisk UI-S d4-4169,2019-05-20T23:09:31Z
+Iron Magma Lava Spout,Kyloopa ZK-O d6-2,2019-10-25T08:25:44Z
+Non Terraformable,Oochoss DW-L d8-0,2019-05-15T08:32:22Z
+Non Terraformable,Pueloe WO-Z c13-201,2019-05-19T19:22:49Z
+Earthlike body,Bleou Thoi DM-U d3-1 B 5,2019-06-06T02:21:00Z
+Standard gas giant,Myliengooe GW-M d7-1,2019-10-28T06:28:58Z
+Flavum Metallic Crystals,Pyraleau XS-T c19-23,2019-06-15T07:55:29Z
+Non Terraformable,Hypao Auwsy AK-A c29-0,2019-10-29T09:05:48Z
+Standard gas giant,Ross 389,2019-10-12T21:15:08Z
+Earthlike body,Myoagaae GW-E d11-13 B 4,2019-09-08T08:39:53Z
+Earthlike body,Veqia VS-U d2-1 6,2019-09-05T06:41:52Z
+K Type Star,Gru Eork RP-I c25-5,2019-05-27T06:57:45Z
+Prasinum Bioluminescent Anemone,Cralou AA-A h35,2019-06-26T22:42:16Z
+Non Terraformable,Praea Freau XU-G d10-0,2019-09-07T08:33:16Z
+Standard gas giant,Gru Eoq CE-F c1,2019-06-19T10:30:45Z
+Standard gas giant,Prua Dryou TQ-I c24-1,2019-06-19T03:09:49Z
+Non Terraformable,Grea Bloae OG-B c2-1,2019-09-14T04:21:43Z
+Water Ice Fumarole,Prae Drye AC-S c5-0,2019-06-04T06:25:40Z
+F Type Star,Graea Hypue XP-G d10-54,2019-11-01T09:03:51Z
+Terraformable,Flyiedge QK-D d13-11,2019-10-15T07:29:30Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:53:18Z
+Non Terraformable,Oochoss UJ-G d11-0,2019-05-15T07:41:04Z
+Non Terraformable,Cliewuae BM-J d10-2,2019-09-17T16:00:45Z
+Non Terraformable,Praea Freau XA-M c21-0,2019-09-07T08:55:57Z
+Water Ice Fumarole,Prae Drye AC-S c5-0,2019-06-04T06:10:06Z
+Y Type Star,Eorm Fraae UK-O d6-0,2019-08-29T01:15:22Z
+Terraformable,Gru Eork HD-M c23-0,2019-05-27T06:39:41Z
+Terraformable,Prie Aoc IL-P d5-2,2019-10-10T09:24:23Z
+Water Ice Fumarole,Prae Drye AC-S c5-0,2019-06-04T06:08:46Z
+Carbon Dioxide Ice Fumarole,Boerth BT-Q b9-47,2019-06-13T09:18:44Z
+Guardian Codex,Skaudai AM-B d14-138,2019-06-14T04:36:09Z
+Non Terraformable,Preou Thoe PJ-I d9-14,2019-08-19T01:35:00Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:54:53Z
+Rubeum Metallic Crystals,Bleae Thaa CQ-N b7-2,2019-06-07T07:04:50Z
+F Type Star,Eupaild KN-Q d6-4,2019-09-29T10:10:32Z
+T Type Star,Bludgeou BZ-Y c14-2,2019-08-17T07:01:19Z
+M Type Star,Clookeou HH-D c12-0,2019-11-01T08:36:43Z
+B Types,Flyeia Hypai XJ-Z e3,2019-05-27T20:39:17Z
+Earthlike body,Eiphain DH-C d13-3 3,2019-08-28T06:42:18Z
+B Type Giant,Cumboae CF-A e0,2019-08-29T06:48:58Z
+F Type Star,Prie Aoc KC-D d12-3,2019-10-10T08:26:13Z
+Silicate Vapour Fumarole,Synuefue FN-Y c28-0,2019-06-04T00:51:59Z
+Non Terraformable,Gru Eork RP-I c25-5,2019-05-27T06:58:25Z
+Silicate Vapour Fumarole,Phae Phlai WY-R c4-2,2019-08-15T03:20:14Z
+Non Terraformable,Eodgols KP-Q b46-7,2019-05-22T06:42:18Z
+A Type Star,Engofy IZ-D d13-14,2019-06-29T23:20:47Z
+Non Terraformable,Gyrafaae OD-T d3-1,2019-09-01T08:51:01Z
+Guardian Codex,Skaudai AM-B d14-138,2019-06-14T04:47:39Z
+Silicate Vapour Fumarole,Phae Phlai WY-R c4-2,2019-08-15T03:24:10Z
+Common Thargoid Barnacle,Merope,2019-07-14T07:35:34Z
+M Type Star,Flyai Graae GM-H c12-2,2019-09-13T07:11:26Z
+Standard gas giant,Ogairy YE-R d4-7462,2019-05-19T23:30:57Z
+Non Terraformable,Baukoa RJ-F c12-1790,2019-05-21T01:45:38Z
+B Types,Asterope,2019-05-06T04:34:24Z
+Neutron Star,Smojai QO-Z d13-57,2019-05-18T05:45:15Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:02:24Z
+G Type Star,Phoo Airgh OP-F c11-2,2019-08-17T06:51:13Z
+Non Terraformable,Hypaa Hypoo GM-C d2,2019-08-05T07:22:46Z
+G Type Star,Prua Dryou FT-N c21-1,2019-06-19T01:41:58Z
+Silicate Vapour Gas Vent,Myrielk WF-R c4-3602,2019-10-31T20:51:26Z
+Non Terraformable,Phrae Hypoo EO-O d7-2,2019-08-07T03:43:25Z
+Sulphur Dioxide Gas Vent,Skaudai XE-P d6-72,2019-06-14T06:32:35Z
+Non Terraformable,Thaileae SI-I c26-0,2019-06-27T06:54:54Z
+Terraformable,Myrielk JX-L c7-7143,2019-05-20T02:38:29Z
+Non Terraformable,Prie Aoc NI-B d13-1,2019-10-10T08:22:17Z
+Non Terraformable,Skaude SQ-K d9-235,2019-10-15T07:53:33Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:37:19Z
+Proto-Lagrange Cloud,Bleae Thaa CQ-N b7-2,2019-06-07T06:50:18Z
+Non Terraformable,Eor Chreou UN-K c8-0,2019-08-31T06:45:20Z
+Y Type Star,Skaude HD-J c25-10,2019-10-15T08:16:14Z
+Terraformable,Gru Eork TE-F d12-34,2019-05-27T06:50:46Z
+Non Terraformable,Col 285 Sector RN-T d3-105,2019-05-03T08:50:09Z
+Non Terraformable,Blue Bloae JP-A c16-5,2019-09-14T03:05:52Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:53:31Z
+Terraformable,Prie Aoc UD-K d8-6,2019-10-10T08:42:01Z
+Non Terraformable,Oochoss RO-M c22-0,2019-05-15T07:35:19Z
+Iron Magma Lava Spout,Kyloopa ZK-O d6-2,2019-10-25T08:45:45Z
+Rubellum Peduncle Tree,Phooe Aod FZ-T c18-3,2019-11-01T12:09:39Z
+Non Terraformable,Myoideau GR-W d1-0,2019-08-03T06:50:22Z
+Non Terraformable,Grea Eoq XU-U b36-0,2019-06-30T02:19:05Z
+Non Terraformable,Eisharr OZ-Z c16-0,2019-09-20T06:07:37Z
+Standard gas giant,Blaa Dryou SJ-Y d1-15,2019-05-27T07:10:08Z
+Non Terraformable,Hypiae Freau PG-Y d2,2019-08-30T06:50:15Z
+Prasinum Bioluminescent Anemone,Cralou AA-A h35,2019-06-26T23:22:22Z
+Non Terraformable,Hedgau AT-B c13-1,2019-08-17T23:00:07Z
+Viride Peduncle Tree,Prie Aoc KA-H c10-1,2019-10-11T04:54:06Z
+Terraformable,Synookio TC-M c7-14,2019-05-19T06:39:15Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:34:15Z
+Standard gas giant,Col 359 Sector PY-D b14-1,2019-05-07T02:26:39Z
+Guardian Codex,Vela Dark Region EG-X b1-1,2019-07-15T09:36:55Z
+Rubellum Peduncle Tree,Weqee LM-D d12-8,2019-10-12T02:31:42Z
+F Type Star,Slatchoi VM-H d11-0,2019-09-12T03:09:16Z
+Standard gas giant,Eembaisk QC-J c10-1326,2019-05-20T22:51:24Z
+M Type Star,Flimbu NK-E d12-6,2019-10-28T10:43:53Z
+Standard gas giant,Eembaisk PC-U d3-1220,2019-05-20T23:50:28Z
+Earthlike body,Gyrafaae SU-G d10-0 2,2019-09-02T21:59:44Z
+K Type Star,Zuni SJ-I c9-1436,2019-05-20T02:01:29Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:40:07Z
+G Type Star,Oochoss UJ-G d11-0,2019-05-15T07:38:03Z
+Non Terraformable,Pueloe CM-L c21-355,2019-05-19T19:40:50Z
+B Type Supergiants,Blau Thaa AA-A h0,2019-06-06T22:02:51Z
+Standard gas giant,Striechaea EK-R c7-0,2019-09-28T17:21:54Z
+Silicate Vapour Fumarole,Phooe Aeb UV-U c16-3,2019-08-10T10:42:25Z
+Non Terraformable,Ogairy YE-R d4-7462,2019-05-19T23:31:32Z
+Standard gas giant,Skaude AA-A h294,2019-10-15T08:32:18Z
+T Type Star,Pyroo Eork IC-B d1-4,2019-09-21T04:03:58Z
+A Type Star,Pyrivou DS-R d5-39,2019-09-14T04:39:57Z
+Carbon Dioxide Ice Fumarole,Ploi Airg KR-N d6-34,2019-08-24T23:31:59Z
+Non Terraformable,Slatchoea ZL-W c18-4,2019-09-12T02:53:12Z
+Standard gas giant,Hypao Auwsy AK-A c29-0,2019-10-29T09:08:49Z
+Non Terraformable,Gru Eork SN-Y c15-0,2019-06-09T22:57:19Z
+Crystalline Shards,Ploi Airg KR-N d6-34,2019-08-24T23:31:38Z
+Non Terraformable,Prieluia DB-F d11-41,2019-05-19T04:21:09Z
+Prasinum Metallic Crystals,NGC 6705 Sector AG-U b4-9,2019-06-15T08:56:24Z
+Caeruleum Peduncle Tree,Hypao Auwsy MQ-Q c20-1,2019-11-01T10:58:32Z
+Standard gas giant,Eupaild KN-Q d6-7,2019-09-29T10:15:29Z
+Earthlike body,Prua Dryou MU-L c22-0 A 2,2019-06-19T02:20:13Z
+Standard gas giant,Flyai Blou ZA-L d9-0,2019-09-28T16:56:14Z
+Non Terraformable,Eorm Fraae VU-W c2-0,2019-08-28T08:24:28Z
+Standard gas giant,Eisharr OZ-Z c16-0,2019-09-20T06:07:08Z
+Earthlike body,Hedgea AZ-S d3-42 B 6,2019-08-08T05:48:35Z
+K Type Star,Clookeou FW-E c11-0,2019-11-01T08:34:35Z
+Albidum Peduncle Tree,Flimbu ZF-W d2-1,2019-10-29T06:24:43Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:59:42Z
+Rubellum Peduncle Tree,Stuenae MJ-N c8-0,2019-10-29T08:15:23Z
+Guardian Codex,Vela Dark Region EG-X b1-1,2019-07-16T19:33:44Z
+F Type Star,Flyiedge TQ-B d14-31,2019-10-15T07:43:53Z
+Standard gas giant,Oochoss AB-S c19-0,2019-05-15T08:19:21Z
+Terraformable,Bloo Dryiae GT-O d7-0,2019-06-26T02:08:40Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:46:23Z
+Non Terraformable,Chraichio QE-Y c17-1,2019-10-01T10:39:33Z
+Non Terraformable,Thailu HX-S c20-0,2019-06-27T22:26:12Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:52:01Z
+Non Terraformable,Stuenae NP-E d12-8,2019-10-29T07:11:01Z
+Caeruleum Peduncle Tree,Myliengooe ZE-F c12-0,2019-10-28T07:25:08Z
+Earthlike body,Bela Oh A 7,2019-05-03T06:57:39Z
+Terraformable,Slatchoi ID-R c21-2,2019-09-12T03:04:41Z
+Non Terraformable,Shrogea YR-J c22-996,2019-05-20T00:44:27Z
+Non Terraformable,Phoi Aescs RL-Y d2,2019-08-04T05:13:10Z
+T Tauri Star,Prie Fruia AL-P e5-0,2019-09-07T23:36:06Z
+F Type Star,Myoideau NI-T d3-2,2019-08-03T06:46:12Z
+Iron Magma Lava Spout,Kyloopa ZK-O d6-2,2019-10-25T08:42:41Z
+Terraformable,Graea Hypue XP-G d10-119,2019-11-01T09:08:07Z
+Silicate Vapour Fumarole,Phae Phlai WY-R c4-2,2019-08-15T03:06:41Z
+Earthlike body,Blau Thaa DA-X c2-0 2,2019-06-06T23:55:58Z
+Non Terraformable,Eupaild LI-I c26-0,2019-09-29T07:53:42Z
+Standard gas giant,Eor Chreou DB-F d11-0,2019-08-31T08:08:51Z
+Non Terraformable,Nyauthai XU-O c22-8,2019-09-14T06:28:11Z
+L Type Star,Thailu YO-B b47-0,2019-06-27T11:31:00Z
+Non Terraformable,Bla Dryoae ZW-K b0,2019-06-29T22:50:17Z
+Standard gas giant,Synookio BX-Y b41-0,2019-05-19T07:05:07Z
+Terraformable,Thaileae HY-F d12-2,2019-06-27T06:58:42Z
+Non Terraformable,Synookio TK-E c25-179,2019-05-19T17:40:11Z
+F Type Star,Praea Freau CB-F d11-1,2019-09-07T09:28:34Z
+M Type Star,Flyai Blou WU-M d8-4,2019-09-28T16:57:31Z
+Standard gas giant,Engorshch ZV-T d4-0,2019-06-30T23:02:53Z
+Standard gas giant,Blua Eoq FD-P c7-0,2019-06-19T09:42:10Z
+Standard gas giant,Hypaa Hypoo VD-Z d1-12,2019-08-05T06:28:43Z
+Non Terraformable,Praea Freau PJ-P c19-0,2019-09-07T08:29:08Z
+Terraformable,Neamue WI-Q c19-0,2019-08-29T02:58:35Z
+Non Terraformable,Eisharr UL-W c18-0,2019-09-20T05:54:11Z
+Non Terraformable,HIP 17819,2019-05-02T14:19:15Z
+Non Terraformable,Striechaea FX-A d1-3,2019-09-29T07:38:28Z
+Earthlike body,Eiphain DH-C d13-3 3,2019-08-28T06:30:44Z
+A Type Star,Graea Eoq SZ-M d8-25,2019-06-24T01:22:37Z
+T Type Star,Synookio WV-M b7-4,2019-05-22T06:28:08Z
+Earthlike body,Sponguae JY-Z d13-10 B 9,2019-08-13T07:37:47Z
+Terraformable,Pyroo Eork ZC-V c5-0,2019-09-21T03:00:32Z
+Rubellum Peduncle Tree,Flimbu ZF-W d2-1,2019-10-29T06:25:11Z
+Terraformable,Hypaa Hypoo FG-A c3-1,2019-08-05T06:32:38Z
+Non Terraformable,Fleckeae JZ-D d13-0,2019-09-18T02:13:22Z
+Terraformable,Blaa Dryou WU-N d7-45,2019-05-27T08:02:26Z
+Rubellum Peduncle Tree,Myliengooe TH-T c4-0,2019-10-28T08:31:55Z
+Standard gas giant,Moanza,2019-10-13T09:03:13Z
+Earthlike body,Engofy PX-J c25-3 A 4,2019-06-30T00:10:49Z
+Viride Peduncle Tree,Assaizz MQ-K c22-1,2019-10-16T10:45:30Z
+Ostrinum Peduncle Tree,Stuenae MJ-N c8-0,2019-10-29T08:18:10Z
+Earthlike body,Baukoa RJ-F c12-1790 A 2,2019-05-21T01:52:25Z
+Neutron Star,Slatchoea MN-Q d6-15,2019-09-12T02:50:40Z
+Standard gas giant,Graea Hypue XP-G d10-119,2019-11-01T09:11:07Z
+Non Terraformable,Slatchoea ZL-W c18-4,2019-09-12T02:56:56Z
+A Type Star,Stuemaea YA-O e6-3642,2019-05-21T04:11:46Z
+Standard gas giant,Blaa Gree TT-L c10-2,2019-09-14T05:26:50Z
+Non Terraformable,Cumboae TI-T d3-1,2019-08-29T06:56:37Z
+Non Terraformable,Eoch Flyuae GA-Z d1736,2019-06-12T01:09:21Z
+Sulphur Dioxide Fumarole,Gria Eoq CN-H d11-1,2019-06-24T02:55:20Z
+Amphora Plant,Cralou QN-S d4-1,2019-06-27T01:58:44Z
+Terraformable,Engofy QK-E c28-1,2019-06-29T23:04:39Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:23:07Z
+Non Terraformable,Syriae Thaa EF-R d4-3,2019-09-17T17:42:31Z
+Earthlike body,Ploxaei PP-V d3-5 2,2019-09-23T02:48:00Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:56:01Z
+Ostrinum Peduncle Tree,Weqee NP-H c10-1,2019-10-12T05:59:11Z
+Non Terraformable,Eodgols KR-N d6-321,2019-05-19T05:50:53Z
+B Types,Skaude JI-S e4-50,2019-10-15T08:47:02Z
+G Type Star,Blue Bloae UK-M d8-6,2019-09-14T03:15:00Z
+Roseum Brain Tree,Prua Phoe TS-B d43,2019-06-14T02:49:29Z
+Non Terraformable,Prieluia BQ-G d10-388,2019-05-19T04:15:08Z
+Non Terraformable,Gyrafaae SJ-R d4-0,2019-09-01T09:02:49Z
+Non Terraformable,Pueloe WO-Z c13-201,2019-05-19T19:23:19Z
+Earthlike body,Bauliae CZ-D c13-0 2,2019-10-28T10:18:17Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:40:17Z
+Non Terraformable,Gyrafaae NA-M c21-0,2019-09-02T22:18:19Z
+Non Terraformable,Gru Eork HD-M c23-0,2019-05-27T06:39:51Z
+Y Type Star,Byeia Ain WY-S d3-1476,2019-05-19T21:31:56Z
+Silicate Vapour Fumarole,Phae Phlai WY-R c4-2,2019-08-15T03:06:12Z
+Prasinum Metallic Crystals,Skaudai AM-B d14-138,2019-06-14T04:12:03Z
+Earthlike body,Lyruewry CC-T c17-6 A 2,2019-08-26T03:53:04Z
+Earthlike body,Rifee VI-K d8-16 1,2019-08-21T06:19:06Z
+Non Terraformable,Drooti GH-T d4-23,2019-09-13T23:46:00Z
+B Types,Streau Eop HH-U e3-0,2019-09-17T17:45:24Z
+K Type Star,Flyai Graae PY-D c14-0,2019-09-13T07:18:44Z
+L Type Star,Hypiae Aescs LI-Z c27-0,2019-08-04T05:21:30Z
+Water Ice Geyser,Aucoks RY-S c3-0,2019-10-30T07:33:23Z
+Standard gas giant,Pyroifoea TO-Z d6,2019-06-10T05:29:49Z
+Prasinum Metallic Crystals,Bleae Thaa CQ-N b7-2,2019-06-07T07:00:54Z
+Earthlike body,Groa 6,2019-05-02T14:02:56Z
+Sulphur Dioxide Gas Vent,Engorshch YA-U d4-0,2019-06-30T04:32:07Z
+Non Terraformable,Eupaild KN-Q d6-7,2019-09-29T10:15:36Z
+Earthlike body,Sponguae JY-Z d13-10 B 9,2019-08-13T07:49:46Z
+Non Terraformable,Dryau Aowsy TF-N c20-69,2019-05-19T22:58:12Z
+Non Terraformable,Bludgeou BZ-Y c14-2,2019-08-17T07:02:11Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:25:19Z
+Standard gas giant,Prie Thio DV-E c25-0,2019-08-19T03:23:05Z
+Y Type Star,Pyroifoi SO-G d11-47,2019-05-27T09:38:24Z
+F Type Giant,HIP 14600,2019-06-07T21:22:04Z
+Black Hole,Maia,2019-09-19T13:42:08Z
+Non Terraformable,Myoagea HZ-E c25-0,2019-09-07T21:28:09Z
+Terraformable,Hypi Phlai NB-O d6-0,2019-08-14T06:14:54Z
+Standard gas giant,Skaudai VT-Q d5-16,2019-06-14T07:30:21Z
+Non Terraformable,Zuni MD-K d8-2246,2019-05-20T02:16:19Z
+Silicate Vapour Gas Vent,Prue Eohm AW-C d6,2019-08-07T21:12:32Z
+Standard gas giant,Stuemeae OS-U c2-5702,2019-05-20T16:00:22Z
+Rubellum Peduncle Tree,Pleia Aoc UR-D c12-3,2019-10-11T06:57:22Z
+B Types,Eiphain AA-A h0,2019-08-28T05:49:15Z
+Guardian Relic Tower,Skaudai AM-B d14-138,2019-06-14T04:44:36Z
+Non Terraformable,Eupaild TU-E c28-0,2019-09-29T07:52:23Z
+Terraformable,Myoagea HU-E c25-0,2019-09-07T10:19:34Z
+Crystalline Shards,Tiefua FK-A d15,2019-08-16T06:44:20Z
+Non Terraformable,Hypiae Freau PG-Y d2,2019-08-30T06:50:42Z
+Earthlike body,Stuemeae FG-Y d7561 CD 4,2019-05-20T03:31:05Z
+Y Type Star,Preou Froa VU-G d10-23,2019-09-09T05:42:01Z
+Non Terraformable,Engofy HF-C d14-26,2019-06-29T22:54:28Z
+T Type Star,Oochoss UJ-G d11-0,2019-05-15T07:38:10Z
+Non Terraformable,Pru Ain NX-B b27-14,2019-05-22T07:00:50Z
+Earthlike body,Dumbooe YN-T d3-5418 3,2019-05-21T16:19:55Z
+Y Type Star,Engorshch DG-F c14-0,2019-06-30T03:10:48Z
+Non Terraformable,Pleia Aoc YO-I d9-9,2019-10-11T05:58:32Z
+Standard gas giant,Blooe Dryou YA-U d4-0,2019-06-29T03:29:04Z
+Ostrinum Peduncle Tree,Assaizz MQ-K c22-1,2019-10-16T10:46:08Z
+Standard gas giant,Hypheerld XN-V b49-10,2019-05-15T23:40:38Z
+Proto-Lagrange Cloud,Prie Aoc IL-P d5-2,2019-10-10T09:45:30Z
+Non Terraformable,Pyroo Eork YK-F c14-0,2019-09-21T00:18:33Z
+Earthlike body,Weqee LM-D d12-8 C 2,2019-10-12T02:48:35Z
+Standard gas giant,Graea Hypue XP-G d10-119,2019-11-01T09:08:17Z
+Standard gas giant,Skuequ TR-F c1,2019-09-22T17:14:11Z
+Iron Magma Lava Spout,Kyloopa ZK-O d6-2,2019-10-25T08:17:40Z
+Water Ice Fumarole,Schafaei AR-M c7-2,2019-08-14T05:18:57Z
+A Type Star,Gyrafaae SJ-R d4-0,2019-09-01T09:01:08Z
+G Type Star,Engofy HF-C d14-26,2019-06-29T22:53:13Z
+Terraformable,Myoagoa RQ-C c26-1,2019-09-08T04:25:58Z
+Silicate Vapour Fumarole,Sifaea BL-P d5-76,2019-07-07T08:15:13Z
+Terraformable,Blie Thoi WO-Z d0,2019-06-05T07:07:37Z
+Standard gas giant,Skaude AA-A h294,2019-10-15T08:25:21Z
+Standard gas giant,Grea Drye NX-A d1-0,2019-06-26T07:28:50Z
+Standard gas giant,Flimbu ZF-W d2-1,2019-10-29T06:18:51Z
+Earthlike body,Eor Chreou DB-F d11-0 4,2019-08-31T08:08:41Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:12:46Z
+Non Terraformable,Eodgols KP-Q b46-7,2019-05-22T06:42:23Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:56:07Z
+Non Terraformable,Eodgols KT-I c9-41,2019-05-22T07:06:02Z
+Non Terraformable,Striechaea ZI-T c6-0,2019-09-28T19:52:59Z
+Terraformable,Hypiae Freau PG-Y d2,2019-08-30T06:50:25Z
+Terraformable,Oochoss UJ-G d11-0,2019-05-15T07:42:33Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:27:40Z
+Non Terraformable,Delphi,2019-09-19T14:06:06Z
+Standard gas giant,Oochoss CM-Q c20-0,2019-05-15T08:05:10Z
+Earthlike body,Choi Dryou WY-Q c21-0 1,2019-09-19T05:53:40Z
+Prasinum Bioluminescent Anemone,Cralou AA-A h35,2019-06-26T22:46:14Z
+Standard gas giant,Praea Freau CB-F d11-1,2019-09-07T09:32:19Z
+Non Terraformable,Blu Ain YP-G d10-4231,2019-05-19T21:08:12Z
+Earthlike body,Veqia GA-P c19-0 B 1,2019-09-06T03:52:15Z
+Non Terraformable,Eisharr UL-W c18-0,2019-09-20T05:53:55Z
+Supermassive Black Hole,Sagittarius A*,2019-05-20T15:55:30Z
+Sulphur Dioxide Fumarole,Col 359 Sector TW-I b11-7,2019-05-29T02:47:07Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:09:00Z
+A Type Star,Auphailf AY-G d11-1,2019-09-13T22:53:12Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:36:14Z
+L Type Star,Clookeou FW-E c11-0,2019-11-01T08:34:37Z
+Non Terraformable,Synookio TK-E c25-179,2019-05-19T17:40:44Z
+Terraformable,Eupaild KN-Q d6-7,2019-09-29T10:14:26Z
+Y Type Star,Blaa Gree GG-B c2-2,2019-09-14T05:12:34Z
+Thargoid Interceptor Cyclops,HIP 16613,2019-06-08T09:11:13Z
+F Type Star,Gru Eork NH-L d8-0,2019-06-09T23:08:55Z
+Non Terraformable,Greou Prou PV-G c13-0,2019-09-12T06:12:54Z
+Terraformable,Swuemaei FQ-W d2-0,2019-09-13T03:45:28Z
+Standard gas giant,Blooe Bluae CY-F d12-12,2019-09-24T04:03:19Z
+DAZ Type Star,LHS 151,2019-10-26T15:29:51Z
+Guardian Relic Tower,Skaudai AM-B d14-138,2019-06-14T04:40:41Z
+Silicate Magma Lava Spout,Grie Eop MJ-G c27-3,2019-06-24T07:21:37Z
+Non Terraformable,Thaileae RQ-N c23-0,2019-06-27T11:29:15Z
+Silicate Magma Lava Spout,Gria Eork CS-N c9-3,2019-06-22T06:42:44Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:20:24Z
+Non Terraformable,Bla Dryoae ZW-K b0,2019-06-29T22:50:07Z
+Terraformable,Struia Eork LI-Z d1-2,2019-09-18T05:03:32Z
+L Type Star,Blaa Dryou TK-T c5-7,2019-05-27T07:43:32Z
+Non Terraformable,Eorm Fraae UK-O d6-0,2019-08-29T01:19:06Z
+Standard gas giant,Fachoa TV-P c8-0,2019-10-01T08:21:20Z
+T Type Star,Eupaild NQ-W c18-0,2019-09-29T09:47:34Z
+Non Terraformable,Preou Froa UA-F d11-36,2019-09-09T02:06:52Z
+Non Terraformable,Oochoss RO-M c22-0,2019-05-15T07:34:39Z
+F Type Star,Clookeou GR-N d6-5,2019-11-01T08:37:40Z
+Non Terraformable,Pyrooe Dryoae NN-W c4-0,2019-09-19T04:07:01Z
+Silicate Vapour Gas Vent,Phooe Aeb UV-U c16-3,2019-08-10T10:44:08Z
+Sulphur Dioxide Gas Vent,HIP 14600,2019-06-07T21:55:51Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:48:03Z
+Non Terraformable,Oochoss UJ-G d11-0,2019-05-15T07:40:05Z
+Guardian Codex,Vela Dark Region EG-X b1-1,2019-07-15T09:35:27Z
+Non Terraformable,Oochoss PD-A d1-5,2019-05-15T17:16:01Z
+Terraformable,Grea Eohn KC-Y c3-0,2019-07-03T00:35:42Z
+Earthlike body,Bloo Eop XU-V d3-8 B 1,2019-07-06T03:15:31Z
+Sulphur Dioxide Fumarole,Clooku UZ-E d12-45,2019-06-13T11:43:52Z
+Standard gas giant,Dryio Flyuae ER-K c9-161,2019-06-13T00:01:33Z
+Non Terraformable,Myoideau GR-W d1-0,2019-08-03T06:51:41Z
+Guardian Data Terminal,Vela Dark Region EG-X b1-1,2019-07-15T10:13:45Z
+Non Terraformable,Praea Freau MC-D d12-3,2019-09-07T09:58:55Z
+Non Terraformable,Prieluia PS-S c17-30,2019-05-19T03:57:46Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:12:59Z
+Standard gas giant,Phrooe Hypooe JH-S d5-2,2019-08-07T02:18:23Z
+Non Terraformable,Oochoss UJ-G d11-0,2019-05-15T07:40:38Z
+Standard gas giant,Eor Chreou DB-F d11-0,2019-08-31T08:10:58Z
+Terraformable,Thailu PF-L d9-2,2019-06-27T23:21:42Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:12:40Z
+Standard gas giant,Slulee PW-N d6-35,2019-05-22T17:45:18Z
+Non Terraformable,Clookeou EC-D d12-6,2019-11-01T08:41:20Z
+Rubellum Peduncle Tree,Myliengooe GW-B c14-0,2019-10-28T07:14:05Z
+Non Terraformable,Dryau Aowsy ZC-Z c27-2273,2019-05-19T23:10:47Z
+Earthlike body,Prua Dryou MU-L c22-0 A 2,2019-06-19T02:13:36Z
+DA Type Star,LHS 6171,2019-10-26T14:07:12Z
+Purpureum Metallic Crystals,Hypao Auwsy MQ-Q c20-1,2019-11-01T10:58:57Z
+Non Terraformable,Graea Eork XH-F c0,2019-06-21T21:08:22Z
+Neutron Star,Clookeou SY-S e3-3,2019-11-01T08:38:41Z
+Standard gas giant,Prua Dryou TQ-I c24-1,2019-06-19T03:12:26Z
+Non Terraformable,Praea Freau XU-G d10-0,2019-09-07T08:31:19Z
+DQ Type Star,NLTT 23036,2019-05-31T06:58:15Z
+Neutron Star,Yepaa MS-U d2-2,2019-08-30T06:18:45Z
+Caeruleum Peduncle Tree,Phooe Aod RL-Z c15-0,2019-11-01T12:32:49Z
+O Type Supergiant,HR 6164,2019-10-17T09:44:16Z
+Caeruleum Peduncle Tree,Weqee NP-H c10-1,2019-10-12T05:58:24Z
+Earthlike body,Eafosty ZR-D c12-1 9,2019-08-10T09:29:28Z
+Non Terraformable,Blue Bloae BM-T d4-0,2019-09-14T02:05:03Z
+Iron Magma Lava Spout,Kyloopa ZK-O d6-2,2019-10-25T08:45:39Z
+Solid Mineral Spheres,Pyraleau XS-T c19-23,2019-06-15T07:45:25Z
+Non Terraformable,Skaude GD-Q d6-324,2019-10-15T08:48:54Z
+Earthlike body,Gyrafaae NA-M c21-0 8,2019-09-02T22:17:01Z
+Earthlike body,Weqee LM-D d12-8 C 2,2019-10-12T01:05:36Z
+Silicate Vapour Fumarole,Phae Phlai WY-R c4-2,2019-08-15T03:20:44Z
+F Type Star,Cliewuae QZ-M d8-1,2019-09-17T15:54:41Z
+Non Terraformable,Striechaea TD-K c11-0,2019-09-28T17:16:14Z
+Water Ice Fumarole,Blooe Flyao UA-H c13-2,2019-10-04T11:40:54Z
+Non Terraformable,Gyrafaae SJ-R d4-1,2019-09-01T09:04:20Z
+Earthlike body,Lyruewry CC-T c17-6 A 2,2019-08-26T04:00:28Z
+A Type Star,Thraikoe LL-P d5-21,2019-08-24T04:18:44Z
+Standard gas giant,HD 193793,2019-06-05T08:22:32Z
+Terraformable,Gria Eork ZY-S c6-3,2019-06-22T00:13:46Z
+Non Terraformable,Oochoss UJ-G d11-0,2019-05-15T07:39:34Z
+Terraformable,Myoagea XN-G c24-0,2019-09-07T10:11:44Z
+T Type Star,Blaa Dryou II-W c17-5,2019-05-27T08:12:35Z
+Standard gas giant,Myliengooe ZA-E d12-5,2019-10-28T01:48:30Z
+Guardian Relic Tower,Skaudai AM-B d14-138,2019-06-14T04:54:45Z
+Terraformable,Hypao Auwsy QP-E d12-3,2019-10-29T09:19:01Z
+Silicate Magma Lava Spout,Grie Eop MJ-G c27-3,2019-06-24T07:19:03Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:59:36Z
+Non Terraformable,Blu Ain UH-I c23-783,2019-05-22T02:58:11Z
+Non Terraformable,Blaa Dryou QT-G d11-75,2019-05-27T08:20:41Z
+Non Terraformable,Cyoangooe NU-M d8-5,2019-10-09T03:58:24Z
+Ostrinum Peduncle Tree,Pleia Aoc UR-D c12-3,2019-10-11T06:57:02Z
+M Type Star,Oochoss RO-M c22-0,2019-05-15T07:32:41Z
+Ostrinum Peduncle Tree,Prie Aoc IL-P d5-2,2019-10-10T09:46:59Z
+Non Terraformable,Eupaild KN-Q d6-4,2019-09-29T10:12:07Z
+Earthlike body,Nyautheou BG-A c3-1 A 6,2019-09-23T23:37:50Z
+G Type Star,Prieluia BQ-G d10-388,2019-05-19T04:14:56Z
+Terraformable,Cyuefou VU-G d10-8,2019-08-20T07:24:16Z
+Earthlike body,Byeia Ain DU-E c25-87 2,2019-05-21T23:59:36Z
+Non Terraformable,Bleia Eohn IN-K d8-1,2019-10-15T05:10:32Z
+Terraformable,Pueloe HC-D d12-2300,2019-05-19T19:44:30Z
+G Type Giant,HD 205547,2019-10-30T04:08:13Z
+Standard gas giant,Slatchoea ZL-W c18-4,2019-09-12T02:53:06Z
+Proto-Lagrange Cloud,Flimbu NK-E d12-6,2019-10-29T03:59:59Z
+Non Terraformable,Skaude AA-A h294,2019-10-15T08:24:46Z
+Caeruleum Peduncle Pod,Weqee OI-Y c28-0,2019-10-11T22:44:19Z
+Non Terraformable,Myoagea HU-E c25-0,2019-09-07T10:16:57Z
+Non Terraformable,Grea Pri SW-F c0,2019-09-29T10:40:49Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:54:47Z
+Terraformable,Drooti GH-T d4-23,2019-09-13T23:45:11Z
+Standard gas giant,Nyautheou WV-T d4-6,2019-09-23T22:19:00Z
+Terraformable,Stuenae NP-E d12-8,2019-10-29T07:11:17Z
+Sulphur Dioxide Gas Vent,HIP 12099,2019-05-25T23:57:52Z
+Neutron Star,Eembaisk DG-O e6-2972,2019-05-20T21:43:25Z
+Standard gas giant,Phipaa EH-M d7-5816,2019-05-20T18:08:47Z
+Standard gas giant,Phoi Aescs VR-W d1-1,2019-08-04T05:12:22Z
+Sulphur Dioxide Gas Vent,HIP 12099,2019-05-25T23:54:40Z
+Non Terraformable,Myoideau KX-U d2-2,2019-08-03T06:48:11Z
+Earthlike body,Kasu EA-A d1 CDEF 4,2019-09-02T23:09:42Z
+Sulphur Dioxide Gas Vent,Outorst YT-Z c13-1,2019-08-03T19:39:16Z
+A Type Giant,4 Beta Trianguli,2019-05-03T14:39:31Z
+O Type Stars,Cralou AA-A h35,2019-06-26T22:22:52Z
+Neutron Star,Bloo Dryoae MN-Q d6-6,2019-06-29T02:15:27Z
+Earthlike body,Peter's Eden,2019-04-30T09:33:59Z
+A Type Star,Prua Phoe UH-V d2-34,2019-06-11T07:21:10Z
+Non Terraformable,Hyades Sector DR-V c2-23,2019-09-19T17:38:42Z
+Standard gas giant,Slatchoea ZL-W c18-4,2019-09-12T02:55:09Z
+Non Terraformable,Thaileae HY-F d12-2,2019-06-27T06:58:13Z
+Terraformable,Dryio Flyuae ER-V d2-2008,2019-06-12T04:10:46Z
+Silicate Vapour Fumarole,Gru Eoq CE-F c1,2019-06-19T10:50:12Z
+Sulphur Dioxide Gas Vent,Bla Dryoae GC-B d1-16,2019-06-29T12:13:20Z
+L Type Star,Dryau Aowsy PZ-O c19-2047,2019-05-19T22:56:55Z
+K Type Star,Oochoss CM-Q c20-0,2019-05-15T08:03:18Z
+Terraformable,Drooti ZF-M d8-33,2019-09-14T00:36:43Z
+Ostrinum Peduncle Tree,Wegnoe IC-V d2-0,2019-10-12T06:13:00Z
+Caeruleum Peduncle Pod,Weqee OI-Y c28-0,2019-10-11T22:43:56Z
+Water Ice Fumarole,Blooe Flyao UA-H c13-2,2019-10-08T02:53:31Z
+K Type Star,Blue Bloae XR-F c13-8,2019-09-14T02:58:49Z
+Water Ice Fumarole,Schafaei AR-M c7-2,2019-08-14T05:11:46Z
+Non Terraformable,Flyai Graae GM-H c12-2,2019-09-13T07:11:28Z
+Earthlike body,Ploi Airg JD-R c18-5 BC 1,2019-08-25T02:00:42Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:35:41Z
+Non Terraformable,Engofy EZ-D d13-28,2019-06-29T23:19:10Z
+AeBe Type Star,HD 193793,2019-06-05T08:22:11Z
+Earthlike body,Col 285 Sector LR-S b18-0 A 4,2019-05-03T07:11:31Z
+Standard gas giant,Moanza,2019-10-13T09:03:41Z
+Y Type Star,Chraichio QE-Y c17-1,2019-10-01T10:39:34Z
+Sulphur Dioxide Fumarole,Col 359 Sector TW-I b11-7,2019-05-29T02:47:28Z
+Non Terraformable,Boewnst QV-N b52-41,2019-06-13T06:15:00Z
+Earthlike body,Bloo Eop XU-V d3-8 B 1,2019-07-06T03:43:52Z
+A Type Star,Flimbu KY-Q d5-1,2019-10-29T05:53:08Z
+Standard gas giant,Dryi Freau QY-P c19-0,2019-08-29T06:35:31Z
+Terraformable,Prua Dryou MU-L c22-0,2019-06-19T02:12:21Z
+Earthlike body,Eodgols KP-Q b46-7 A 1,2019-05-22T06:44:14Z
+Non Terraformable,Myoagaae JC-D d12-1,2019-09-08T07:32:51Z
+Earthlike body,Rifee VI-K d8-16 1,2019-08-21T06:13:15Z
+Non Terraformable,Graea Hypue XP-G d10-119,2019-11-01T09:08:01Z
+Terraformable,Slatchoi FZ-D d13-13,2019-09-12T04:11:57Z
+Silicate Vapour Gas Vent,Eafots FB-F d11-20,2019-08-03T03:50:03Z
+Terraformable,Flyua Hype PY-W c3-4,2019-05-27T10:10:03Z
+Neutron Star,Myoagea EH-D d12-2,2019-09-07T22:13:16Z
+Standard gas giant,Prie Aoc KA-H c10-1,2019-10-11T04:36:16Z
+Roseum Brain Tree,Prua Phoe TS-B d43,2019-06-14T02:53:47Z
+Non Terraformable,Bloo Dryoae JZ-M d8-0,2019-06-29T00:38:06Z
+Terraformable,Skaude SQ-K d9-235,2019-10-15T07:51:12Z
+T Type Star,Myrielk DC-D c12-48,2019-05-20T02:54:03Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:57:59Z
+Rubellum Peduncle Tree,Bauliae CZ-D c13-0,2019-10-28T10:24:45Z
+Non Terraformable,Prieluia TD-K d8-262,2019-05-19T03:54:30Z
+Non Terraformable,Myoagea HU-E c25-0,2019-09-07T10:20:27Z
+Non Terraformable,Flyai Blou ZA-L d9-0,2019-09-28T16:56:22Z
+Rubellum Peduncle Tree,Myliengooe JC-A c15-0,2019-10-28T06:57:22Z
+Non Terraformable,Cumboae CQ-P d5-5,2019-08-30T03:56:40Z
+Non Terraformable,Bludgeou AB-M c21-4,2019-08-17T07:35:31Z
+Non Terraformable,Engofy PX-J c25-3,2019-06-30T00:09:57Z
+T Type Star,Ceeckia TT-I c12-0,2019-09-17T17:58:19Z
+Sulphur Dioxide Gas Vent,Gria Eork ZY-S c6-3,2019-06-22T01:18:19Z
+Y Type Star,Hypao Auwsy MJ-G d11-10,2019-11-01T10:30:02Z
+Common Thargoid Barnacle,California Sector DL-Y d4,2019-07-14T11:37:25Z
+Neutron Star,Pyra Drye YR-H d11-2,2019-09-17T17:36:20Z
+Sulphur Dioxide Fumarole,Col 359 Sector TW-I b11-7,2019-05-29T03:11:09Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:08:54Z
+Standard gas giant,Baukoa IG-Z c28-1356,2019-05-20T20:48:38Z
+F Type Star,Gru Eork TE-F d12-34,2019-05-27T06:49:24Z
+Silicate Vapour Gas Vent,Synuefue FN-Y c28-0,2019-06-04T00:42:54Z
+Sulphur Dioxide Fumarole,Deciat,2019-09-19T16:06:14Z
+G Type Giant,w Velorum,2019-05-03T08:15:10Z
+Non Terraformable,Pyroifoea NU-D d13-92,2019-05-27T21:10:07Z
+Thargoid Interceptor Medusa,HIP 16613,2019-06-08T09:14:56Z
+L Type Star,Flyai Graae VZ-B c15-0,2019-09-13T07:19:09Z
+Terraformable,Bludgeou AB-M c21-4,2019-08-17T07:37:19Z
+Non Terraformable,Oochoss RO-M c22-0,2019-05-15T07:35:30Z
+Standard gas giant,Preou Thoe SS-U d2-19,2019-08-19T00:24:49Z
+Earthlike body,Synuefe VM-O b53-3 B 1,2019-05-04T07:02:09Z
+Non Terraformable,Engofy HF-C d14-26,2019-06-29T22:53:57Z
+Non Terraformable,Blaa Gree UY-Y d1-8,2019-09-14T05:19:33Z
+Standard gas giant,Smojue EP-A d4,2019-05-07T13:47:03Z
+Earthlike body,Hypua Hypoo NO-X d2-3 1,2019-08-05T05:56:54Z
+Non Terraformable,Cheia Eork IO-K c11-1,2019-09-21T06:13:25Z
+Silicate Vapour Fumarole,Phae Phlai WY-R c4-2,2019-08-15T03:06:19Z
+Standard gas giant,HIP 12204,2019-10-14T03:38:29Z
+A Type Star,HIP 16398,2019-09-19T06:53:10Z
+Standard gas giant,Drojeae TS-T d3-1,2019-10-15T06:23:32Z
+Terraformable,Yepoi OC-D d12-0,2019-08-30T06:37:00Z
+Iron Magma Lava Spout,Thailu WC-F b45-0,2019-06-27T21:48:34Z
+Non Terraformable,Grea Bloae OG-B c2-1,2019-09-14T04:20:43Z
+Guardian Beacon,Synuefe KU-F b44-4,2019-07-16T07:32:46Z
+Earthlike body,Prae Dryou YX-F d12-16 A 4,2019-07-07T01:32:50Z
+Black Hole,Eord Flyuae AA-A h4,2019-06-13T03:13:41Z
+Non Terraformable,Thaileae SI-I c26-0,2019-06-27T06:54:30Z
+G Type Star,Rhiefue UA-E d12-0,2019-08-28T08:12:16Z
+Non Terraformable,Stuemeae OS-U c2-5702,2019-05-20T16:00:53Z
+Earthlike body,Myoagaae GW-E d11-13 B 4,2019-09-08T07:35:55Z
+Rubeum Metallic Crystals,Bleae Thaa CQ-N b7-2,2019-06-07T07:04:38Z
+O Type Stars,HD 101298,2019-06-19T10:16:17Z
+M Type Star,Thaileae RQ-N c23-0,2019-06-27T11:28:43Z
+Viride Peduncle Tree,Weqee LM-D d12-8,2019-10-12T02:31:21Z
+Viride Peduncle Tree,Weqee OC-J c23-0,2019-10-12T03:16:02Z
+Standard gas giant,Flyai Graae KS-W c17-2,2019-09-13T07:26:17Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:52:09Z
+A Type Supergiant,Smojue SD-T e3-2,2019-05-07T12:47:19Z
+Prasinum Metallic Crystals,Bleae Thaa CQ-N b7-2,2019-06-07T07:01:42Z
+Water Ice Fumarole,Schafaei AR-M c7-2,2019-08-14T05:18:31Z
+Terraformable,Bludgeou SN-K d8-7,2019-08-17T07:07:52Z
+Terraformable,Prieluia DB-F d11-41,2019-05-19T04:21:44Z
+Non Terraformable,Myoagea AH-D d12-0,2019-09-07T10:13:35Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:59:32Z
+Standard gas giant,Greou Blou RX-W c4-2,2019-09-24T02:36:39Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:59:26Z
+Non Terraformable,Syriae Thaa VD-K d8-1,2019-09-17T17:44:50Z
+Earthlike body,Phrooe Hypooe RX-A d1-4 3,2019-08-07T00:37:10Z
+Silicate Magma Lava Spout,Phoo Ail KQ-Y d8,2019-08-10T04:42:52Z
+Non Terraformable,Zuni MD-K d8-2246,2019-05-20T02:16:28Z
+Non Terraformable,Synuefe OF-T b50-3,2019-05-02T13:11:11Z
+Non Terraformable,Thaileae IY-F d12-1,2019-06-27T11:13:12Z
+Non Terraformable,Eodgols KP-Q b46-7,2019-05-22T06:44:11Z
+Viride Peduncle Tree,Wegnoe IC-V d2-0,2019-10-12T06:12:38Z
+T Type Star,Eorm Fraae OU-N c7-0,2019-08-28T08:27:18Z
+Y Type Star,Eupaild LI-I c26-0,2019-09-29T07:53:45Z
+Terraformable,Bleia Eohn IN-K d8-1,2019-10-15T05:07:35Z
+F Type Star,Bleae Aewsy NF-A d136,2019-05-22T06:32:30Z
+Non Terraformable,Phaa Ain GY-Y b41-18,2019-05-16T03:15:28Z
+Terraformable,Skaude AA-A h294,2019-10-15T08:24:57Z
+Non Terraformable,Cho Eurk GL-E c25-0,2019-09-17T16:04:42Z
+Terraformable,Oochoss UJ-G d11-0,2019-05-15T07:39:57Z
+Non Terraformable,Gyrafaae SJ-R d4-0,2019-09-01T09:01:37Z
+T Type Star,Myoideau GR-W d1-0,2019-08-03T06:49:26Z
+Earthlike body,Ploi Aewsy QL-W c15-38 CDE 2,2019-05-22T19:39:55Z
+G Type Star,Eodgols CN-B d13-42,2019-05-22T06:37:13Z
+Iron Magma Lava Spout,Kyloopa ZK-O d6-2,2019-10-25T08:38:46Z
+Viride Peduncle Tree,Prie Aoc IL-P d5-2,2019-10-10T09:52:30Z
+Non Terraformable,Eos Aowsy CW-N d6-5522,2019-05-21T23:02:49Z
+Ostrinum Peduncle Tree,Prie Aoc KA-H c10-1,2019-10-11T05:04:44Z
+Non Terraformable,Myoagea HO-G c24-0,2019-09-07T21:36:18Z
+Earthlike body,Prae Dryou YX-F d12-16 A 4,2019-07-07T01:52:26Z
+Silicate Vapour Gas Vent,Gru Eoq CE-F c1,2019-06-19T10:48:56Z
+Standard gas giant,Pyrae Dryoae MV-N c23-0,2019-09-19T02:05:19Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:03:24Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:01:17Z
+Non Terraformable,Graei Eoq BH-J d10-10,2019-06-30T01:44:50Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:57:55Z
+Ostrinum Peduncle Tree,Eembaists UQ-Z c28-0,2019-10-28T08:55:29Z
+Non Terraformable,Flimbu NK-E d12-6,2019-10-28T10:45:39Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:12:50Z
+F Type Star,Eisharr WF-L d9-1,2019-09-20T05:48:29Z
+Standard gas giant,Bloo Dryoae TE-Y c17-0,2019-06-28T09:39:53Z
+Earthlike body,Sothis A 5,2019-05-08T15:54:04Z
+Non Terraformable,Nyauthai KU-D d13-34,2019-09-14T06:48:55Z
+Non Terraformable,Pyrooe Eohn GI-Z d1-3,2019-09-17T07:01:01Z
+Non Terraformable,Flyai Graae GM-H c12-2,2019-09-13T07:12:56Z
+Non Terraformable,Stuemeae OS-U c2-5702,2019-05-20T16:01:36Z
+Neutron Star,Oochoss YP-N d7-2,2019-05-15T08:37:54Z
+Terraformable,Praea Freau XU-G d10-0,2019-09-07T08:31:55Z
+Standard gas giant,Stuemeae OS-U c2-5702,2019-05-20T16:00:08Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:27:33Z
+Non Terraformable,Dumbooe KG-Y c526,2019-05-20T01:12:32Z
+Earthlike body,Iowhogy PL-F c11-1 AB 3,2019-08-27T04:47:36Z
+Terraformable,Eoch Flyuae PJ-H d10-1975,2019-06-12T03:32:11Z
+B Type Giant,Maia,2019-05-06T04:38:49Z
+Guardian Codex,Skaudai AM-B d14-138,2019-06-14T04:43:58Z
+G Type Star,Myoideau NI-T d3-0,2019-08-04T05:02:04Z
+T Tauri Star,Hypheerld PZ-O e6-12,2019-05-15T23:00:33Z
+Sulphur Dioxide Gas Vent,HIP 12099,2019-05-25T23:57:24Z
+Standard gas giant,Fachoa BI-M c10-0,2019-10-01T08:06:38Z
+Black Hole,Maia,2019-05-06T04:43:26Z
+Neutron Star,Bleia Eohn KR-W d1-0,2019-10-15T04:28:28Z
+G Type Star,Blaa Dryou PD-R d5-3,2019-05-27T07:58:41Z
+Black Hole,PSR J1453-6413,2019-05-27T09:01:21Z
+Non Terraformable,Gyrafaae OD-T d3-1,2019-09-01T08:51:55Z
+Standard gas giant,Praea Freau XA-M c21-0,2019-09-07T08:55:40Z
+Non Terraformable,Hypiae Aescs TZ-E c25-0,2019-08-04T05:25:35Z
+Guardian Data Terminal,Vela Dark Region EG-X b1-1,2019-07-15T10:12:34Z
+Non Terraformable,Slatchoea ZL-W c18-4,2019-09-12T02:54:58Z
+L Type Star,Gru Eork ZK-K c23-0,2019-06-09T23:38:19Z
+F Type Supergiant,Rho Puppis,2019-05-04T08:29:30Z
+Standard gas giant,Synookio QM-W d1-64,2019-05-19T06:31:40Z
+Non Terraformable,Blaea Eurl VJ-I d9-1,2019-06-28T00:57:49Z
+Non Terraformable,Zuni QU-X c14-587,2019-05-20T02:10:38Z
+Non Terraformable,Prie Aoc NI-B d13-1,2019-10-10T08:22:21Z
+Non Terraformable,Eos Aowsy IR-W d1-348,2019-05-21T23:23:50Z
+Non Terraformable,Plaa Ain RM-W d1-71,2019-05-19T04:49:51Z
+Non Terraformable,Blua Eoq FD-P c7-0,2019-06-19T09:40:45Z
+Non Terraformable,Auconds LU-I c12-0,2019-07-06T02:11:52Z
+Standard gas giant,Pyrivou AX-I d10-28,2019-09-14T04:52:52Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:12:53Z
+Non Terraformable,Wredguia LL-C b40-4,2019-05-06T23:29:14Z
+Non Terraformable,Rhiefue WN-E c26-0,2019-08-28T08:14:38Z
+Non Terraformable,Assaizz MQ-K c22-1,2019-10-16T10:41:45Z
+Terraformable,Eembaisk IQ-M c8-1708,2019-05-20T23:38:26Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:19:25Z
+Non Terraformable,Myoideau NI-T d3-0,2019-08-04T05:02:42Z
+Purpureum Metallic Crystals,Thaileia MC-V b31-0,2019-06-10T10:11:01Z
+Caeruleum Peduncle Tree,Bauliae CZ-D c13-0,2019-10-28T10:24:21Z
+Standard gas giant,Phoi Auscs TI-J d9-4518,2019-05-21T04:27:11Z
+Non Terraformable,Gyrafaae OD-T d3-1,2019-09-01T08:50:29Z
+Non Terraformable,Engofy HF-C d14-26,2019-06-29T22:54:11Z
+Terraformable,Synuefe VQ-D d12-3,2019-05-15T00:22:02Z
+Solid Mineral Spheres,NGC 6705 Sector AG-U b4-9,2019-06-15T09:03:02Z
+Non Terraformable,Gojoea DQ-G c10-0,2019-06-30T23:17:53Z
+Standard gas giant,Prua Phoe UH-V d2-34,2019-06-11T07:25:24Z
+Prasinum Bioluminescent Anemone,Cralou AA-A h35,2019-06-26T22:40:53Z
+Non Terraformable,Synookio WV-M b7-4,2019-05-22T06:28:06Z
+Non Terraformable,Dryio Flyuae RX-R c5-151,2019-06-13T00:37:00Z
+Non Terraformable,Cho Theia KX-A c27-0,2019-09-21T04:44:13Z
+Non Terraformable,Eodgols SB-N b48-11,2019-05-22T06:40:40Z
+Earthlike body,Auconds DJ-R b24-0 B 1,2019-07-06T02:44:54Z
+Earthlike body,Lyruewry WF-F d11-22 5,2019-08-26T06:15:53Z
+Standard gas giant,Blaa Dryou SJ-Y d1-15,2019-05-27T07:08:15Z
+Rubellum Peduncle Tree,Weqee OI-Y c28-0,2019-10-11T22:39:10Z
+K Type Star,Gru Eork RP-R c20-3,2019-05-27T06:00:47Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:04:54Z
+Earthlike body,Prai Bliae FT-G d11-2 2,2019-09-13T05:26:56Z
+L Type Star,Zuni SJ-I c9-1436,2019-05-20T02:01:59Z
+Black Hole,Skaude AA-A h294,2019-10-15T08:19:03Z
+Sulphur Dioxide Gas Vent,Col 359 Sector TW-I b11-7,2019-05-30T21:31:27Z
+Non Terraformable,Pyrooe Dryoae WS-F c0,2019-09-19T05:06:20Z
+Non Terraformable,Clookeou EC-D d12-6,2019-11-01T08:41:28Z
+D Type Star,BPM 17113,2019-05-24T11:07:09Z
+Y Type Star,IC 2944 Sector IA-P c6-1,2019-06-19T09:50:34Z
+Standard gas giant,Engorshch ZV-T d4-0,2019-06-30T23:00:37Z
+Non Terraformable,Swoiwns RF-D c26-0,2019-10-15T03:28:59Z
+Non Terraformable,Myrielk SC-Z c27-1339,2019-05-20T03:22:46Z
+Y Type Star,Slatchoi VM-H d11-0,2019-09-12T03:09:17Z
+Neutron Star,Ploxeou OT-O d7-3,2019-09-23T02:24:51Z
+Water Gas Vent,Thailuae WA-U d4-38,2019-06-25T07:39:11Z
+Terraformable,Shrogea CY-H c23-1711,2019-05-20T00:56:07Z
+Non Terraformable,Myliengooe GW-M d7-1,2019-10-28T06:06:34Z
+Crystalline Shards,Eiphain SX-U d2-13,2019-08-28T01:11:04Z
+Terraformable,Blaa Eork FX-A d1-21,2019-05-27T00:51:54Z
+F Type Star,Pueloe RD-K d8-1123,2019-05-19T19:32:53Z
+F Type Star,Blue Bloae YQ-K d9-8,2019-09-14T03:15:31Z
+Earthlike body,Bauliae CZ-D c13-0 2,2019-10-28T10:14:07Z
+Silicate Vapour Fumarole,Synuefue FN-Y c28-0,2019-06-04T00:43:45Z
+Earthlike body,Ploxaei PP-V d3-5 2,2019-09-23T03:10:12Z
+Non Terraformable,Oochoss RO-M c22-0,2019-05-15T07:34:28Z
+Standard gas giant,Oochoss CM-Q c20-0,2019-05-15T08:04:00Z
+Standard gas giant,Deriso,2019-06-12T06:15:39Z
+Non Terraformable,Skaude KJ-U c5-27,2019-10-15T08:51:03Z
+Sulphur Dioxide Fumarole,Col 359 Sector TW-I b11-7,2019-05-29T00:45:41Z
+Water Ice Fumarole,Blaea Thio TY-I c9-3,2019-08-22T03:57:28Z
+T Type Star,Graei Eoq WP-C b46-0,2019-06-30T01:14:16Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:23:00Z
+T Type Star,Prie Aoc AX-W c1-1,2019-10-11T05:39:20Z
+Silicate Magma Lava Spout,Gria Eork CS-N c9-3,2019-06-22T06:44:00Z
+Carbon Dioxide Ice Fumarole,Eiphain SX-U d2-13,2019-08-28T01:13:20Z
+Purpureum Metallic Crystals,Thaileia MC-V b31-0,2019-06-10T10:12:15Z
+Non Terraformable,Ogairy PQ-C c26-2469,2019-05-20T00:03:38Z
+Caeruleum Peduncle Tree,Stuenae NP-E d12-8,2019-10-29T07:21:54Z
+T Tauri Star,Zuni JM-W e1-3285,2019-05-20T02:00:20Z
+L Type Star,Praea Freau XA-M c21-0,2019-09-07T08:48:37Z
+K Type Star,Myoagea HZ-E c25-0,2019-09-07T10:25:49Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T04:10:58Z
+Non Terraformable,Struia Eork LI-Z d1-2,2019-09-18T05:06:13Z
+G Type Star,Yepoi UO-Z d13-0,2019-08-30T06:46:14Z
+M Type Star,Gru Eork RP-R c20-3,2019-05-27T06:20:44Z
+Non Terraformable,Graea Hypue XP-G d10-119,2019-11-01T09:05:53Z
+Caeruleum Peduncle Tree,Hypi Chroa QV-J c23-1,2019-10-25T10:54:56Z
+K Type Giant,Baten Kaitos,2019-05-03T12:34:09Z
+Non Terraformable,Dryau Aowsy JC-D c12-115,2019-05-19T22:46:38Z
+Standard gas giant,Myoagea HZ-E c25-0,2019-09-07T21:27:37Z
+G Type Star,Skaude YP-C c1-78,2019-10-15T07:44:49Z
+Non Terraformable,Gru Eork TE-F d12-34,2019-05-27T06:50:15Z
+Non Terraformable,Muemea SO-I d9-2,2019-08-31T05:35:28Z
+T Tauri Star,Blooe Bluae HK-C d14-11,2019-09-24T02:50:21Z
+Sulphur Dioxide Gas Vent,Col 359 Sector TW-I b11-7,2019-05-30T21:31:33Z
+Non Terraformable,Flyai Graae GM-H c12-2,2019-09-13T07:13:46Z
+Standard gas giant,Blia Flee MC-M d7-76,2019-09-10T05:57:47Z
+Terraformable,Thaileae HY-F d12-2,2019-06-27T06:57:12Z
+Terraformable,Assaizz VU-P d5-5,2019-10-22T11:59:36Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:46:15Z
+A Type Star,Prie Aoc UD-K d8-6,2019-10-10T08:35:55Z
+Sulphur Dioxide Fumarole,Col 359 Sector TW-I b11-7,2019-05-29T01:08:36Z
+Sulphur Dioxide Fumarole,Tiefua FK-A d15,2019-08-16T06:44:37Z
+Sulphur Dioxide Gas Vent,Dryae Eaewsy KN-J c25-3,2019-08-05T08:07:52Z
+Non Terraformable,Slatchoea ZL-W c18-4,2019-09-12T02:52:27Z
+Non Terraformable,Myoideau KX-U d2-2,2019-08-03T06:48:57Z
+L Type Star,Pyrivou LG-X c17-8,2019-09-14T04:47:21Z
+Earthlike body,Myoagaae BC-D d12-4 A 7,2019-09-08T06:32:20Z
+G Type Star,Flyai Blou ZA-L d9-0,2019-09-28T16:54:11Z
+Non Terraformable,Dryau Aowsy HN-S c17-578,2019-05-19T22:52:47Z
+Non Terraformable,Pueloe IH-U c16-68,2019-05-19T19:30:22Z
+F Type Star,Zuni JM-W e1-3285,2019-05-20T02:00:13Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:14:36Z
+K Type Star,Gyrafaae UU-P c5-0,2019-09-01T08:47:44Z
+Y Type Star,Slulee DK-I d9-99,2019-05-22T17:29:47Z
+Roseum Brain Tree,Prua Phoe TS-B d43,2019-06-14T02:53:41Z
+K Type Star,Prie Aoc NJ-X c28-1,2019-10-10T08:13:31Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:53:12Z
+Non Terraformable,Greou Blou QN-S c20-0,2019-09-24T00:07:47Z
+Standard gas giant,Engofy PX-J c25-3,2019-06-30T00:09:25Z
+T Type Star,Prua Dryou DT-N c21-0,2019-06-19T01:35:27Z
+Standard gas giant,Slatchoea ZL-W c18-4,2019-09-12T02:56:46Z
+Earthlike body,Birmingham,2019-04-30T22:50:37Z
+G Type Star,Dryau Aowsy II-B d13-6174,2019-05-19T23:08:28Z
+Black Hole,Gru Eork FG-Y g0,2019-06-09T23:06:19Z
+Sulphur Dioxide Fumarole,Engofs SO-Z e0,2019-07-03T10:30:52Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T02:57:52Z
+Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5,2019-10-28T03:35:47Z
+K Type Star,Skaude LC-C d57,2019-10-15T07:44:22Z
+Non Terraformable,Flimbu BB-W d2-9,2019-10-29T06:16:25Z
+Earthlike body,Eishat ZN-F c0 A 1,2019-09-17T04:48:01Z
+Water Ice Fumarole,Hypiae Aescs JI-A c14-0,2019-08-04T20:32:09Z
+Non Terraformable,Thaileae HY-F d12-2,2019-06-27T06:57:03Z
+Terraformable,Zuni MD-K d8-2246,2019-05-20T02:14:51Z
+Prasinum Metallic Crystals,Bleae Thaa CQ-N b7-2,2019-06-07T06:59:31Z
+Non Terraformable,Flimbu ZF-W d2-1,2019-10-29T06:19:01Z
+Sulphur Dioxide Gas Vent,Engorshch YA-U d4-0,2019-06-30T22:07:40Z
+Guardian Codex,Vela Dark Region EG-X b1-1,2019-07-15T09:38:39Z
+T Tauri Star,Flyeia Hypai XJ-Z e3,2019-05-27T20:39:22Z
+T Type Star,Plaa Ain VS-U d2-295,2019-05-19T04:52:56Z
+Non Terraformable,Pueloe WO-Z c13-201,2019-05-19T19:23:30Z
+B Type Giant,Maia,2019-09-19T13:42:04Z
+A Type Star,Thaileae IY-F d12-0,2019-06-27T10:39:31Z
