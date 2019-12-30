@@ -1,0 +1,576 @@
+timestamp,Name_Localised,System
+2000-01-01T00,Bark Mounds,2MASS J18192265-1631091
+2000-01-01T01,Bark Mounds,2MASS J18194800-1644152
+2000-01-01T02,Bark Mounds,5 Rho Scorpii
+2000-01-01T03,Bark Mounds,Aiphaisty AB-O d6-159
+2000-01-01T04,Bark Mounds,Aiphaisty LX-U e2-24
+2000-01-01T05,Bark Mounds,Armstrong
+2000-01-01T06,Bark Mounds,Blaa Hypai CQ-X d1-21
+2000-01-01T07,Bark Mounds,Blaa Hypai CZ-D c13-0
+2000-01-01T08,Bark Mounds,Blaa Hypai GG-V c3-4
+2000-01-01T09,Bark Mounds,Blaa Hypai HW-V d2-6
+2000-01-01T10,Bark Mounds,Blaa Hypai HY-H b26-1
+2000-01-01T11,Bark Mounds,Blaa Hypai LZ-F b27-0
+2000-01-01T12,Bark Mounds,Blaa Hypai OZ-O d6-16
+2000-01-01T13,Bark Mounds,Blae Drye PE-E d13-6
+2000-01-01T14,Bark Mounds,Blae Drye QZ-D d13-103
+2000-01-01T15,Bark Mounds,Blae Drye TK-C d14-37
+2000-01-01T16,Bark Mounds,Blae Drye VM-G b58-13
+2000-01-01T17,Bark Mounds,Blae Eork NE-E d13-25
+2000-01-01T18,Bark Mounds,Blae Eork RU-D d13-20
+2000-01-01T19,Bark Mounds,Bleae Aewsy GV-X d1-27
+2000-01-01T20,Bark Mounds,Bleae Aewsy LE-M b10-1
+2000-01-01T21,Bark Mounds,Bleethuae CC-B c1-229
+2000-01-01T22,Bark Mounds,Bleethuae MN-B d1365
+2000-01-01T23,Bark Mounds,Bleethuae NI-B d674
+2000-01-01T24,Bark Mounds,Bleethuae XV-C c285
+2000-01-01T25,Bark Mounds,Bleia Dryiae EK-C d14-102
+2000-01-01T26,Bark Mounds,Bleia Dryiae EK-C d14-18
+2000-01-01T27,Bark Mounds,Bleia Dryiae IH-K c25-36
+2000-01-01T28,Bark Mounds,Bleia Dryiae ZQ-E b59-8
+2000-01-01T29,Bark Mounds,Blo Aescs RR-U c19-18
+2000-01-01T30,Bark Mounds,Blo Aescs YY-A d80
+2000-01-01T31,Bark Mounds,Blua Eaec AN-E c14-357
+2000-01-01T32,Bark Mounds,Blua Eaec AN-E c14-41
+2000-01-01T33,Bark Mounds,Blua Eaec EW-V e2-3175
+2000-01-01T34,Bark Mounds,Blua Eaec EW-V e2-3617
+2000-01-01T35,Bark Mounds,Blua Eaec LD-Q d6-1538
+2000-01-01T36,Bark Mounds,Blua Eaec PJ-O d7-1262
+2000-01-01T37,Bark Mounds,Blue Phroea EK-C d14-0
+2000-01-01T38,Bark Mounds,Boepp XA-D d13-2289
+2000-01-01T39,Bark Mounds,Boepp XA-D d13-2791
+2000-01-01T40,Bark Mounds,Boepp ZK-O e6-226
+2000-01-01T41,Bark Mounds,Boeppy XZ-X d1-13
+2000-01-01T42,Bark Mounds,Boewnst CB-W c18-748
+2000-01-01T43,Bark Mounds,Boewnst CV-P d5-631
+2000-01-01T44,Bark Mounds,Boewnst GM-U c19-2109
+2000-01-01T45,Bark Mounds,Boewnst HN-S e4-325
+2000-01-01T46,Bark Mounds,Boewnst KS-S c20-959
+2000-01-01T47,Bark Mounds,Boewnst LU-M d8-3748
+2000-01-01T48,Bark Mounds,Boewnst OA-L d9-1285
+2000-01-01T49,Bark Mounds,Boewnst OA-L d9-4513
+2000-01-01T50,Bark Mounds,Boewnst PA-L d9-4002
+2000-01-01T51,Bark Mounds,Boewnst PT-Q c21-905
+2000-01-01T52,Bark Mounds,Boewnst RL-J d10-1594
+2000-01-01T53,Bark Mounds,Boewnst SG-J d10-4272
+2000-01-01T54,Bark Mounds,Boewnst SJ-P c22-1176
+2000-01-01T55,Bark Mounds,Boewnst TG-J d10-1066
+2000-01-01T56,Bark Mounds,Boewnst TG-J d10-1093
+2000-01-01T57,Bark Mounds,Boewnst TG-J d10-488
+2000-01-01T58,Bark Mounds,Boewnst TG-J d10-5134
+2000-01-01T59,Bark Mounds,Boewnst ZJ-R d4-26
+2000-01-01T60,Bark Mounds,Bubble Sector LX-T b3-1
+2000-01-01T61,Bark Mounds,Byaa Ain YP-V d3-654
+2000-01-01T62,Bark Mounds,Byeia Euq OG-Y d221
+2000-01-01T63,Bark Mounds,Byeia Eurk FB-A c34
+2000-01-01T64,Bark Mounds,Byeia Eurk OA-A d275
+2000-01-01T65,Bark Mounds,Byua Aim HY-F d12-1322
+2000-01-01T66,Bark Mounds,Byua Aim MX-K d8-4056
+2000-01-01T67,Bark Mounds,Byua Aim TE-W c16-130
+2000-01-01T68,Bark Mounds,California Sector BA-A e6
+2000-01-01T69,Bark Mounds,California Sector DL-Y d25
+2000-01-01T70,Bark Mounds,California Sector DL-Y d4
+2000-01-01T71,Bark Mounds,Cat's Paw Sector FW-W d1-138
+2000-01-01T72,Bark Mounds,Cat's Paw Sector HR-W d1-240
+2000-01-01T73,Bark Mounds,Cat's Paw Sector SY-R b4-10
+2000-01-01T74,Bark Mounds,Cave Sector PN-T c3-2
+2000-01-01T75,Bark Mounds,Col 69 Sector OO-G c11-11
+2000-01-01T76,Bark Mounds,Col 69 Sector VY-R c4-1
+2000-01-01T77,Bark Mounds,Crescent Sector GW-W c1-8
+2000-01-01T78,Bark Mounds,Crescent Sector KC-V c2-8
+2000-01-01T79,Bark Mounds,Crookaae QT-C c15-2
+2000-01-01T80,Bark Mounds,Crooki PX-V c17-2
+2000-01-01T81,Bark Mounds,Dryi Aoc CH-C d13-218
+2000-01-01T82,Bark Mounds,Dryiquae ND-Z c27-1
+2000-01-01T83,Bark Mounds,Dryo Aob AR-U b46-1
+2000-01-01T84,Bark Mounds,Dryo Aob NT-Y b44-0
+2000-01-01T85,Bark Mounds,Dryo Aob TO-M c22-0
+2000-01-01T86,Bark Mounds,Dryo Aob UJ-M c22-7
+2000-01-01T87,Bark Mounds,Dryo Aob VJ-M c22-2
+2000-01-01T88,Bark Mounds,Dryo Aob WE-G d11-32
+2000-01-01T89,Bark Mounds,Dryo Aob XV-U b46-1
+2000-01-01T90,Bark Mounds,Dryo Aob YZ-F d11-1
+2000-01-01T91,Bark Mounds,Dryo Aob YZ-F d11-32
+2000-01-01T92,Bark Mounds,Dryo Aob YZ-F d11-38
+2000-01-01T93,Bark Mounds,Dryo Aob ZZ-F d11-12
+2000-01-01T94,Bark Mounds,Dryo Aob ZZ-F d11-32
+2000-01-01T95,Bark Mounds,Dryo Aob ZZ-F d11-46
+2000-01-01T96,Bark Mounds,Dryooe Prou AF-A e210
+2000-01-01T97,Bark Mounds,Dryooe Prou KG-X c1-135
+2000-01-01T98,Bark Mounds,Dryooe Prou QD-B e44
+2000-01-01T99,Bark Mounds,Eafots BP-I d9-49
+2000-01-01T100,Bark Mounds,Eafots MM-Q b46-0
+2000-01-01T101,Bark Mounds,Eafots TC-M d7-10
+2000-01-01T102,Bark Mounds,Eafots YO-G c24-1
+2000-01-01T103,Bark Mounds,Eagle Sector GW-W c1-29
+2000-01-01T104,Bark Mounds,Eagle Sector IR-W d1-105
+2000-01-01T105,Bark Mounds,Eagle Sector OI-T b3-11
+2000-01-01T106,Bark Mounds,Eeshorks QI-B d1411
+2000-01-01T107,Bark Mounds,Eeshorks SD-B d1524
+2000-01-01T108,Bark Mounds,Eeshorks SD-B d785
+2000-01-01T109,Bark Mounds,Eeshorks WO-A e197
+2000-01-01T110,Bark Mounds,Eeshorps DY-G d11-1031
+2000-01-01T111,Bark Mounds,Eock Bluae BY-T c3-0
+2000-01-01T112,Bark Mounds,Eock Bluae HV-Y d1
+2000-01-01T113,Bark Mounds,Eock Bluae JQ-Y d4
+2000-01-01T114,Bark Mounds,Eock Bluae OO-R b5-0
+2000-01-01T115,Bark Mounds,Eock Bluae PQ-X c1-0
+2000-01-01T116,Bark Mounds,Eock Bluae VM-V c2-1
+2000-01-01T117,Bark Mounds,Eol Prou HM-D c28-1070
+2000-01-01T118,Bark Mounds,Eol Prou SQ-B d14-2142
+2000-01-01T119,Bark Mounds,Eol Prou VP-O e6-91
+2000-01-01T120,Bark Mounds,Eolls Graae FM-U d3-25
+2000-01-01T121,Bark Mounds,Eolls Graae YZ-Y e15
+2000-01-01T122,Bark Mounds,Eor Aoc EH-L d8-294
+2000-01-01T123,Bark Mounds,Eor Aoc EH-L d8-924
+2000-01-01T124,Bark Mounds,Eor Auscs XV-K d9-166
+2000-01-01T125,Bark Mounds,Eord Prau JM-V e2-212
+2000-01-01T126,Bark Mounds,Eord Prau UJ-P d6-1078
+2000-01-01T127,Bark Mounds,Eord Prau UJ-P d6-1079
+2000-01-01T128,Bark Mounds,Eorl Auwsy SY-Z d13-2376
+2000-01-01T129,Bark Mounds,Eorl Auwsy SY-Z d13-4137
+2000-01-01T130,Bark Mounds,Eorl Auwsy SY-Z d13-544
+2000-01-01T131,Bark Mounds,Eorl Auwsy UT-Z d13-432
+2000-01-01T132,Bark Mounds,Eotchorks OK-C d14-0
+2000-01-01T133,Bark Mounds,EQ Tauri
+2000-01-01T134,Bark Mounds,Eta Carina Sector BV-Y c11
+2000-01-01T135,Bark Mounds,Eta Carina Sector EL-Y d16
+2000-01-01T136,Bark Mounds,Eta Carina Sector HR-W d1-8
+2000-01-01T137,Bark Mounds,Eta Carina Sector IM-V c2-4
+2000-01-01T138,Bark Mounds,Eulail QX-T d3-113
+2000-01-01T139,Bark Mounds,Eulail QX-T d3-52
+2000-01-01T140,Bark Mounds,Flame Sector SY-S c3-2
+2000-01-01T141,Bark Mounds,Flaming Star Sector ZU-Y c1
+2000-01-01T142,Bark Mounds,Floagh BS-B d13-1
+2000-01-01T143,Bark Mounds,Floagh CN-B d13-0
+2000-01-01T144,Bark Mounds,Floagh EI-B d13-0
+2000-01-01T145,Bark Mounds,Floagh HT-Z d13-0
+2000-01-01T146,Bark Mounds,Floagh IO-Z d13-1
+2000-01-01T147,Bark Mounds,Floagh JO-Z d13-0
+2000-01-01T148,Bark Mounds,Floalt EO-G d11-143
+2000-01-01T149,Bark Mounds,Floalt HJ-G d11-64
+2000-01-01T150,Bark Mounds,Floalt IJ-G d11-297
+2000-01-01T151,Bark Mounds,Floalt KU-E d12-218
+2000-01-01T152,Bark Mounds,Floalt KU-E d12-540
+2000-01-01T153,Bark Mounds,Floalt TY-K c23-31
+2000-01-01T154,Bark Mounds,Floarks DW-N e6-726
+2000-01-01T155,Bark Mounds,Floarks NT-Z d13-1122
+2000-01-01T156,Bark Mounds,Floarks YR-Z c27-69
+2000-01-01T157,Bark Mounds,Floawns BV-V d3-1123
+2000-01-01T158,Bark Mounds,Floawns DQ-V d3-142
+2000-01-01T159,Bark Mounds,Floawns DQ-V d3-266
+2000-01-01T160,Bark Mounds,Flyai Flyuae GW-W c1-2
+2000-01-01T161,Bark Mounds,Flyiedgai HQ-I c24-2
+2000-01-01T162,Bark Mounds,Flyiedgai PF-E d12-2
+2000-01-01T163,Bark Mounds,Flyiedgai RB-R b48-0
+2000-01-01T164,Bark Mounds,Flyiedgai RF-E d12-11
+2000-01-01T165,Bark Mounds,Flyiedgai TL-C d13-22
+2000-01-01T166,Bark Mounds,Flyiedgai XF-O e6-3
+2000-01-01T167,Bark Mounds,Flyiedgai XF-O e6-6
+2000-01-01T168,Bark Mounds,Froarks JH-T d4-434
+2000-01-01T169,Bark Mounds,Froarks JH-T d4-544
+2000-01-01T170,Bark Mounds,Froarks RT-M c9-229
+2000-01-01T171,Bark Mounds,Greae Phio DT-G d11-1473
+2000-01-01T172,Bark Mounds,Greae Phio DT-G d11-2101
+2000-01-01T173,Bark Mounds,Greae Phio FO-G d11-196
+2000-01-01T174,Bark Mounds,Greae Phio QE-Q e5-4021
+2000-01-01T175,Bark Mounds,Greae Phio UG-K d9-116
+2000-01-01T176,Bark Mounds,Greae Phio ZM-I d10-1500
+2000-01-01T177,Bark Mounds,Greae Phoea RX-V b47-59
+2000-01-01T178,Bark Mounds,Greae Phoea TZ-E d12-752
+2000-01-01T179,Bark Mounds,Gria Drye CU-E b4-21
+2000-01-01T180,Bark Mounds,Gria Drye LP-F b3-12
+2000-01-01T181,Bark Mounds,Gria Eork ZT-D c1-5
+2000-01-01T182,Bark Mounds,Gru Hypue AC-K c9-4
+2000-01-01T183,Bark Mounds,Gru Hypue GM-V d2-16
+2000-01-01T184,Bark Mounds,Gru Hypue GM-V d2-6
+2000-01-01T185,Bark Mounds,Gru Hypue JX-T d3-4
+2000-01-01T186,Bark Mounds,Gru Hypue KS-T d3-31
+2000-01-01T187,Bark Mounds,Gru Hypue PY-R d4-59
+2000-01-01T188,Bark Mounds,Gru Hypue XG-K c9-4
+2000-01-01T189,Bark Mounds,Gru Hypue YH-X b16-0
+2000-01-01T190,Bark Mounds,Gru Hypue ZB-K c9-1
+2000-01-01T191,Bark Mounds,Gru Phio BA-Z e398
+2000-01-01T192,Bark Mounds,H97b 326
+2000-01-01T193,Bark Mounds,HD 259637
+2000-01-01T194,Bark Mounds,HD 278990
+2000-01-01T195,Bark Mounds,HD 35901
+2000-01-01T196,Bark Mounds,HD 36540
+2000-01-01T197,Bark Mounds,Heart Sector DL-Y d65
+2000-01-01T198,Bark Mounds,Heart Sector DL-Y e12
+2000-01-01T199,Bark Mounds,Heart Sector IR-V b2-0
+2000-01-01T200,Bark Mounds,Heart Sector RD-B b1
+2000-01-01T201,Bark Mounds,Heart Sector ZE-A d61
+2000-01-01T202,Bark Mounds,Hind Sector BQ-Y d20
+2000-01-01T203,Bark Mounds,Hind Sector BQ-Y d8
+2000-01-01T204,Bark Mounds,Hind Sector HW-W c1-2
+2000-01-01T205,Bark Mounds,Hind Sector PI-T c3-6
+2000-01-01T206,Bark Mounds,HIP 13786
+2000-01-01T207,Bark Mounds,HIP 15746
+2000-01-01T208,Bark Mounds,HIP 15937
+2000-01-01T209,Bark Mounds,HIP 16639
+2000-01-01T210,Bark Mounds,HIP 16985
+2000-01-01T211,Bark Mounds,HIP 17289
+2000-01-01T212,Bark Mounds,HIP 17401
+2000-01-01T213,Bark Mounds,HIP 17403
+2000-01-01T214,Bark Mounds,HIP 18431
+2000-01-01T215,Bark Mounds,HIP 18730
+2000-01-01T216,Bark Mounds,HIP 18823
+2000-01-01T217,Bark Mounds,HIP 19262
+2000-01-01T218,Bark Mounds,HIP 19284
+2000-01-01T219,Bark Mounds,HIP 19382
+2000-01-01T220,Bark Mounds,HIP 19519
+2000-01-01T221,Bark Mounds,HIP 19616
+2000-01-01T222,Bark Mounds,HIP 19960
+2000-01-01T223,Bark Mounds,HIP 20646
+2000-01-01T224,Bark Mounds,HIP 20960
+2000-01-01T225,Bark Mounds,HIP 21845
+2000-01-01T226,Bark Mounds,HIP 22334
+2000-01-01T227,Bark Mounds,HIP 23483
+2000-01-01T228,Bark Mounds,HIP 2371
+2000-01-01T229,Bark Mounds,HIP 23759
+2000-01-01T230,Bark Mounds,HIP 3289
+2000-01-01T231,Bark Mounds,HIP 41908
+2000-01-01T232,Bark Mounds,HIP 43794
+2000-01-01T233,Bark Mounds,HIP 46193
+2000-01-01T234,Bark Mounds,HIP 80804
+2000-01-01T235,Bark Mounds,HIP 85071
+2000-01-01T236,Bark Mounds,HR 1918
+2000-01-01T237,Bark Mounds,HR 4220
+2000-01-01T238,Bark Mounds,HR 5906
+2000-01-01T239,Bark Mounds,Hypao Brai YR-I d10-7
+2000-01-01T240,Bark Mounds,Hypio Flyao FV-O d6-69
+2000-01-01T241,Bark Mounds,Hypio Prao PT-G d11-96
+2000-01-01T242,Bark Mounds,Hypoae Ain PP-W c15-2
+2000-01-01T243,Bark Mounds,Hypoae Ain QX-N b34-2
+2000-01-01T244,Bark Mounds,Hypoae Ain UW-S c17-9
+2000-01-01T245,Bark Mounds,Hypoae Ain WH-R c18-0
+2000-01-01T246,Bark Mounds,IC 1287 Sector IH-V c2-28
+2000-01-01T247,Bark Mounds,IC 1287 Sector MN-T c3-11
+2000-01-01T248,Bark Mounds,IC 1287 Sector RO-Q b5-1
+2000-01-01T249,Bark Mounds,Iowhaih GY-B c16-0
+2000-01-01T250,Bark Mounds,Iowhail VY-S e3-5339
+2000-01-01T251,Bark Mounds,Iris Sector DL-Y d5
+2000-01-01T252,Bark Mounds,Iris Sector KC-V c2-2
+2000-01-01T253,Bark Mounds,Jellyfish Sector HR-W d1-19
+2000-01-01T254,Bark Mounds,Jellyfish Sector JH-V c2-1
+2000-01-01T255,Bark Mounds,Jellyfish Sector KC-U b3-2
+2000-01-01T256,Bark Mounds,Jellyfish Sector PD-S b4-2
+2000-01-01T257,Bark Mounds,Lagoon Sector EM-V c2-10
+2000-01-01T258,Bark Mounds,Lagoon Sector FB-X c1-35
+2000-01-01T259,Bark Mounds,Lagoon Sector FW-W d1-136
+2000-01-01T260,Bark Mounds,Lagoon Sector FW-W d1-63
+2000-01-01T261,Bark Mounds,Lagoon Sector GW-W d1-131
+2000-01-01T262,Bark Mounds,Lagoon Sector JH-V c2-34
+2000-01-01T263,Bark Mounds,Lagoon Sector MX-T b3-5
+2000-01-01T264,Bark Mounds,Lagoon Sector RO-R c4-22
+2000-01-01T265,Bark Mounds,Lagoon Sector ZU-Y d61
+2000-01-01T266,Bark Mounds,Leamae AM-B d14-600
+2000-01-01T267,Bark Mounds,Leamae GS-K b54-49
+2000-01-01T268,Bark Mounds,Leamae MT-I b55-31
+2000-01-01T269,Bark Mounds,Leamae UK-D d13-693
+2000-01-01T270,Bark Mounds,Leamae WF-D d13-250
+2000-01-01T271,Bark Mounds,Leamae YC-D c28-24
+2000-01-01T272,Bark Mounds,Leamae YP-O e6-1205
+2000-01-01T273,Bark Mounds,Leamae YP-O e6-2753
+2000-01-01T274,Bark Mounds,Leamae YP-O e6-3381
+2000-01-01T275,Bark Mounds,Leamae YP-O e6-3382
+2000-01-01T276,Bark Mounds,Leamae YQ-B d14-901
+2000-01-01T277,Bark Mounds,Lyaisoo OD-T e3-3353
+2000-01-01T278,Bark Mounds,Lyaisoo SP-O e6-6511
+2000-01-01T279,Bark Mounds,Mel 22 Sector HH-V d2-18
+2000-01-01T280,Bark Mounds,Messier 78 Sector JC-V c2-1
+2000-01-01T281,Bark Mounds,Monkey Head Sector CQ-Y d34
+2000-01-01T282,Bark Mounds,Monkey Head Sector SO-R c4-10
+2000-01-01T283,Bark Mounds,Musca Dark Region BQ-Y d86
+2000-01-01T284,Bark Mounds,Musca Dark Region CQ-Y d86
+2000-01-01T285,Bark Mounds,Musca Dark Region KM-W d1-70
+2000-01-01T286,Bark Mounds,Musca Dark Region LY-Q b5-9
+2000-01-01T287,Bark Mounds,Mynoaw RI-T e3-130
+2000-01-01T288,Bark Mounds,Myoangooe WR-I d10-16
+2000-01-01T289,Bark Mounds,NGC 1999 Sector AQ-Y d12
+2000-01-01T290,Bark Mounds,NGC 1999 Sector QY-R c4-2
+2000-01-01T291,Bark Mounds,NGC 3199 Sector DL-Y d12
+2000-01-01T292,Bark Mounds,NGC 6820 Sector BQ-Y d16
+2000-01-01T293,Bark Mounds,NGC 7822 Sector AQ-Y d10
+2000-01-01T294,Bark Mounds,NGC 7822 Sector BG-X c1-0
+2000-01-01T295,Bark Mounds,NGC 7822 Sector BQ-Y d5
+2000-01-01T296,Bark Mounds,NGC 7822 Sector CL-Y d12
+2000-01-01T297,Bark Mounds,NGC 7822 Sector CL-Y d14
+2000-01-01T298,Bark Mounds,NGC 7822 Sector CL-Y d7
+2000-01-01T299,Bark Mounds,NGC 7822 Sector CQ-Y d4
+2000-01-01T300,Bark Mounds,NGC 7822 Sector DL-Y d7
+2000-01-01T301,Bark Mounds,NGC 7822 Sector DL-Y d9
+2000-01-01T302,Bark Mounds,NGC 7822 Sector EB-X c1-1
+2000-01-01T303,Bark Mounds,NGC 7822 Sector EB-X c1-3
+2000-01-01T304,Bark Mounds,NGC 7822 Sector EG-Y e4
+2000-01-01T305,Bark Mounds,NGC 7822 Sector JC-V c2-7
+2000-01-01T306,Bark Mounds,NGC 7822 Sector LC-V c2-1
+2000-01-01T307,Bark Mounds,NGC 7822 Sector MS-T c3-0
+2000-01-01T308,Bark Mounds,North America Sector GW-W d1-75
+2000-01-01T309,Bark Mounds,Nyeajeou ZQ-B d14-16
+2000-01-01T310,Bark Mounds,Oephaif GN-O c21-82
+2000-01-01T311,Bark Mounds,Oephaif ND-I d10-608
+2000-01-01T312,Bark Mounds,Oephaif RY-R e4-84
+2000-01-01T313,Bark Mounds,Oephaif VP-E d12-444
+2000-01-01T314,Bark Mounds,Omega Sector AA-Q b5-10
+2000-01-01T315,Bark Mounds,Omega Sector AF-A d153
+2000-01-01T316,Bark Mounds,Omega Sector BQ-Y d58
+2000-01-01T317,Bark Mounds,Omega Sector CQ-Y c44
+2000-01-01T318,Bark Mounds,Omega Sector DL-Y d127
+2000-01-01T319,Bark Mounds,Omega Sector DL-Y d131
+2000-01-01T320,Bark Mounds,Omega Sector DL-Y d158
+2000-01-01T321,Bark Mounds,Omega Sector DL-Y d183
+2000-01-01T322,Bark Mounds,Omega Sector DL-Y d72
+2000-01-01T323,Bark Mounds,Omega Sector DQ-Y c16
+2000-01-01T324,Bark Mounds,Omega Sector EL-Y d118
+2000-01-01T325,Bark Mounds,Omega Sector EL-Y d133
+2000-01-01T326,Bark Mounds,Omega Sector EL-Y d159
+2000-01-01T327,Bark Mounds,Omega Sector EL-Y d169
+2000-01-01T328,Bark Mounds,Omega Sector EL-Y d236
+2000-01-01T329,Bark Mounds,Omega Sector EL-Y d241
+2000-01-01T330,Bark Mounds,Omega Sector EL-Y d60
+2000-01-01T331,Bark Mounds,Omega Sector EL-Y d62
+2000-01-01T332,Bark Mounds,Omega Sector EL-Y d82
+2000-01-01T333,Bark Mounds,Omega Sector EL-Y d91
+2000-01-01T334,Bark Mounds,Omega Sector GG-Y d153
+2000-01-01T335,Bark Mounds,Omega Sector GM-M b7-0
+2000-01-01T336,Bark Mounds,Omega Sector GW-W d1-117
+2000-01-01T337,Bark Mounds,Omega Sector HR-W d1-16
+2000-01-01T338,Bark Mounds,Omega Sector HR-W d1-194
+2000-01-01T339,Bark Mounds,Omega Sector HR-W d1-197
+2000-01-01T340,Bark Mounds,Omega Sector HR-W d1-6
+2000-01-01T341,Bark Mounds,Omega Sector IR-W d1-208
+2000-01-01T342,Bark Mounds,Omega Sector IR-W d1-215
+2000-01-01T343,Bark Mounds,Omega Sector JH-V c2-6
+2000-01-01T344,Bark Mounds,Omega Sector JI-J b9-2
+2000-01-01T345,Bark Mounds,Omega Sector KC-V c2-15
+2000-01-01T346,Bark Mounds,Omega Sector KC-V c2-67
+2000-01-01T347,Bark Mounds,Omega Sector LC-V b2-14
+2000-01-01T348,Bark Mounds,Omega Sector LC-V c2-26
+2000-01-01T349,Bark Mounds,Omega Sector LC-V c2-52
+2000-01-01T350,Bark Mounds,Omega Sector LC-V c2-65
+2000-01-01T351,Bark Mounds,Omega Sector LC-V c2-75
+2000-01-01T352,Bark Mounds,Omega Sector OI-T c3-16
+2000-01-01T353,Bark Mounds,Omega Sector OS-T b3-14
+2000-01-01T354,Bark Mounds,Omega Sector PD-S b4-14
+2000-01-01T355,Bark Mounds,Omega Sector PY-R b4-1
+2000-01-01T356,Bark Mounds,Omega Sector UJ-Q b5-4
+2000-01-01T357,Bark Mounds,Omega Sector VE-Q b5-15
+2000-01-01T358,Bark Mounds,Omega Sector VJ-Q b5-6
+2000-01-01T359,Bark Mounds,Omega Sector WP-O b6-2
+2000-01-01T360,Bark Mounds,Orion Dark Region CL-Y d15
+2000-01-01T361,Bark Mounds,Orion Dark Region EG-Y d6
+2000-01-01T362,Bark Mounds,Orion Dark Region FG-Y d11
+2000-01-01T363,Bark Mounds,Orion Sector ZE-A d15
+2000-01-01T364,Bark Mounds,Outorst ZY-D c26-0
+2000-01-01T365,Bark Mounds,Parrot's Head Sector IH-V c2-20
+2000-01-01T366,Bark Mounds,Parrot's Head Sector ND-R b5-4
+2000-01-01T367,Bark Mounds,Pencil Sector AF-Z b3
+2000-01-01T368,Bark Mounds,Pencil Sector DL-Y d51
+2000-01-01T369,Bark Mounds,Pencil Sector EL-Y d5
+2000-01-01T370,Bark Mounds,Pencil Sector EL-Y d60
+2000-01-01T371,Bark Mounds,Pencil Sector GG-Y d101
+2000-01-01T372,Bark Mounds,Pencil Sector IR-W d1-144
+2000-01-01T373,Bark Mounds,Pencil Sector JM-V b2-13
+2000-01-01T374,Bark Mounds,Pencil Sector LR-W c1-16
+2000-01-01T375,Bark Mounds,Pencil Sector PX-U b2-1
+2000-01-01T376,Bark Mounds,Pencil Sector VY-A b8
+2000-01-01T377,Bark Mounds,Pencil Sector XT-A b3
+2000-01-01T378,Bark Mounds,Perseus Dark Region YL-L b8-0
+2000-01-01T379,Bark Mounds,Pha Flee OO-O d7-59
+2000-01-01T380,Bark Mounds,Pha Flee PO-O d7-6
+2000-01-01T381,Bark Mounds,Phraa Byoe CY-A b58-10
+2000-01-01T382,Bark Mounds,Phraa Byoe NY-B c28-347
+2000-01-01T383,Bark Mounds,Phraa Byoe SB-B d14-1833
+2000-01-01T384,Bark Mounds,Plaa Aescs NL-Y c16
+2000-01-01T385,Bark Mounds,Plaa Aescs QW-W c1-20
+2000-01-01T386,Bark Mounds,Plaa Aescs TC-V c2-11
+2000-01-01T387,Bark Mounds,Pleiades Sector AV-Y c5
+2000-01-01T388,Bark Mounds,Pleiades Sector AV-Y c7
+2000-01-01T389,Bark Mounds,Pleiades Sector BB-W b2-2
+2000-01-01T390,Bark Mounds,Pleiades Sector CG-X c1-11
+2000-01-01T391,Bark Mounds,Pleiades Sector CL-Y d14
+2000-01-01T392,Bark Mounds,Pleiades Sector DB-X c1-10
+2000-01-01T393,Bark Mounds,Pleiades Sector DL-Y d46
+2000-01-01T394,Bark Mounds,Pleiades Sector EL-Y d24
+2000-01-01T395,Bark Mounds,Pleiades Sector EL-Y d29
+2000-01-01T396,Bark Mounds,Pleiades Sector EL-Y d61
+2000-01-01T397,Bark Mounds,Pleiades Sector FB-X c1-3
+2000-01-01T398,Bark Mounds,Pleiades Sector FG-Y d32
+2000-01-01T399,Bark Mounds,Pleiades Sector GM-V b2-1
+2000-01-01T400,Bark Mounds,Pleiades Sector HM-V b2-0
+2000-01-01T401,Bark Mounds,Pleiades Sector HR-W d1-16
+2000-01-01T402,Bark Mounds,Pleiades Sector IR-W c1-1
+2000-01-01T403,Bark Mounds,Pleiades Sector MX-U c2-1
+2000-01-01T404,Bark Mounds,Pleiades Sector PN-T b3-0
+2000-01-01T405,Bark Mounds,Pleiades Sector QT-R b4-0
+2000-01-01T406,Bark Mounds,Pleiades Sector SI-T b3-0
+2000-01-01T407,Bark Mounds,Pleiades Sector UT-Z b1
+2000-01-01T408,Bark Mounds,Pleiades Sector UZ-X b1-2
+2000-01-01T409,Bark Mounds,Pleiades Sector XO-A c9
+2000-01-01T410,Bark Mounds,Pleiades Sector XZ-Y c3
+2000-01-01T411,Bark Mounds,Pleiades Sector YZ-Y c9
+2000-01-01T412,Bark Mounds,Pleiades Sector ZE-A d40
+2000-01-01T413,Bark Mounds,Pleiades Sector ZE-A d9
+2000-01-01T414,Bark Mounds,Pleiades Sector ZP-P b5-0
+2000-01-01T415,Bark Mounds,Pleiades Sector ZU-Y c1
+2000-01-01T416,Bark Mounds,Ploadaea RU-W d2-0
+2000-01-01T417,Bark Mounds,Praea Euq NF-R b4-8
+2000-01-01T418,Bark Mounds,Prai Hypoo GF-E c10
+2000-01-01T419,Bark Mounds,Prai Hypoo PC-C d50
+2000-01-01T420,Bark Mounds,Preae Ain KN-Z c1-1
+2000-01-01T421,Bark Mounds,Preae Ain KU-R b7-7
+2000-01-01T422,Bark Mounds,Preae Ain QI-B d82
+2000-01-01T423,Bark Mounds,Preae Ain SV-P b8-5
+2000-01-01T424,Bark Mounds,Preae Ain TE-Y d1-122
+2000-01-01T425,Bark Mounds,Preae Ain WZ-X d1-5
+2000-01-01T426,Bark Mounds,Preae Ain XU-X d1-47
+2000-01-01T427,Bark Mounds,Preae Ain YU-X d1-8
+2000-01-01T428,Bark Mounds,Preia Pri UF-A c1
+2000-01-01T429,Bark Mounds,Prua Phoe OB-C c1-17
+2000-01-01T430,Bark Mounds,Prua Phoe PE-O d7-140
+2000-01-01T431,Bark Mounds,Prua Phoe PU-M d8-273
+2000-01-01T432,Bark Mounds,Prua Phoe TK-M d8-361
+2000-01-01T433,Bark Mounds,Prua Phoe TS-B d252
+2000-01-01T434,Bark Mounds,Prua Phoe TS-B d43
+2000-01-01T435,Bark Mounds,Prua Phoe US-B d86
+2000-01-01T436,Bark Mounds,Prua Phoe US-B d93
+2000-01-01T437,Bark Mounds,Prua Phoe VV-K d9-776
+2000-01-01T438,Bark Mounds,Prua Phoe WN-B d16
+2000-01-01T439,Bark Mounds,Prua Phoe XD-A d1-171
+2000-01-01T440,Bark Mounds,Prua Phoe XL-H b1
+2000-01-01T441,Bark Mounds,Prua Phoe YY-Z d178
+2000-01-01T442,Bark Mounds,PW2010 207
+2000-01-01T443,Bark Mounds,PW2010 299
+2000-01-01T444,Bark Mounds,PW2010 305
+2000-01-01T445,Bark Mounds,PW2010 398
+2000-01-01T446,Bark Mounds,R CrA Sector EC-L b8-0
+2000-01-01T447,Bark Mounds,Rosette Sector CQ-Y d100
+2000-01-01T448,Bark Mounds,Rosette Sector CQ-Y d55
+2000-01-01T449,Bark Mounds,Rosette Sector CQ-Y d56
+2000-01-01T450,Bark Mounds,Rosette Sector CQ-Y d94
+2000-01-01T451,Bark Mounds,Rosette Sector EB-X c1-12
+2000-01-01T452,Bark Mounds,Rosette Sector EL-Y d15
+2000-01-01T453,Bark Mounds,Rosette Sector FB-X c1-1
+2000-01-01T454,Bark Mounds,Rosette Sector GW-W d1-2
+2000-01-01T455,Bark Mounds,Rosette Sector GW-W d1-34
+2000-01-01T456,Bark Mounds,Rosette Sector GW-W d1-59
+2000-01-01T457,Bark Mounds,Rosette Sector JH-V c2-13
+2000-01-01T458,Bark Mounds,Rosette Sector NN-T c3-14
+2000-01-01T459,Bark Mounds,Rosette Sector YE-A e19
+2000-01-01T460,Bark Mounds,Ross 558
+2000-01-01T461,Bark Mounds,Running Man Sector CQ-Y d14
+2000-01-01T462,Bark Mounds,Running Man Sector CQ-Y d8
+2000-01-01T463,Bark Mounds,Running Man Sector WF-N b7-0
+2000-01-01T464,Bark Mounds,S171 30
+2000-01-01T465,Bark Mounds,S171 43
+2000-01-01T466,Bark Mounds,S171 5
+2000-01-01T467,Bark Mounds,Sadr Region Sector DB-X c1-17
+2000-01-01T468,Bark Mounds,Sadr Region Sector NX-U c2-22
+2000-01-01T469,Bark Mounds,Scheau Blao KY-Z d13-504
+2000-01-01T470,Bark Mounds,Scheau Blao KY-Z d13-578
+2000-01-01T471,Bark Mounds,Seagull Sector HW-W c1-2
+2000-01-01T472,Bark Mounds,Seagull Sector KC-V c2-0
+2000-01-01T473,Bark Mounds,Seagull Sector MX-U c2-1
+2000-01-01T474,Bark Mounds,Segnao IH-S d5-1407
+2000-01-01T475,Bark Mounds,Segnao LN-Q d6-2083
+2000-01-01T476,Bark Mounds,Segnao MN-Q d6-5231
+2000-01-01T477,Bark Mounds,Segnao UU-I c12-277
+2000-01-01T478,Bark Mounds,Segnao YA-H c13-238
+2000-01-01T479,Bark Mounds,Shrogaae HA-A e2274
+2000-01-01T480,Bark Mounds,Sifi NF-A c3
+2000-01-01T481,Bark Mounds,Sifi PA-A c21
+2000-01-01T482,Bark Mounds,Skaudai AM-B d14-138
+2000-01-01T483,Bark Mounds,Skaudai AM-B d14-55
+2000-01-01T484,Bark Mounds,Skaudai AM-B d14-60
+2000-01-01T485,Bark Mounds,Skaudai BH-B d14-47
+2000-01-01T486,Bark Mounds,Skaudai BM-B d14-192
+2000-01-01T487,Bark Mounds,Skaudai BY-C c28-21
+2000-01-01T488,Bark Mounds,Skaudai CH-B d14-34
+2000-01-01T489,Bark Mounds,Skaudai CH-B d14-73
+2000-01-01T490,Bark Mounds,Skaudai DC-B d14-49
+2000-01-01T491,Bark Mounds,Skaudai DC-B d14-7
+2000-01-01T492,Bark Mounds,Skaudai EC-B d14-14
+2000-01-01T493,Bark Mounds,Skaudai EC-B d14-18
+2000-01-01T494,Bark Mounds,Skaudai GX-A d14-5
+2000-01-01T495,Bark Mounds,Skaudai JP-A c29-5
+2000-01-01T496,Bark Mounds,Skaudai KX-M b52-6
+2000-01-01T497,Bark Mounds,Skaudai TZ-E d12-220
+2000-01-01T498,Bark Mounds,Skaudai ZL-B d14-0
+2000-01-01T499,Bark Mounds,Slegao GL-F c27-0
+2000-01-01T500,Bark Mounds,Snake Sector HR-W d1-35
+2000-01-01T501,Bark Mounds,Snake Sector PD-S b4-6
+2000-01-01T502,Bark Mounds,Soul Sector KR-W c1-13
+2000-01-01T503,Bark Mounds,Statue of Liberty Sector DL-Y d25
+2000-01-01T504,Bark Mounds,Statue of Liberty Sector DL-Y d28
+2000-01-01T505,Bark Mounds,Statue of Liberty Sector ER-V b2-1
+2000-01-01T506,Bark Mounds,Stranoa IR-N d6-238
+2000-01-01T507,Bark Mounds,Struve's Lost Sector EW-M b7-1
+2000-01-01T508,Bark Mounds,Struve's Lost Sector EW-W c1-1
+2000-01-01T509,Bark Mounds,Struve's Lost Sector HR-W d1-29
+2000-01-01T510,Bark Mounds,Struve's Lost Sector NN-T c3-1
+2000-01-01T511,Bark Mounds,Struve's Lost Sector NN-T c3-6
+2000-01-01T512,Bark Mounds,T Tauri
+2000-01-01T513,Bark Mounds,Taurus Dark Region DL-Y d37
+2000-01-01T514,Bark Mounds,Taurus Dark Region EL-Y d25
+2000-01-01T515,Bark Mounds,Taurus Dark Region FW-W d1-18
+2000-01-01T516,Bark Mounds,Taurus Dark Region FW-W d1-38
+2000-01-01T517,Bark Mounds,Taurus Dark Region GW-W d1-36
+2000-01-01T518,Bark Mounds,Taurus Dark Region JH-V c2-9
+2000-01-01T519,Bark Mounds,Taurus Dark Region KX-T b3-0
+2000-01-01T520,Bark Mounds,Taurus Dark Region MS-T b3-0
+2000-01-01T521,Bark Mounds,Taurus Dark Region ON-T b3-1
+2000-01-01T522,Bark Mounds,Thor's Helmet Sector CQ-Y d9
+2000-01-01T523,Bark Mounds,Thor's Helmet Sector EW-W d1-17
+2000-01-01T524,Bark Mounds,Thor's Helmet Sector PN-T c3-2
+2000-01-01T525,Bark Mounds,Thueche LS-A d1-10
+2000-01-01T526,Bark Mounds,Tr 14 Sector LX-U d2-20
+2000-01-01T527,Bark Mounds,Traikaae GX-O b24-0
+2000-01-01T528,Bark Mounds,Traikaae HN-R d5-0
+2000-01-01T529,Bark Mounds,Traikaae KT-P d6-10
+2000-01-01T530,Bark Mounds,Traikaae KT-P d6-9
+2000-01-01T531,Bark Mounds,Traikaae LF-J c11-1
+2000-01-01T532,Bark Mounds,Traikaae OG-G c13-1
+2000-01-01T533,Bark Mounds,Traikaae VM-F c13-1
+2000-01-01T534,Bark Mounds,Traikaae VP-K b26-0
+2000-01-01T535,Bark Mounds,Traikeou QJ-P d6-13
+2000-01-01T536,Bark Mounds,Traikeou RA-B c15-3
+2000-01-01T537,Bark Mounds,Traikeou SE-P d6-16
+2000-01-01T538,Bark Mounds,Traikeou TE-P d6-2
+2000-01-01T539,Bark Mounds,Traikeou TE-P d6-20
+2000-01-01T540,Bark Mounds,Traikeou TV-A c15-3
+2000-01-01T541,Bark Mounds,Traikeou UV-A c15-0
+2000-01-01T542,Bark Mounds,Traikoa UO-X c28-43
+2000-01-01T543,Bark Mounds,Traikoa VO-X c28-34
+2000-01-01T544,Bark Mounds,Traikoa VO-X c28-55
+2000-01-01T545,Bark Mounds,Traikoa XO-Z d13-59
+2000-01-01T546,Bark Mounds,Trapezium Sector EB-W c2-7
+2000-01-01T547,Bark Mounds,Trapezium Sector XO-Y b1-0
+2000-01-01T548,Bark Mounds,Trifid of the North Sector BQ-Y d3
+2000-01-01T549,Bark Mounds,Trifid of the North Sector DL-Y e0
+2000-01-01T550,Bark Mounds,Trifid of the North Sector FW-W c1-0
+2000-01-01T551,Bark Mounds,Trifid of the North Sector GW-W d1-1
+2000-01-01T552,Bark Mounds,Trifid of the North Sector HR-W d1-8
+2000-01-01T553,Bark Mounds,Trifid of the North Sector IR-W d1-4
+2000-01-01T554,Bark Mounds,Trifid of the North Sector SO-R c4-0
+2000-01-01T555,Bark Mounds,Trifid Sector BQ-Y d11
+2000-01-01T556,Bark Mounds,Trifid Sector BQ-Y d226
+2000-01-01T557,Bark Mounds,Trifid Sector CQ-Y d117
+2000-01-01T558,Bark Mounds,Trifid Sector FW-W d1-233
+2000-01-01T559,Bark Mounds,Trifid Sector HR-W d1-251
+2000-01-01T560,Bark Mounds,Trifid Sector HR-W d1-256
+2000-01-01T561,Bark Mounds,Trifid Sector HR-W d1-45
+2000-01-01T562,Bark Mounds,Trifid Sector KC-V c2-42
+2000-01-01T563,Bark Mounds,V380 Orionis
+2000-01-01T564,Bark Mounds,V4203 Sagittarii
+2000-01-01T565,Bark Mounds,Vegnaa FN-J d9-3
+2000-01-01T566,Bark Mounds,Vegnaa FN-J d9-45
+2000-01-01T567,Bark Mounds,Vegnaa NL-R c19-3
+2000-01-01T568,Bark Mounds,Vegnaa PR-P c20-5
+2000-01-01T569,Bark Mounds,Vegneia AF-R e4-29
+2000-01-01T570,Bark Mounds,Vegneia ZD-R c18-135
+2000-01-01T571,Bark Mounds,Vegnue VK-E d12-1252
+2000-01-01T572,Bark Mounds,Vegnue VK-E d12-1615
+2000-01-01T573,Bark Mounds,Vegnue VK-E d12-853
+2000-01-01T574,Bark Mounds,Vegnue WZ-P e5-38
