@@ -1,60 +1,4 @@
 Name_Localised,System
-Abandoned Base,HIP 19284
-Abandoned Base,Pru Aescs NC-M d7-192
-Abandoned Base,Col 359 Sector RN-S c4-12
-Abandoned Base,Plaa Aec XZ-Z b41-0
-Abandoned Base,Conn
-Abandoned Base,Synuefe QA-U d4-27
-Abandoned Base,HR 5906
-Abandoned Base,Col 285 Sector ZT-I b25-0
-Abandoned Base,HIP 19792
-Abandoned Base,Synuefe JB-G b58-6
-Abandoned Base,Col 285 Sector BG-O d6-93
-Abandoned Base,Pleiades Sector GW-W c1-15
-Abandoned Base,Col 359 Sector RY-H d10-58
-Abandoned Base,Eafots EU-R c4-1
-Abandoned Base,Pru Aescs TY-J a64-1
-Abandoned Base,Alnath
-Abandoned Base,Col 285 Sector OZ-N c7-13
-Abandoned Base,Etain
-Abandoned Base,Plaa Aec TT-B b41-3
-Abandoned Base,HR 5991
-Abandoned Base,HIP 17403
-Abandoned Base,Pleiades Sector HR-W d1-17
-Abandoned Base,Pleiades Sector IC-U b3-1
-Abandoned Base,HIP 59382
-Abandoned Base,Pleiades Sector JN-S b4-3
-Abandoned Base,LP 389-95
-Abandoned Base,Col 285 Sector UZ-O c6-9
-Abandoned Base,HIP 16824
-Abandoned Base,Hyades Sector DR-V c2-23
-Abandoned Base,Plaa Aec RY-B b41-1
-Abandoned Base,Plaa Aec IZ-N c20-1
-Abandoned Base,Eafots LZ-H b10-0
-Abandoned Base,Wregoe JI-B d13-130
-Abandoned Base,Eafots RA-G b11-0
-Abandoned Base,Koli Discii
-Abandoned Base,Col 173 Sector LJ-F c12-0
-Abandoned Base,Aldhibah
-Abandoned Base,Etain
-Abandoned Base,Col 285 Sector EP-C b27-3
-Abandoned Base,Synuefai FV-U b20-0
-Abandoned Base,Nervir
-Abandoned Base,HR 1172
-Abandoned Base,12 Trianguli
-Abandoned Base,HIP 7158
-Abandoned Base,Eafots GL-Y e2
-Abandoned Base,HIP 83237
-Abandoned Base,Col 285 Sector YF-M c8-8
-Abandoned Base,Pru Aescs OI-K a64-0
-Abandoned Base,HIP 12099
-Abandoned Base,HIP 83003
-Abandoned Base,Col 285 Sector FL-X b17-3
-Abandoned Base,HIP 16217
-Abandoned Base,HIP 15329
-Abandoned Base,Pru Aescs HW-S b31-2
-Abandoned Base,Hermitage
-Abandoned Base,HR 6890
 Albidum Peduncle Tree,Flimbu ZF-W d2-1
 Albulum Gourd Mollusc,IC 1396 Sector GW-M b23-0
 Albulum Gourd Mollusc,IC 1396 Sector GW-M b23-0
@@ -129,6 +73,7 @@ Amphora Plants,Blo Eurl YN-T d3-45
 Amphora Plants,Uctaisps DQ-F d11-3
 Amphora Plants,Plaa Aec TU-G d10-67
 Amphora Plants,Prua Phio ZL-T d4-56
+Amphora Plants,Blo Eurl YN-T d3-45
 Anemones,Clooku SI-B e544
 Anemones,Lysoosms AL-P e5-16
 Anemones,Pru Aub DL-P e5-35
@@ -1503,6 +1448,7 @@ Bark Mounds,Floagh EI-B d13-0
 Bark Mounds,Omega Sector WA-N b7-11
 Bark Mounds,Skaudai TZ-E d12-220
 Bark Mounds,Skaudai ZL-B d14-0
+Bark Mounds,Pencil Sector HH-V c2-34
 Bark Mounds,Taurus Dark Region DL-Y d10
 Bark Mounds,Omega Sector EL-Y d91
 Bark Mounds,2MASS J18181088-1649167
@@ -1755,6 +1701,7 @@ Bark Mounds,Prua Phoe RP-M d8-31
 Bark Mounds,HD 36540
 Bark Mounds,Flyiedgai HQ-I c24-2
 Bark Mounds,Froarks JH-T d4-434
+Bark Mounds,Gru Hypue KS-T d3-31
 Bark Mounds,NGC 1999 Sector AQ-Y d12
 Bark Mounds,Bleia Dryiae ZQ-E b59-8
 Bark Mounds,Boewnst SJ-P c22-1176
@@ -2141,6 +2088,7 @@ Bark Mounds,Boewnst SJ-P c22-1176
 Bark Mounds,Grea Hypooe AA-P d6-7
 Bark Mounds,Flyiedgai RB-R b48-0
 Bark Mounds,Trapezium Sector DQ-X c1-5
+Bark Mounds,Pencil Sector HH-V c2-34
 Bark Mounds,Dryio Bloo PD-B e1804
 Bark Mounds,Witch Head Sector KC-V c2-10
 Bark Mounds,HIP 23759
@@ -2430,6 +2378,7 @@ Bark Mounds,Hypoae Ain WH-R c18-0
 Bark Mounds,Skaudai EC-B d14-18
 Bark Mounds,R CrA Sector EC-L b8-0
 Bark Mounds,Segnao MN-Q d6-5231
+Bark Mounds,Pencil Sector HH-V c2-34
 Bark Mounds,Thueche LS-A d1-9
 Bark Mounds,Omega Sector JH-V c2-6
 Bark Mounds,Gru Hypue KS-T d3-31
@@ -2638,331 +2587,7 @@ Bark Mounds,2MASS J18175026-1659370
 Bark Mounds,Omega Sector DQ-Y c16
 Bark Mounds,Bleethuae NI-B d674
 Bark Mounds,Prai Hypoo GF-E c10
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector LY-Q b5-2
-Barnacles,Pleiades Sector LY-Q b5-2
-Barnacles,Pleiades Sector WK-O b6-1
-Barnacles,Pleiades Sector SP-N b7-0
-Barnacles,Pleiades Sector CB-N b7-0
-Barnacles,Witch Head Sector DL-Y d17
-Barnacles,California Sector DL-Y d4
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector WK-O b6-1
-Barnacles,Pleiades Sector IX-S b4-4
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Pleiades Sector GH-L b8-0
-Barnacles,Pleiades Sector LY-Q b5-2
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector PI-T c3-9
-Barnacles,Witch Head Sector XE-Q b5-0
-Barnacles,HIP 14405
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,California Sector DL-Y d4
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,Pleiades Sector LY-Q b5-2
-Barnacles,Pleiades Sector PI-T c3-9
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,HIP 15823
-Barnacles,Pleiades Sector HM-V c2-10
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,HIP 17497
-Barnacles,HIP 17225
-Barnacles,Pleiades Sector HR-W d1-66
-Barnacles,Pleiades Sector LY-Q b5-2
-Barnacles,Pleiades Sector VF-N b7-0
-Barnacles,Pleiades Sector PI-T c3-9
-Barnacles,HIP 17225
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Pleiades Sector OI-T c3-7
-Barnacles,Pleiades Sector IX-S b4-4
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Pleiades Sector OI-T c3-7
-Barnacles,Pleiades Sector VF-N b7-0
-Barnacles,Pleiades Sector LN-S b4-3
-Barnacles,Outotz ST-I d9-6
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Witch Head Sector DL-Y d17
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,HIP 14405
-Barnacles,Witch Head Sector GW-W c1-4
-Barnacles,HIP 15823
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector XE-Q b5-2
-Barnacles,California Sector JH-V c2-12
-Barnacles,Witch Head Sector GW-W c1-4
-Barnacles,Pleiades Sector XE-Q b5-2
-Barnacles,Pleiades Sector XE-Q b5-2
-Barnacles,Pleiades Sector HR-W d1-66
-Barnacles,Witch Head Sector HW-W c1-7
-Barnacles,Pleiades Sector XE-Q b5-2
-Barnacles,Pleione
-Barnacles,Pleiades Sector IR-W d1-37
-Barnacles,Witch Head Sector HW-W c1-9
-Barnacles,HIP 17497
-Barnacles,Pleiades Sector SP-N b7-0
-Barnacles,Pleiades Sector RO-Q b5-0
-Barnacles,Pleiades Sector OI-T c3-7
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Witch Head Sector HW-W c1-7
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Pleiades Sector LN-T c3-7
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,HIP 17497
-Barnacles,HIP 21246
-Barnacles,Pleiades Sector HR-W d1-66
-Barnacles,Pleiades Sector SP-N b7-0
-Barnacles,Witch Head Sector DL-Y d17
-Barnacles,California Sector JH-V c2-12
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,Pleiades Sector LY-Q b5-2
-Barnacles,California Sector DL-Y d4
-Barnacles,Hyades Sector AQ-Y d81
-Barnacles,Pleiades Sector XE-Q b5-2
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector SE-P b6-0
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector LN-S b4-3
-Barnacles,Pleiades Sector LN-T c3-7
-Barnacles,Witch Head Sector GW-W c1-4
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,California Sector HR-W d1-28
-Barnacles,Pleiades Sector OI-T c3-7
-Barnacles,Witch Head Sector HW-W c1-7
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,Witch Head Sector HW-W c1-9
-Barnacles,California Sector LC-V c2-10
-Barnacles,Pleiades Sector HR-W d1-66
-Barnacles,HIP 16171
-Barnacles,Pleiades Sector UK-N b7-3
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Hyades Sector AQ-Y d81
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector HR-W d1-26
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,HIP 17497
-Barnacles,California Sector DL-Y d4
-Barnacles,Pleiades Sector SE-P b6-0
-Barnacles,HIP 15823
-Barnacles,Pleiades Sector RO-Q b5-0
-Barnacles,Pleiades Sector FB-X c1-10
-Barnacles,Pleiades Sector IX-S b4-4
-Barnacles,Witch Head Sector FB-X c1-11
-Barnacles,California Sector BV-Y c7
-Barnacles,Pleiades Sector HM-V c2-10
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector LN-S b4-3
-Barnacles,Witch Head Sector DL-Y d17
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,Merope
-Barnacles,Pleiades Sector UK-N b7-3
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Witch Head Sector HW-W c1-7
-Barnacles,Pleiades Sector SE-P b6-0
-Barnacles,Pleiades Sector CB-N b7-0
-Barnacles,Pleiades Sector PN-S b4-1
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Witch Head Sector DL-Y d17
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Witch Head Sector DL-Y d17
-Barnacles,Pleiades Sector LN-T c3-7
-Barnacles,California Sector DL-Y d4
-Barnacles,California Sector HR-W d1-28
-Barnacles,HIP 17225
-Barnacles,Pleiades Sector CL-Y d43
-Barnacles,Pleiades Sector SP-N b7-0
-Barnacles,Pleiades Sector FB-X c1-10
-Barnacles,Pleiades Sector QJ-Q b5-2
-Barnacles,Witch Head Sector XE-Q b5-0
-Barnacles,Pleiades Sector XU-P b5-1
-Barnacles,Pleiades Sector VF-N b7-0
-Barnacles,Pleiades Sector LN-S b4-3
-Barnacles,Witch Head Sector FB-X c1-11
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector SP-N b7-0
-Barnacles,Pleiades Sector VF-N b7-0
-Barnacles,Pleiades Sector VF-N b7-0
-Barnacles,California Sector BA-A e6
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Witch Head Sector XE-Q b5-0
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Pleiades Sector PI-T c3-9
-Barnacles,Pleiades Sector IX-S b4-4
-Barnacles,Witch Head Sector HW-W c1-9
-Barnacles,Pleiades Sector VF-N b7-0
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector GH-L b8-0
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,Pleiades Sector CL-Y d43
-Barnacles,Pleiades Sector LN-S b4-3
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector XE-Q b5-2
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Witch Head Sector HW-W c1-7
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector VF-N b7-0
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Outotz ST-I d9-6
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Pleiades Sector SE-P b6-0
-Barnacles,California Sector HR-W d1-28
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Witch Head Sector DL-Y d17
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,California Sector LC-V c2-10
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,California Sector BA-A e6
-Barnacles,Witch Head Sector DL-Y d17
-Barnacles,Hyades Sector AQ-Y d81
-Barnacles,Pleiades Sector CQ-P b5-0
-Barnacles,Pleiades Sector XE-Q b5-2
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,HIP 16171
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Pleione
-Barnacles,Outotz ST-I d9-6
-Barnacles,Pleiades Sector RO-Q b5-0
-Barnacles,California Sector LC-V c2-10
-Barnacles,Pleione
-Barnacles,Hyades Sector AQ-Y d81
-Barnacles,Pleiades Sector IX-S b4-4
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Merope
-Barnacles,Pleiades Sector LN-S b4-3
-Barnacles,Pleiades Sector PI-T c3-9
-Barnacles,Pleiades Sector HR-W d1-66
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Witch Head Sector GW-W c1-4
-Barnacles,Pleiades Sector EH-U b3-2
-Barnacles,Pleiades Sector VF-N b7-0
-Barnacles,HIP 16171
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Pleiades Sector HR-W d1-66
-Barnacles,Pleiades Sector FR-V c2-7
-Barnacles,Pleiades Sector HR-W d1-66
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Witch Head Sector GW-W c1-4
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Witch Head Sector XE-Q b5-0
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,HIP 14405
-Barnacles,Merope
-Barnacles,Pleiades Sector MS-T b3-1
-Barnacles,Pleiades Sector HM-M b7-1
-Barnacles,Pleiades Sector LN-T c3-7
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Pleiades Sector LY-Q b5-2
-Barnacles,Pleiades Sector UK-N b7-3
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector FR-V c2-2
-Barnacles,Pleiades Sector SP-N b7-0
-Barnacles,Pleiades Sector OI-T c3-7
-Barnacles,Pleiades Sector CQ-P b5-0
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Pleiades Sector KS-S b4-1
-Barnacles,Witch Head Sector GW-W c1-4
-Barnacles,Pleiades Sector FB-X c1-10
-Barnacles,Pleiades Sector NN-T c3-15
-Barnacles,Merope
-Barnacles,Pleiades Sector VF-N b7-0
-Barnacles,California Sector LC-V c2-10
-Barnacles,Witch Head Sector HW-W c1-7
-Barnacles,Pleiades Sector RO-Q b5-0
-Barnacles,Merope
-Barnacles,California Sector BA-A e6
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,Witch Head Sector FB-X c1-11
-Barnacles,California Sector BA-A e6
-Barnacles,Witch Head Sector XE-Q b5-0
-Barnacles,Merope
-Barnacles,HIP 17225
-Barnacles,California Sector BA-A e6
-Barnacles,Witch Head Sector DL-Y d17
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,Pleiades Sector XE-Q b5-2
-Barnacles,Pleiades Sector XO-A c9
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,California Sector DL-Y d4
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,California Sector DL-Y d4
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Merope
-Barnacles,Pleiades Sector XE-Q b5-2
-Barnacles,Witch Head Sector FB-X c1-11
-Barnacles,Pleiades Sector XU-P b5-1
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector RO-Q b5-0
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Pleiades Sector JC-U b3-2
-Barnacles,Pleiades Sector SP-N b7-0
-Barnacles,Pleiades Sector LY-Q b5-2
-Barnacles,Pleiades Sector OI-T c3-7
-Barnacles,Pleiades Sector LY-Q b5-2
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Pleione
-Barnacles,California Sector LC-V c2-10
-Barnacles,Pleiades Sector QJ-Q b5-2
-Barnacles,California Sector BV-Y c7
-Barnacles,California Sector DL-Y d4
-Barnacles,California Sector DL-Y d4
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,Pleiades Sector LN-S b4-3
-Barnacles,HIP 21246
-Barnacles,Pleiades Sector GH-L b8-0
-Barnacles,Pleione
-Barnacles,Pleiades Sector LN-S b4-3
-Barnacles,Witch Head Sector HW-W c1-7
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector IH-V c2-16
-Barnacles,Pleiades Sector CB-N b7-0
-Barnacles,Pleiades Sector PI-T c3-9
-Barnacles,Pleiades Sector XU-P b5-1
-Barnacles,Pleiades Sector RO-Q b5-0
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,Pleiades Sector OI-T c3-7
-Barnacles,Merope
-Barnacles,Witch Head Sector HW-W c1-9
-Barnacles,Pleiades Sector LN-T c3-7
-Barnacles,Witch Head Sector LC-V c2-10
-Barnacles,HIP 14405
-Barnacles,California Sector DL-Y d4
-Barnacles,Witch Head Sector DL-Y d17
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector OI-T c3-7
-Barnacles,Pleiades Sector LN-S b4-3
-Barnacles,Witch Head Sector HW-W c1-8
-Barnacles,Pleiades Sector YZ-Y c9
-Barnacles,Pleiades Sector GH-L b8-0
-Barnacles,Merope
-Barnacles,Pleiades Sector NN-T c3-15
-Barnacles,Pleiades Sector LN-T c3-7
-Barnacles,Pleiades Sector LY-Q b5-2
-Barnacles,Pleiades Sector PN-T b3-0
-Barnacles,Pleiades Sector QJ-Q b5-2
-Barnacles,HIP 15823
-Barnacles,Witch Head Sector DL-Y d17
+Bark Mounds,Phroea Gree VU-O e6-355
 Bell Molluscs,Skaudai AM-B d14-60
 Bell Molluscs,Prai Hypoo SX-B d10
 Bell Molluscs,Skaudai AM-B d14-138
@@ -3005,67 +2630,67 @@ Black Hole,Eeshovvy NS-U f2-3158
 Black Hole,Gru Eork FG-Y g0
 Black Hole,HIP 34707
 Black Hole,Slegou FG-Y g0
-blackHole,V1487 Aquilae
-blackHole,TrA X-1
-blackHole,Rhadia AA-A h59
-blackHole,Oob Brue ZE-A g0
-blackHole,Phrae Flyou HW-W f1-27
-blackHole,V406 Vulpeculae
-blackHole,QZ Vulpeculae
-blackHole,KV Ursae Majoris
-blackHole,Agnairt YU-Y f3281
-blackHole,Wepaa FG-Y g35
-blackHole,Phae Aim EG-Y g6
-blackHole,GRS 1730-312
-blackHole,Agnairt CL-Y g1280
-blackHole,Croomoea NI-B e89
-blackHole,GHJ2008 3
-blackHole,SLX 1746-331
-blackHole,Flyai Eaescs AA-A h46
-blackHole,Eok Pruae NS-U f2-1097
-blackHole,GRS 1737-31
-blackHole,Phleedgoea FG-Y g762
-blackHole,GRS 1758-258
-blackHole,Schieni CL-Y g2
-blackHole,XTE J1748-288
-blackHole,Auphaigh CL-Y g1
-blackHole,Shumbua AA-A h34
-blackHole,Beta Hydrae
-blackHole,Boewnst AA-A h33
-blackHole,Hypo Auf IH-V f2-59
-blackHole,Smoorea FG-Y g4
-blackHole,GU Muscae
-blackHole,Dryae Greau AA-A h31
-blackHole,GRS 1739-278
-blackHole,Pla Aick GA-A e1
-blackHole,XTE J1755-324
-blackHole,Cygni X-3
-blackHole,Phrio Hypue AA-A h0
-blackHole,V381 Normae
-blackHole,HD 43193
-blackHole,Eol Prou AA-A h162
-blackHole,Smaidou ZE-A g0
-blackHole,Phae Phlai AA-A h0
-blackHole,Grie Hypai DL-Y g2
-blackHole,V1357 Cygni
-blackHole,XTE J1856+053
-blackHole,Blaa Gree AA-A h0
-blackHole,Wepooe AA-A h509
-blackHole,V821 Arae
-blackHole,V404 Cygni
-blackHole,Thor's Eye
-blackHole,XTE J1752-223
-blackHole,XTE J2012+381
-blackHole,XTE J1817-330
-blackHole,Wepaa BA-A g1712
-blackHole,Smootaae ZE-A g1
-blackHole,V1033 Scorpii
-blackHole,V4641 Sagittarii
-blackHole,Traikoa FL-P e5-4
-blackHole,HL Lupis
-blackHole,Great Annihilator
-blackHole,V1343 Aquilae
-blackHole,Hyphokooe AA-A h62
+Black Hole,V1487 Aquilae
+Black Hole,TrA X-1
+Black Hole,Rhadia AA-A h59
+Black Hole,Oob Brue ZE-A g0
+Black Hole,Phrae Flyou HW-W f1-27
+Black Hole,V406 Vulpeculae
+Black Hole,QZ Vulpeculae
+Black Hole,KV Ursae Majoris
+Black Hole,Agnairt YU-Y f3281
+Black Hole,Wepaa FG-Y g35
+Black Hole,Phae Aim EG-Y g6
+Black Hole,GRS 1730-312
+Black Hole,Agnairt CL-Y g1280
+Black Hole,Croomoea NI-B e89
+Black Hole,GHJ2008 3
+Black Hole,SLX 1746-331
+Black Hole,Flyai Eaescs AA-A h46
+Black Hole,Eok Pruae NS-U f2-1097
+Black Hole,GRS 1737-31
+Black Hole,Phleedgoea FG-Y g762
+Black Hole,GRS 1758-258
+Black Hole,Schieni CL-Y g2
+Black Hole,XTE J1748-288
+Black Hole,Auphaigh CL-Y g1
+Black Hole,Shumbua AA-A h34
+Black Hole,Beta Hydrae
+Black Hole,Boewnst AA-A h33
+Black Hole,Hypo Auf IH-V f2-59
+Black Hole,Smoorea FG-Y g4
+Black Hole,GU Muscae
+Black Hole,Dryae Greau AA-A h31
+Black Hole,GRS 1739-278
+Black Hole,Pla Aick GA-A e1
+Black Hole,XTE J1755-324
+Black Hole,Cygni X-3
+Black Hole,Phrio Hypue AA-A h0
+Black Hole,V381 Normae
+Black Hole,HD 43193
+Black Hole,Eol Prou AA-A h162
+Black Hole,Smaidou ZE-A g0
+Black Hole,Phae Phlai AA-A h0
+Black Hole,Grie Hypai DL-Y g2
+Black Hole,V1357 Cygni
+Black Hole,XTE J1856+053
+Black Hole,Blaa Gree AA-A h0
+Black Hole,Wepooe AA-A h509
+Black Hole,V821 Arae
+Black Hole,V404 Cygni
+Black Hole,Thor's Eye
+Black Hole,XTE J1752-223
+Black Hole,XTE J2012+381
+Black Hole,XTE J1817-330
+Black Hole,Wepaa BA-A g1712
+Black Hole,Smootaae ZE-A g1
+Black Hole,V1033 Scorpii
+Black Hole,V4641 Sagittarii
+Black Hole,Traikoa FL-P e5-4
+Black Hole,HL Lupis
+Black Hole,Great Annihilator
+Black Hole,V1343 Aquilae
+Black Hole,Hyphokooe AA-A h62
 Blatteum Bioluminescent Anemone,Blielie FG-Y e0
 Blatteum Bioluminescent Anemone,Blielie FG-Y e0
 Blatteum Bioluminescent Anemone,HD 213209
@@ -3080,7 +2705,6 @@ Blatteum Bioluminescent Anemone,HD 213209
 Blatteum Bioluminescent Anemone,Flyiedgiae QI-T e3-4
 Blatteum Bioluminescent Anemone,Flyiedgiae QI-T e3-4
 Blatteum Bioluminescent Anemone,Flyiedge SI-B e57
-Blo Eurl YN-T d3-45,2019-08-20T02:18:36.000Z
 Brain Trees,Plio Eurl QE-H d10-37
 Brain Trees,Col 173 Sector MI-J d9-42
 Brain Trees,IC 2391 Sector IM-V b2-2
@@ -4398,6 +4022,7 @@ Brain Trees,Synuefe PX-J c25-8
 Brain Trees,Wregoe HH-U c16-31
 Brain Trees,Col 173 Sector AR-S c18-5
 Brain Trees,Col 173 Sector DG-M b24-4
+Brain Trees,Kappa-1 Volantis
 Caeruleum Lagrange Cloud,Skaudai AM-B d14-138
 Caeruleum Lagrange Cloud,Eol Prou IW-W e1-291
 Caeruleum Peduncle Pod,Weqee OI-Y c28-0
@@ -4450,11 +4075,14 @@ Carbon Dioxide Ice Fumarole,Prooe Drye VF-R c7-2
 Carbon Dioxide Ice Fumarole,Eiphain SX-U d2-13
 Carbon Dioxide Ice Fumarole,Messier 78 Sector KR-W c1-9
 Carbon Dioxide Ice Fumarole,Prooe Drye TB-H b16-0
+Carbon Dioxide Ice Fumarole,Eodgosly MJ-G d11-3
 Carbon Dioxide Ice Geyser,Swoiwns GQ-J b1-4
 Carbon Dioxide Ice Geyser,Prooe Drye VJ-U c5-8
 Carbon Dioxide Ice Geyser,Dumbe AJ-Z c14-525
+Carbon Dioxide Ice Geyser,Swoiphs CK-D b46-0
 Carbon Dioxide Ice Geyser,IC 1396 Sector ZN-A b43-2
 Carbon Dioxide Ice Geyser,Prua Phio QO-Y b33-0
+Carbon Dioxide Ice Geyser,Swoiphs CK-D b46-0
 Carbon Dioxide Ice Geyser,Veil East Sector RT-Q b5-2
 Carbon Dioxide Ice Geyser,Phroi Phoea BN-Y b6-0
 Carbon Dioxide Ice Geyser,Veil West Sector MX-T b3-0
@@ -4480,7 +4108,6 @@ Chalice Pods,Nuweou CQ-V d3-0
 Chryseum Void Heart,Shrogaae KK-A d983
 Chryseum Void Heart,Shrogaae KK-A d983
 CN Type Giant,Swoals IL-Y e0
-Col 285 Sector ZT-I b25-0,2019-03-22T12:59:15.000Z
 Collared Pods,Trifid Sector DL-Y d157
 Collared Pods,Trifid Sector HR-W d1-142
 Collared Pods,Trifid Sector FW-W d1-233
@@ -4493,26 +4120,6 @@ Collared Pods,Trifid Sector CQ-Y d117
 Collared Pods,Trifid Sector HR-W d1-257
 Collared Pods,Trifid Sector FW-W d1-233
 Collared Pods,Trifid Sector DL-Y d157
-Common Thargoid Barnacle,Merope
-Common Thargoid Barnacle,Merope
-Common Thargoid Barnacle,Merope
-Common Thargoid Barnacle,California Sector DL-Y d4
-Crashed Ship,Pleiades Sector LN-T c3-4
-Crashed Ship,34 Virginis
-Crashed Ship,Alshat
-Crashed Ship,Alshat
-Crashed Ship,44 k Virginis
-Crashed Ship,Luyten 674-15
-Crashed Ship,HIP 17125
-Crashed Ship,HIP 16613
-Crashed Ship,HIP 16613
-Crashed Ship,HIP 17403
-Crashed Ship,Arietis Sector ZE-A d75
-Crashed Ship,HIP 17746
-Crashed Ship,HIP 12099
-Crashed Ship,HIP 17862
-Crashed Ship,Alshat
-Crashed Ship,Pleiades Sector AB-W b2-4
 Croceum Lagrange Cloud,Colonia
 Croceum Lagrange Cloud,Eol Prou PX-T d3-270
 Croceum Lagrange Cloud,Xothuia SJ-J c24-198
@@ -4619,11 +4226,13 @@ Crystalline Shards,Schafuia CG-W c15-2
 Crystalline Shards,Auphaibs EN-M c10-7
 Crystalline Shards,Messier 78 Sector HB-X c1-1
 Crystalline Shards,Trifid of the North Sector DL-Y e0
+Crystalline Shards,HIP 36601
 Crystalline Shards,Phroea Hypai RD-Z d1-13
 Crystalline Shards,Outotz LS-K d8-3
 Crystalline Shards,Outotz HD-J d9-3
 Crystalline Shards,Pyroo Eork ZS-F d12-3
 Crystalline Shards,Bleae Briae HX-L d7-100
+Crystalline Shards,HIP 36601
 Crystalline Shards,Outotz HD-J d9-3
 Crystalline Shards,Dryafai KE-E d13-40
 Crystalline Shards,Qiedao TL-F c14-2
@@ -4649,6 +4258,7 @@ Crystalline Shards,Myeia Thaa VB-W c15-0
 Crystalline Shards,Slaiyue YI-B c13-0
 Crystalline Shards,Outotz HD-J d9-3
 Crystalline Shards,Blaa Byio VI-T d3-3
+Crystalline Shards,HIP 36601
 Crystalline Shards,Ploi Thua TP-E c25-0
 Crystalline Shards,Prie Chruia AK-R d4-7
 Crystalline Shards,Outopps PX-S c17-1
@@ -4685,6 +4295,7 @@ Crystalline Shards,Flyue Flyiae TI-K c11-47
 Crystalline Shards,Smojoa TD-K d8-2
 Crystalline Shards,Myeia Thaa VB-W c15-0
 Crystalline Shards,Col 69 Sector GQ-Y d4
+Crystalline Shards,HIP 36601
 Crystalline Shards,Oochost JN-O c21-0
 Crystalline Shards,Messier 78 Sector KR-W c1-9
 Crystalline Shards,Hypi Fruia XX-U d2-8
@@ -4846,6 +4457,7 @@ Crystalline Shards,Qiedao TL-F c14-2
 Crystalline Shards,Col 89 Sector ZF-N d7-11
 Crystalline Shards,Byua Chrea RI-S d4-28
 Crystalline Shards,Eorl Aewsy QD-K d8-11
+Crystalline Shards,Outotz HD-J d9-3
 deepSpaceOutpost,Pencil Sector EL-Y d5
 deepSpaceOutpost,Rosette Sector CQ-Y d59
 deepSpaceOutpost,Soul Sector EL-Y d7
@@ -4869,7 +4481,6 @@ deepSpaceOutpost,FW Cephei
 deepSpaceOutpost,NGC 7822 Sector BQ-Y d12
 deepSpaceOutpost,Kashyapa
 deepSpaceOutpost,HIP 18077
-deepSpaceOutpost,Gandharvi
 deepSpaceOutpost,Maia
 deepSpaceOutpost,HIP 23759
 deepSpaceOutpost,Rohini
@@ -4913,6 +4524,7 @@ Earth-Like Planet,Flyoo Drye LQ-N c23-4
 Earth-Like Planet,Preae Aec QH-M d7-5
 Earth-Like Planet,Groa
 Earth-Like Planet,Eurybia
+Earth-Like Planet,Stuemeae FG-Y d7561
 Earth-Like Planet,Velabiani
 Earth-Like Planet,Flyua Dryoae YK-E d12-7
 Earth-Like Planet,Tiln CC-S d5-1
@@ -5032,39 +4644,39 @@ Flavum Metallic Crystals,Flyiedgiae TI-I b6
 Flavum Metallic Crystals,Wredguia XD-K d8-24
 Flavum Metallic Crystals,Flyiedgiae TI-I b6
 Flavum Metallic Crystals,Lysooh ZN-W b29-1
-geyserPOI,Kyloasly DI-M c10-786
-geyserPOI,Phleedgoe ZW-N c22-5
-geyserPOI,Quemie RH-M d7-6
-geyserPOI,Swueneia XV-C d57
-geyserPOI,Phleedgoea AB-E d12-215
-geyserPOI,Agnairs CC-B d14-39
-geyserPOI,Rosette Sector JH-V c2-11
-geyserPOI,Hypao Brai RI-T c19-5
-geyserPOI,Dryiquae BW-C c26-1
-geyserPOI,Hypo Auf FX-I d10-17
-geyserPOI,Ploi Aerb RT-F c25-0
-geyserPOI,Eidaills OC-C d41
-geyserPOI,Veil West Sector DL-Y d68
-geyserPOI,Soul Sector EL-Y d7
-geyserPOI,Bla Bloae RF-L d9-77
-geyserPOI,Vegnaa ED-H b40-2
-geyserPOI,Cat's Paw Sector HR-W d1-31
-geyserPOI,Eullobs EL-Y e7
-geyserPOI,Screake SJ-Y d1-265
-geyserPOI,Teqo RI-K d8-67
-geyserPOI,Seagull Sector QD-T c3-5
-geyserPOI,Kyloall IA-Z d318
-geyserPOI,Phooe Auf HV-I c24-0
-geyserPOI,Hyphudgue JR-T d4-3
-geyserPOI,Running Man Sector FW-W d1-8
-geyserPOI,Hypiae Ausms IU-I c12-0
-geyserPOI,Byua Aub WO-K b36-0
-geyserPOI,Plaa Ain HE-A c1-0
-geyserPOI,Hypiae Ausms JU-I c12-1
-geyserPOI,Auphaibs EN-M c10-7
-geyserPOI,HIP 36601
-geyserPOI,Drojai MC-B d1-35
-geyserPOI,Dryae Bliae YH-C c13-0
+Geyser,Kyloasly DI-M c10-786
+Geyser,Phleedgoe ZW-N c22-5
+Geyser,Quemie RH-M d7-6
+Geyser,Swueneia XV-C d57
+Geyser,Phleedgoea AB-E d12-215
+Geyser,Agnairs CC-B d14-39
+Geyser,Rosette Sector JH-V c2-11
+Geyser,Hypao Brai RI-T c19-5
+Geyser,Dryiquae BW-C c26-1
+Geyser,Hypo Auf FX-I d10-17
+Geyser,Ploi Aerb RT-F c25-0
+Geyser,Eidaills OC-C d41
+Geyser,Veil West Sector DL-Y d68
+Geyser,Soul Sector EL-Y d7
+Geyser,Bla Bloae RF-L d9-77
+Geyser,Vegnaa ED-H b40-2
+Geyser,Cat's Paw Sector HR-W d1-31
+Geyser,Eullobs EL-Y e7
+Geyser,Screake SJ-Y d1-265
+Geyser,Teqo RI-K d8-67
+Geyser,Seagull Sector QD-T c3-5
+Geyser,Kyloall IA-Z d318
+Geyser,Phooe Auf HV-I c24-0
+Geyser,Hyphudgue JR-T d4-3
+Geyser,Running Man Sector FW-W d1-8
+Geyser,Hypiae Ausms IU-I c12-0
+Geyser,Byua Aub WO-K b36-0
+Geyser,Plaa Ain HE-A c1-0
+Geyser,Hypiae Ausms JU-I c12-1
+Geyser,Auphaibs EN-M c10-7
+Geyser,HIP 36601
+Geyser,Drojai MC-B d1-35
+Geyser,Dryae Bliae YH-C c13-0
 Gourd Molluscs,BD-12 1172
 Gourd Molluscs,HIP 79235
 Gourd Molluscs,Wredguia BM-M d7-26
@@ -5177,19 +4789,30 @@ Gourd Molluscs,Omega Sector GC-U b3-4 ABC
 Green gas giant,Gongae QW-L c24-0
 Green gas giant,Cryaa Ain ZJ-R e4-4
 Green gas giant,Synookio EI-J d9-1
+Guardian Beacon,HIP 36823
+Guardian Beacon,Synuefe KU-F b44-4
+Guardian Beacon,HIP 36823
 Guardian Beacon,Synuefe KU-F b44-4
 Guardian Beacon,Synuefe KU-F b44-4
+Guardian Beacon,HIP 36823
+Guardian Beacon,HIP 36823
+Guardian Beacon,HIP 36823
 Guardian Beacon,Synuefe KU-F b44-4
 Guardian Beacon,Synuefe KU-F b44-4
+Guardian Beacon,HIP 36823
 Guardian Beacon,Synuefe KU-F b44-4
+Guardian Beacon,HIP 36823
+Guardian Beacon,HIP 36823
 Guardian Beacon,Synuefe KU-F b44-4
-Guardian Beacon,Synuefe KU-F b44-4
+Guardian Codex,Synuefe NL-N c23-4
 Guardian Codex,Prua Phoe TS-B d252
+Guardian Codex,HIP 36781
 Guardian Codex,Synuefe TP-F b44-0
 Guardian Codex,Prua Phoe TS-B d252
 Guardian Codex,Synuefe TP-F b44-0
 Guardian Codex,Synuefe NL-N c23-4
 Guardian Codex,NGC 3199 Sector IM-V c2-5
+Guardian Codex,HIP 36781
 Guardian Codex,Synuefe NL-N c23-4
 Guardian Codex,Prua Phoe TS-B d252
 Guardian Codex,HD 63154
@@ -5202,11 +4825,14 @@ Guardian Codex,Synuefe NL-N c23-4
 Guardian Codex,Prua Phoe TS-B d252
 Guardian Codex,Skaudai AM-B d14-138
 Guardian Codex,Synuefe NL-N c23-4
+Guardian Codex,HIP 36781
 Guardian Codex,HD 63154
 Guardian Codex,Prua Phoe TS-B d252
 Guardian Codex,Prua Phoe TS-B d252
 Guardian Codex,Skaudai AM-B d14-138
 Guardian Codex,NGC 3199 Sector IM-V c2-5
+Guardian Codex,Synuefe IL-N c23-19
+Guardian Codex,Synuefe NL-N c23-4
 Guardian Codex,Synuefe NL-N c23-4
 Guardian Codex,Skaudai AM-B d14-138
 Guardian Codex,Synuefe NL-N c23-4
@@ -5222,10 +4848,16 @@ Guardian Codex,Vela Dark Region EG-X b1-1
 Guardian Codex,Synuefe TP-F b44-0
 Guardian Codex,Prua Phoe TS-B d252
 Guardian Codex,Prua Phoe TS-B d252
+Guardian Codex,HIP 36781
 Guardian Codex,NGC 3199 Sector IM-V c2-5
 Guardian Codex,Prua Phoe TS-B d252
 Guardian Codex,HD 63154
+Guardian Codex,HIP 36781
+Guardian Codex,Synuefe NL-N c23-4
+Guardian Codex,Synuefe NL-N c23-4
+Guardian Codex,Synuefe NL-N c23-4
 Guardian Codex,Vela Dark Region EG-X b1-1
+Guardian Codex,Synuefe NL-N c23-4
 Guardian Codex,Prua Phoe TS-B d252
 Guardian Codex,Prua Phoe TS-B d252
 Guardian Codex,Skaudai AM-B d14-138
@@ -5233,24 +4865,34 @@ Guardian Codex,Prua Phoe TS-B d252
 Guardian Codex,Synuefe NL-N c23-4
 Guardian Codex,Synuefe NL-N c23-4
 Guardian Codex,Synuefe NL-N c23-4
+Guardian Codex,Synuefe NL-N c23-4
 Guardian Codex,Skaudai AM-B d14-138
+Guardian Codex,HIP 36781
 Guardian Codex,NGC 3199 Sector IM-V c2-5
+Guardian Codex,HIP 36781
 Guardian Codex,Prua Phoe TS-B d252
+Guardian Codex,Synuefe NL-N c23-4
+Guardian Codex,HIP 36781
 Guardian Codex,NGC 3199 Sector IM-V c2-5
 Guardian Codex,HD 63154
 Guardian Codex,Synuefe NL-N c23-4
 Guardian Codex,Vela Dark Region EG-X b1-1
 Guardian Data Terminal,HD 63154
+Guardian Data Terminal,Synuefe NL-N c23-4
 Guardian Data Terminal,HD 63154
 Guardian Data Terminal,HD 63154
 Guardian Data Terminal,HD 63154
+Guardian Data Terminal,HIP 36781
 Guardian Data Terminal,Synuefe NL-N c23-4
 Guardian Data Terminal,HD 63154
 Guardian Data Terminal,Vela Dark Region EG-X b1-1
 Guardian Data Terminal,Synuefe NL-N c23-4
+Guardian Data Terminal,Synuefe NL-N c23-4
+Guardian Data Terminal,HIP 36781
 Guardian Data Terminal,HD 63154
 Guardian Data Terminal,Vela Dark Region EG-X b1-1
 Guardian Data Terminal,Synuefe NL-N c23-4
+Guardian Pylon,Synuefe IL-N c23-19
 Guardian Relic Tower,Synuefe NL-N c23-4
 Guardian Relic Tower,Prua Phoe TS-B d252
 Guardian Relic Tower,Prua Phoe TS-B d252
@@ -5258,14 +4900,22 @@ Guardian Relic Tower,Synuefe NL-N c23-4
 Guardian Relic Tower,Prua Phoe TS-B d252
 Guardian Relic Tower,Skaudai AM-B d14-138
 Guardian Relic Tower,Skaudai AM-B d14-138
+Guardian Relic Tower,Synuefe NL-N c23-4
 Guardian Relic Tower,Skaudai AM-B d14-138
+Guardian Relic Tower,Synuefe NL-N c23-4
+Guardian Relic Tower,Synuefe NL-N c23-4
 Guardian Relic Tower,Synuefe NL-N c23-4
 Guardian Relic Tower,Skaudai AM-B d14-138
 Guardian Relic Tower,Skaudai AM-B d14-138
 Guardian Relic Tower,Synuefe NL-N c23-4
+Guardian Relic Tower,Synuefe NL-N c23-4
 Guardian Relic Tower,Skaudai AM-B d14-138
 Guardian Relic Tower,Skaudai AM-B d14-138
 Guardian Relic Tower,Synuefe NL-N c23-4
+Guardian Relic Tower,Synuefe NL-N c23-4
+Guardian Relic Tower,HIP 36781
+Guardian Relic Tower,Synuefe NL-N c23-4
+Guardian Relic Tower,HD 63154
 Guardian Relic Tower,Synuefe NL-N c23-4
 Guardian Ruins,Col 173 Sector JB-F b27-1
 Guardian Ruins,Synuefe CN-H d11-63
@@ -5303,7 +4953,6 @@ Guardian Ruins,Col 173 Sector PV-B c14-1
 Guardian Ruins,2MASS J10444160-5947046
 Guardian Ruins,Col 173 Sector YG-A c15-12
 Guardian Ruins,Skaudai AM-B d14-138
-Guardian Ruins,Col 173 Sector WK-A a48-4
 Guardian Ruins,Col 173 Sector QU-O d6-25
 Guardian Ruins,Col 173 Sector HR-M b23-3
 Guardian Ruins,Col 173 Sector DH-K b25-2
@@ -5398,7 +5047,6 @@ Guardian Ruins,Col 173 Sector AP-Q b21-2
 Guardian Ruins,Col 173 Sector YG-A c15-12
 Guardian Ruins,Synuefe CE-R c21-6
 Guardian Ruins,IC 2391 Sector GW-V b2-4
-Guardian Ruins,Synuefe LY-I b42-2
 Guardian Ruins,Col 173 Sector OZ-U b33-6
 Guardian Ruins,Vela Dark Region EL-Y d32
 Guardian Ruins,Col 173 Sector OC-C b29-1
@@ -5531,6 +5179,7 @@ Guardian Ruins,Prai Hypoo WD-A d1-6
 Guardian Ruins,Blae Eork UL-J b56-1
 Guardian Ruins,Synuefe CE-R c21-6
 Guardian Ruins,Col 173 Sector YA-N d7-17
+Guardian Sentinel,Synuefe NL-N c23-4
 Guardian Structure,Col 173 Sector PZ-O d6-110
 Guardian Structure,Col 173 Sector RU-O d6-16
 Guardian Structure,Col 173 Sector WZ-O b22-4
@@ -5764,54 +5413,6 @@ Guardian Structure,Col 173 Sector PZ-O d6-110
 Gyre Pods,Hypao Aed ZJ-A d0
 Gyre Pods,Hypao Aed ZJ-A d0
 Gyre Pods,Hypao Aed ZJ-A d0
-historicalLocation,Eembaitl DL-Y d13
-historicalLocation,Sol
-historicalLocation,Pho Aoscs AA-A h1
-historicalLocation,Myeia Thaa JI-B d13-0
-historicalLocation,Musca Dark Region HM-V c2-29
-historicalLocation,Angosk OM-W d1-0
-historicalLocation,HD 76133
-historicalLocation,Pria Chrea IW-N d6-19
-historicalLocation,Hyphielia QH-K c22-0
-historicalLocation,Angosk DL-P d5-0
-historicalLocation,Dryeau Aub AA-A h4
-historicalLocation,Jongoi MF-A d0
-historicalLocation,Cyoidai GH-U e3-3
-historicalLocation,Eafots RX-T d3-3
-historicalLocation,Sphiesi HX-L d7-0
-historicalLocation,Sagittarius A*
-historicalLocation,Outotch LJ-P d6-0
-historicalLocation,Eowrairks NC-D d12-0
-historicalLocation,Achenar
-historicalLocation,Oevasy SG-Y d0
-historicalLocation,Nyuena RO-Z d184
-historicalLocation,Lyed KX-A c27-0
-historicalLocation,Aicods KD-K d8-3
-historicalLocation,Hyphielia QH-K c22-0
-historicalLocation,Chua Eop ZC-T c20-0
-historicalLocation,VonRictofen's Rescue
-historicalLocation,Alioth
-historicalLocation,Beagle Point
-historicalLocation,Metztli
-historicalLocation,Qautheia BA-A e0
-historicalLocation,Dryaa Phoe WV-C d0
-historicalLocation,Trieneou AA-A h2
-historicalLocation,Stuemeae KM-W c1-342
-historicalLocation,Byaa Thoi GC-D d12-0
-historicalLocation,Pallaeni
-historicalLocation,Macedonica's Leap
-historicalLocation,Preae Ain KD-Z d1-12
-historicalLocation,Outotz ST-I d9-4
-historicalLocation,Lyed YJ-I d9-0
-historicalLocation,Plaa Ain FF-Z d76
-historicalLocation,New Yembo
-historicalLocation,Praea Euq GK-Y b30-0
-historicalLocation,Drooteou PW-I a36-4
-historicalLocation,Ood Fleau ZJ-I d9-0
-historicalLocation,Oedgaf DL-Y g0
-historicalLocation,Fachoae XZ-I c24-0
-historicalLocation,Rendezvous Point
-historicalLocation,Juenae XZ-G d10-651
 Ice Crystals,Ploea Brou KJ-T c3-44
 Ice Crystals,Preae Chroa UA-D c26-15
 Ice Crystals,Byiae Aick LE-G d11-0
@@ -5979,6 +5580,7 @@ Iron Magma Lava Spout,Kyloopa ZK-O d6-2
 Iron Magma Lava Spout,Outordy TY-Z d13-9
 Iron Magma Lava Spout,Kyloopa ZK-O d6-2
 Iron Magma Lava Spout,Kyloopa ZK-O d6-2
+Iron Magma Lava Spout,HIP 40430
 Iron Magma Lava Spout,Kyloopa ZK-O d6-2
 Iron Magma Lava Spout,Chaluia UA-M d8-0
 Iron Magma Lava Spout,Deciat
@@ -6065,6 +5667,21 @@ jumponiumRichSystem,Eagle Sector JH-V c2-4
 jumponiumRichSystem,Eol Prou TB-O b35-50
 jumponiumRichSystem,Ridgue AW-E d11-68
 jumponiumRichSystem,Grie Prao LH-E b59-1
+K-Type Anomalies,Wepaa BA-A g244
+K-Type Anomalies,Dryoea Flyi II-S e4-6870
+K-Type Anomalies,Wepaa BA-A g1615
+K-Type Anomalies,Wepaa BA-A g244
+K-Type Anomalies,Wepaa BA-A g751
+K-Type Anomalies,Wepaa BA-A g1462
+K-Type Anomalies,Wepaa MH-V e2-5352
+K-Type Anomalies,Iorady EI-B d13-0
+K-Type Anomalies,Wepaa BA-A g244
+K-Type Anomalies,Wepaa MH-V e2-5352
+K-Type Anomalies,Wepaa BF-A f494
+K-Type Anomalies,Wepaa BA-A g1126
+K-Type Anomalies,Wepaa MH-V e2-5352
+K-Type Anomalies,Byaa Thoi MI-B d13-0
+K-Type Anomalies,Wepaa BA-A g751
 L-Type Anomalies,Thaile HW-V e2-7
 L-Type Anomalies,Byoomao MI-S e4-5423
 L-Type Anomalies,Byoomao MI-S e4-5423
@@ -7398,6 +7015,7 @@ Metallic Crystals,Eight Burst Sector NX-T b3-1
 Metallic Crystals,Blu Thua LM-M c7-10
 Metallic Crystals,Agnairy HN-D c15-4142
 Metallic Crystals,Byoi Thua FY-N c21-5
+Metallic Crystals,Thailoe RF-B c2-12
 Methane Ice Fumarole,Phoi Eur UQ-A c28-0
 Methane Ice Fumarole,Gria Drye EX-N b35-0
 Methane Ice Fumarole,Phoi Eur UQ-A c28-0
@@ -7524,306 +7142,6 @@ Mineral Spheres,Eta Carina Sector EL-Y d19
 Mineral Spheres,Dryio Bloo SJ-Z e1079
 Mineral Spheres,Blu Thua LM-M c7-10
 Mineral Spheres,Eol Prou PX-T d3-888
-minorPOI,Byoomao HB-X e1-232
-minorPOI,IC 1848 Sector IS-T d3-29
-minorPOI,Preia Flyuae XY-A e1865
-minorPOI,Alectrona
-minorPOI,Pru Aub DL-P e5-35
-minorPOI,Dumbooe BL-X e1-1690
-minorPOI,Phae Aeb BK-I d9-22
-minorPOI,Prue Eohn EN-H d11-55
-minorPOI,Eoch Bli TY-A e2211
-minorPOI,Hypaa Byio ZE-A g1
-minorPOI,Hyphielie GR-N d6-9
-minorPOI,Dryoea Bli CH-U e3-3754
-minorPOI,Theema CL-P e5-2040
-minorPOI,Myoidee YK-P d5-6
-minorPOI,Trailua WT-A d5
-minorPOI,Quemeou CL-Y e9
-minorPOI,Eok Gree PI-S e4-4843
-minorPOI,Syrumbi YE-A g4
-minorPOI,Stuemau DV-Y e1437
-minorPOI,Dryeae Brau RY-S d3-2
-minorPOI,Spaidau VT-Z d13-4
-minorPOI,Wepaa FG-Y g1750
-minorPOI,Spliech UE-Y c14-0
-minorPOI,Fleasi MS-U e2-301
-minorPOI,Lysooh AQ-G d10-145
-minorPOI,Phrio Phoe MP-E d12-11
-minorPOI,Col 173 Sector SI-I b26-8
-minorPOI,Dryau Chrea DB-F d11-3866
-minorPOI,Prae Flyi JM-V e2-21
-minorPOI,Hypi Aoscs IR-D d12-8
-minorPOI,Vigs AA-A e1
-minorPOI,Assairshch EG-Y g4
-minorPOI,Egnaix XJ-Z e30
-minorPOI,Eoch Pruae EG-Y g1769
-minorPOI,Strivie JG-Y e3
-minorPOI,Ploea Brou RH-D c12-27
-minorPOI,Tyroerts AA-A g2
-minorPOI,Dryiqau HS-E c14-2
-minorPOI,Koijoo XS-T d3-40
-minorPOI,Cat's Paw Sector HR-W d1-238
-minorPOI,Cyoidai XF-C c14-0
-minorPOI,Pyrie Eurl LX-U c2-0
-minorPOI,Cheae Eur GX-L c7-1
-minorPOI,Choomaae YE-R e4-5653
-minorPOI,Phroi Pruae BL-X e1-5380
-minorPOI,Pyrie Eurl UY-S d3-13
-minorPOI,Praea Euq KS-J d9-14
-minorPOI,Eol Prou KW-L c8-32
-minorPOI,Cyuefai BC-D d12-4
-minorPOI,Juenoi TD-B e7604
-minorPOI,Plio Eurl PW-G c12-0
-minorPOI,HIP 72043
-minorPOI,Eafots KR-T b58-3
-minorPOI,HIP 17401
-minorPOI,Suvaa NL-P d5-29
-minorPOI,Phipoea QS-U e2-1426
-minorPOI,Pyrooe Dryoae UF-S c6-0
-minorPOI,Wepae AA-A h22
-minorPOI,HIP 15882
-minorPOI,Pyrie Eurk NV-G c10-0
-minorPOI,Gria Hypue UG-S d5-779
-minorPOI,Stuemeae NM-W e1-5094
-minorPOI,Praea Euq UU-F d11-0
-minorPOI,Groa Eaeb KT-O d7-4
-minorPOI,Wepoae BF-Z e5979
-minorPOI,Scheau Prao DB-O e6-3671
-minorPOI,Dryu Chraea FH-D d12-49
-minorPOI,Cyuefai RP-K b49-0
-minorPOI,HIP 61061
-minorPOI,Qauthoea WM-W d1-40
-minorPOI,Bloo Dryue ND-I d10-19
-minorPOI,Byeethe AA-A f2
-minorPOI,Gru Hypoea CM-B d14-27
-minorPOI,Aiphaisty AB-O d6-204
-minorPOI,Stuemaea VE-R e4-3674
-minorPOI,Theema NM-W e1-2932
-minorPOI,Pueloea QJ-X c28-96
-minorPOI,Aishaidy AA-A h0
-minorPOI,Truechea SD-T d3-14
-minorPOI,Xothao RA-D d13-41
-minorPOI,Qauthai PX-U e2-0
-minorPOI,Baukoa SY-S e3-1218
-minorPOI,Phraa Flyuae XF-E c28-8482
-minorPOI,Shrogea MH-V e2-1763
-minorPOI,Phroea Prao TY-A e7549
-minorPOI,Oupailks BB-M c8-5
-minorPOI,Tegnae HT-Z d13-4
-minorPOI,Crab Sector AF-A d6
-minorPOI,Whamboi KT-F d12-2262
-minorPOI,Eotchops AB-O e6-1068
-minorPOI,Oupailks AA-A h0
-minorPOI,Chraufao HQ-G d10-120
-minorPOI,Systimbu RI-B e2619
-minorPOI,Kyloasly DA-A f69
-minorPOI,Pueliae QT-R e4-0
-minorPOI,Pru Aescs YV-E d11-170
-minorPOI,Eos Fraae FR-N e6-4
-minorPOI,Freckie FG-Y d10
-minorPOI,Phrio Prao MN-S e4-4295
-minorPOI,Cyuefoo LC-D d12-0
-minorPOI,Eactaify EG-Y g5
-minorPOI,Dryae Greau PT-R e4-0
-minorPOI,Floadu RN-F c8
-minorPOI,Eufarb UT-Z d13-37
-minorPOI,Shrogaae KK-A d983
-minorPOI,Hyiechou AI-J b36-0
-minorPOI,Dumboea PS-U e2-3137
-minorPOI,Smojue LH-D d12-3
-minorPOI,Dryoi Flyao HE-B c29-177
-minorPOI,Syroomeou FG-Y g10
-minorPOI,HIP 23759
-minorPOI,Hypuae Euq SY-S d3-0
-minorPOI,Byoomi PZ-O e6-5855
-minorPOI,Phreia Flyou JT-P b22-2
-minorPOI,Phraa Pra HH-U e3-1354
-minorPOI,Puwhoi ZO-I d9-4
-minorPOI,Byoomeae PT-Q e5-4731
-minorPOI,Pyraniae XA-V c16-3
-minorPOI,Thailoi CY-S c20-8
-minorPOI,Plae Eur IC-D d12-0
-minorPOI,Greou Dryiae YT-Q d5-2
-minorPOI,Hypi Bra CH-M d7-85
-minorPOI,Syroifoe CL-Y g1
-minorPOI,Dumbooe KC-U e3-937
-minorPOI,Byua Aowsy MR-N d6-19
-minorPOI,Dryuae Screia QU-F d11-430
-minorPOI,Hypiae Briae KM-W d1-2603
-minorPOI,Prue Hypa CS-I d10-8
-minorPOI,Shrogaei FH-U e3-1421
-minorPOI,Prieluia GH-B c27-16
-minorPOI,Clooku FR-P c8-73
-minorPOI,Pru Aescs TY-J a64-1
-minorPOI,Hypuae Euq XV-E d11-0
-minorPOI,Braitu EG-Y g1
-minorPOI,HIP 60953
-minorPOI,Oevaxy IG-Y d0
-minorPOI,Blooe Eop FB-M d8-1
-minorPOI,Gru Dryou HC-B d14-21
-minorPOI,Smootoae GH-V d2-82
-minorPOI,Stuemaea WJ-R e4-939
-minorPOI,Juenoea HA-Z d3465
-minorPOI,Chu Thaa GG-Y d0
-minorPOI,Grie Dryiae LN-Q d6-134
-minorPOI,Braisio FG-X e1-7585
-minorPOI,Prue Dryai KX-A d1-23
-minorPOI,Floalt YG-S c5-48
-minorPOI,Eodgorsts GO-F d12-37
-minorPOI,Lyruewry BK-R d4-12
-minorPOI,Phrio Prao PI-S e4-4054
-minorPOI,Oob Airg WO-J b50-1
-minorPOI,Sutchooe BP-I d9-57
-minorPOI,Kyloall BF-A f2322
-minorPOI,Whambeia PO-Q e5-2321
-minorPOI,Systeia Free AA-A h2
-minorPOI,Skaudou TO-I d9-17
-minorPOI,Syralia JT-V b7-0
-minorPOI,Colonia
-minorPOI,Eafots YE-A c0
-minorPOI,Pyramoe PM-X b33-6
-minorPOI,Iojaing NE-E c9
-minorPOI,CPD-57 3520
-minorPOI,Slaiyooe OX-L d7-0
-minorPOI,Droju UA-D d13-9
-minorPOI,Prooe Pruae XJ-A e0
-minorPOI,Sleguae JC-S d5-135
-minorPOI,Athaip GW-M c23-2801
-minorPOI,Pria Eup TD-T d3-8
-minorPOI,Juenae TO-Q e5-579
-minorPOI,Trapezium Sector XO-Y b1-0
-minorPOI,Aunairm VJ-R e4-2411
-minorPOI,TV Muscae
-minorPOI,Bleia Eohn QY-L c10-4
-minorPOI,Eembaist AA-A h0
-minorPOI,Agnairt ST-Z d5241
-minorPOI,Dehio LO-U b50-0
-minorPOI,Schee Flyuae UO-A e5581
-minorPOI,Iorady JO-Z d13-0
-minorPOI,Fleckia FI-Z d1-6
-minorPOI,Byoomai UU-X e1-875
-minorPOI,Pheia Auscs AL-T c5-155
-minorPOI,Shrogeau GG-Y e119
-minorPOI,HD 64885
-minorPOI,Ceeckia SD-R c21-0
-minorPOI,Dryo Aob DR-C d7
-minorPOI,Synauleia AA-A h2
-minorPOI,Iorant FR-C c26-0
-minorPOI,Syrivai UY-R d4-67
-minorPOI,Dryau Aowsy MR-W d1-6259
-minorPOI,Dryoea Prau RZ-O e6-163
-minorPOI,Myoidu HS-S d4-3
-minorPOI,Wredgu SE-Y b33-0
-minorPOI,Ovomly DR-D d12-9
-minorPOI,Lyaisae HA-A e3363
-minorPOI,Dryaea Flee HR-W e1-124
-minorPOI,Col 70 Sector PH-E b15-0
-minorPOI,Hypiae Phyloi LR-C d22
-minorPOI,Byae Aowsy GR-N d6-52
-minorPOI,Blo Eurl AA-A h0
-minorPOI,Plaa Chraei YD-K d8-20
-minorPOI,Plae Free AA-A h0
-minorPOI,Iorant GM-L c21-0
-minorPOI,Xeehia GT-G d11-8
-minorPOI,Ploi Thua KS-J c22-0
-minorPOI,Schee Ploe TO-Z e6014
-minorPOI,Kyli Flyuae AA-A h4
-minorPOI,Guenae SB-I b57-0
-minorPOI,Hypaa Proae BV-P d5-13
-minorPOI,Aunair AQ-P e5-2234
-minorPOI,Phraa Pruae LN-S e4-2034
-minorPOI,Hypiae Aip KX-I c23-1
-minorPOI,Eembaisk BQ-Y e1948
-minorPOI,Mycapp TX-U d2-4
-minorPOI,Nyeajaae WQ-C d13-19
-minorPOI,Phrae Flyao NT-Q d5-5
-minorPOI,Theau Pri FB-W e2-25
-minorPOI,Dryi Aim LD-E b39-0
-minorPOI,Byooe Chraea JL-P d5-1
-minorPOI,Eafots PA-A d0
-minorPOI,HD 36867
-minorPOI,Smootoae QY-S d3-202
-minorPOI,Pyult QP-V d3-56
-minorPOI,Schaikaei XJ-H d10-1
-minorPOI,Froarks DG-X e1-82
-minorPOI,Eol Groa UG-K d9-89
-minorPOI,V2107 Ophiuchii
-minorPOI,Phoi Aod JR-W e1-1691
-minorPOI,Phroea Prao VU-X e1-1994
-minorPOI,Cheae Eurl AA-A e0
-minorPOI,Phrooe Flyuae QE-Y d1-44
-minorPOI,Ploi Aec RR-I c23-2
-minorPOI,Hypau Aec IO-Z d13-0
-minorPOI,Stuemeae ET-F d12-7473
-minorPOI,Bleae Aescs AV-Y d2449
-minorPOI,Ceeckia QA-L d9-0
-minorPOI,Smoju EL-P e5-0
-minorPOI,Quemeou YE-A e0
-minorPOI,Greeroi GG-H b29-0
-minorPOI,Hypi Bra TI-B d25
-minorPOI,Phua Aub PX-U e2-6959
-minorPOI,Joorio MH-M c7-3
-minorPOI,Clooku QS-S d4-145
-minorPOI,Sluenoe CL-Y g4
-minorPOI,Dryoea Flyuae DA-A e1141
-minorPOI,Seamaa AA-A h3
-minorPOI,Grie Hypai KK-C d14-52
-minorPOI,Chua Eohn RC-D c15-0
-minorPOI,Dryoea Flyuae AA-A g392
-minorPOI,Iwhaind AA-A g1771
-minorPOI,Phroi Byoe SO-G d11-610
-minorPOI,Dryuae Chruia YU-P e5-869
-minorPOI,Vegnoae BK-R d4-1105
-minorPOI,Eoch Pruae BP-A d994
-minorPOI,Eta Carina Sector MX-U c2-8
-minorPOI,Cyuefa HC-D d12-0
-minorPOI,Swueneia GF-C d14-48
-minorPOI,Systeia Aub BA-A g12
-minorPOI,Rotheau SZ-O e6-895
-minorPOI,Eodgols ZQ-U c16-49
-minorPOI,Dumbai HA-A e5436
-minorPOI,Eorl Broae DQ-P e5-677
-minorPOI,Byoomu LI-S e4-1049
-minorPOI,Phroea Ploe PD-B e2165
-minorPOI,Systae Free AA-A h1
-minorPOI,Wepae PT-G c11-262
-minorPOI,Nyuena JS-B d342
-minorPOI,Screakoi WO-G c11-1
-minorPOI,Flyua Hypue LI-A d14-11
-minorPOI,Eotchorks VT-G c27-0
-minorPOI,Byoo Briae CW-C c26-0
-minorPOI,Phoi Auwsy OS-T e3-2593
-minorPOI,Phoi Auscs EF-A e4312
-minorPOI,Flyeia Hypai FH-X c17-16
-minorPOI,Synuefe UY-R b34-0
-minorPOI,Boewnst UR-Y b47-170
-minorPOI,Prue Hypa CL-Y g2
-minorPOI,Cho Eur GX-L d7-5
-minorPOI,Weqea AA-A g0
-minorPOI,Eos Chrea TD-Z c27-1678
-minorPOI,Drootie FE-E d13-154
-minorPOI,Plio Aihm ML-P d5-307
-minorPOI,Thaae Byoe AA-A h2
-minorPOI,Bleethuia FF-A e1
-minorPOI,Bleia Flyuae RE-K c11-41
-minorPOI,Eocs Aoscs YR-A d14-8
-minorPOI,Hypuae Euq ZK-P d5-0
-minorPOI,Schee Pri NT-Q e5-1532
-minorPOI,Eactaify ES-B d13-3
-minorPOI,Chua Dryiae JU-S b51-0
-minorPOI,Glufoa HE-P b19-0
-minorPOI,Dryao Chrea WU-X e1-2129
-minorPOI,Dryio Blue LJ-X d2-629
-minorPOI,Byeia Free WR-W b56-0
-minorPOI,Praea Aec YA-F d11-37
-minorPOI,Eos Free OD-S e4-9707
-minorPOI,Boewnst CV-P d5-160
-minorPOI,Eoch Pri AA-A h479
-minorPOI,Bhare
-minorPOI,Eafots XO-T b58-1
-minorPOI,Wimly LN-B d0
-minorPOI,Veil West Sector GW-W c1-13
 mysteryPOI,Charick Drift
 mysteryPOI,HIP 83237
 mysteryPOI,Skaudai AM-B d14-138
@@ -8097,6 +7415,7 @@ Neutron Star,Wruethoo ZV-E d11-43
 Neutron Star,Smojai QO-Z d13-57
 Neutron Star,Eor Auscs XV-K d9-1652
 Neutron Star,Prua Phio EC-U e3-20
+Neutron Star,Plio Euq VR-W d1-8
 Neutron Star,Slatchoea MN-Q d6-15
 Neutron Star,Skaude JR-C d399
 Neutron Star,Preae Aewsy HC-D d12-43
@@ -8109,6 +7428,7 @@ Neutron Star,Clookeou SY-S e3-3
 Neutron Star,Yepaa MS-U d2-2
 Neutron Star,Eor Phyloi XU-P e5-1527
 Neutron Star,Eembaisk DG-O e6-2972
+Neutron Star,M Puppis 35347
 Neutron Star,Pyra Eop HN-H d11-0
 Neutron Star,Bloo Dryoae MN-Q d6-6
 Neutron Star,Myoagea EH-D d12-2
@@ -8124,6 +7444,9 @@ Neutron Star,Ploxeou OT-O d7-3
 Neutron Star,Eafots TO-O d7-2
 Neutron Star,Dryaa Flyi RO-X d2-6428
 Neutron Star,Parenago 2149
+Neutron Star,Col 359 Sector QT-I d9-37
+Neutron Star,Oochost JI-Z d1-5
+Neutron Star,Hegeia OI-B d13-9
 Nitrogen Ice Fumarole,Skaudai DM-F b56-0
 Nitrogen Ice Fumarole,Tilks FK-C d14-1
 Nitrogen Ice Fumarole,Col 89 Sector NC-N c22-0
@@ -8172,7 +7495,6 @@ Ostrinum Peduncle Tree,Prie Aoc IL-P d5-2
 Ostrinum Peduncle Tree,Wegnoe IC-V d2-0
 Ostrinum Peduncle Tree,Prie Aoc KA-H c10-1
 Ostrinum Peduncle Tree,Eembaists UQ-Z c28-0
-Outotz HD-J d9-3,2019-08-24T15:44:16.000Z
 P-Type Anomalies,Joorai NI-K d8-163
 P-Type Anomalies,Joorai LX-L d7-254
 P-Type Anomalies,Shrogeau GG-Y e119
@@ -8634,7 +7956,6 @@ Phoeniceum Gourd Mollusc,Wredguia XD-K d8-24
 Phoeniceum Gourd Mollusc,Wredguia XD-K d8-24
 Phoeniceum Gourd Mollusc,Wredguia XD-K d8-24
 Phoeniceum Gourd Mollusc,Wredguia XD-K d8-24
-Phroea Gree VU-O e6-355,2019-08-19T15:16:46.000Z
 planetaryNebula,IC 1805 Sector DQ-Y e3
 planetaryNebula,Plimbeau ZE-R e4-2732
 planetaryNebula,Scheau Blao AB-W e2-9322
@@ -8939,218 +8260,6 @@ planetaryNebula,Phroi Pruae VU-P e5-389
 planetaryNebula,Hypuejaa RT-Q e5-83
 planetaryNebula,Plaa Aoscs HA-A e9427
 planetaryNebula,Hypio Pri JH-U e3-6719
-planetFeatures,Ellairb UL-N c7-33
-planetFeatures,Preae Ain CG-X e1-14
-planetFeatures,Slaiyooe CB-X d1-5
-planetFeatures,Dryau Ausms KG-Y e3390
-planetFeatures,Hypo Aeb WK-H b51-0
-planetFeatures,Agnaiz FR-V d2-1444
-planetFeatures,Blae Flyuae KH-V e2-0
-planetFeatures,Stuemiae TH-G c25-192
-planetFeatures,Byoomeae DN-B d13-1719
-planetFeatures,Eolls Hypai LX-B c16-0
-planetFeatures,Xeehaei BE-E d13-7
-planetFeatures,Hypao Chraea RY-Y d1-6
-planetFeatures,Prea Aick MO-Z d13-2
-planetFeatures,Myeia Thaa ZE-R d4-0
-planetFeatures,Eeshorps ES-A d14-797
-planetFeatures,Flimbuae GY-P d6-7
-planetFeatures,Pyrivo WK-T b22-3
-planetFeatures,Byoi Chraei EV-Y d15
-planetFeatures,HIP 104643
-planetFeatures,Leamiae AA-A h311
-planetFeatures,Blua Hypue QI-Z d1-4516
-planetFeatures,Striechooe HO-D c14-2
-planetFeatures,Ooscs Freau VY-Z d1670
-planetFeatures,Cheae Euq ER-L c21-0
-planetFeatures,Bleia Dryiae HF-W b35-1
-planetFeatures,Phroi Bluae LS-B d13-744
-planetFeatures,Ceeckia KU-M d8-1
-planetFeatures,Iowhowns DM-D d12-1
-planetFeatures,Blue Greau RY-L c10-17
-planetFeatures,Ovomly PD-R d5-3
-planetFeatures,Plaa Eurk DF-D c26-1
-planetFeatures,Byua Aoscs PJ-E b2
-planetFeatures,Blo Chrea OM-W e1-9
-planetFeatures,Phroi Bluae IR-W f1-1530
-planetFeatures,Mylaifoi AA-A h8
-planetFeatures,Synuefe ZD-K c11-2
-planetFeatures,Pyramoe BG-V d3-13
-planetFeatures,q Velorum
-planetFeatures,Floasly TE-X d2-25
-planetFeatures,Outopps KO-X c28-0
-planetFeatures,Kyloarph PD-I d10-4719
-planetFeatures,Dryio Flyuae AL-X e1-480
-planetFeatures,Flyua Dryoae DG-M d8-32
-planetFeatures,Byoomiae UY-A d2780
-planetFeatures,Wrupaea TI-B e1021
-planetFeatures,Pyrae Eork LF-L d9-1
-planetFeatures,Pru Scraa FI-B d13-32
-planetFeatures,Pyraea Euq ZK-P d5-0
-planetFeatures,Chraichoi ZF-L d9-58
-planetFeatures,Dryuae Aoscs AA-A h370
-planetFeatures,Thailau KN-Q d6-3
-planetFeatures,Eoch Pruae CA-Z d832
-planetFeatures,Bleia Flyuae ZU-N d7-54
-planetFeatures,Phipoea HJ-D c27-5254
-planetFeatures,Hypoe Bluae VP-O e6-8688
-planetFeatures,Stuelou DN-H d11-1001
-planetFeatures,OGLE-TR-113
-planetFeatures,Myriesly QC-M d7-3213
-planetFeatures,Traikeou OR-W b5-0
-planetFeatures,Col 285 Sector VU-M c8-1
-planetFeatures,Ridgoo WP-G d10-120
-planetFeatures,HD 1740
-planetFeatures,Byua Aim AW-D d12-1612
-planetFeatures,Phrua Phoe QK-F d11-5
-planetFeatures,IC 1396 Sector RU-F d11-7
-planetFeatures,Chanoa QK-C d14-0
-planetFeatures,OGLE-TR-182
-planetFeatures,Gongae QW-L c24-0
-planetFeatures,Blaei Eun CF-E b39-0
-planetFeatures,Bubble Sector LX-T b3-1
-planetFeatures,Phreia Flyou FG-V d3-116
-planetFeatures,Eafoff LN-Q d6-0
-planetFeatures,Eock Prau LB-X d1-7
-planetFeatures,Nyeajeau XF-T c5-9
-planetFeatures,Dryio Flyuae KC-V e2-425
-planetFeatures,Pru Ais TP-O d6-2
-planetFeatures,Phrooe Bliae HI-R d5-77
-planetFeatures,Iwaitt EB-W d2-3587
-planetFeatures,Sleguae XT-A b20-11
-planetFeatures,Scheau Phoe NB-M c24-7
-planetFeatures,Phi Velorum
-planetFeatures,HIP 9571
-planetFeatures,Nyeakio TG-N c23-2
-planetFeatures,Dryooe Prou VI-A d1-368
-planetFeatures,Eowyg Bra OT-P d6-0
-planetFeatures,Prieluia RD-P c20-0
-planetFeatures,IC 1287 Sector BQ-Y d9
-planetFeatures,Qosoa AA-A h56
-planetFeatures,Eaembie RT-Q d5-0
-planetFeatures,Blia Eurk HQ-G d10-78
-planetFeatures,Myoideau JI-K d8-4
-planetFeatures,M7 Sector IF-S b19-4
-planetFeatures,Zunuae IU-D d13-363
-planetFeatures,Shrogea VL-I c11-427
-planetFeatures,Sutchae KM-W c1-3
-planetFeatures,Eos Ausms AA-A f252
-planetFeatures,Synookio EI-J d9-1
-planetFeatures,Eoch Flyuae AN-X c16-379
-planetFeatures,HD 49368
-planetFeatures,Smaidiae IZ-M d8-7
-planetFeatures,Prooe Flyi QH-X b7-65
-planetFeatures,Dryi Ausms ZV-K d9-34
-planetFeatures,Chu Thaa CF-I b23-0
-planetFeatures,Byeia Eurk YJ-X c2-5
-planetFeatures,OGLE-05-071L
-planetFeatures,Pyramio GO-K c24-8
-planetFeatures,Hypoe Bluae RP-M d8-897
-planetFeatures,Spoihaae XE-X d2-9
-planetFeatures,Eol Prou NS-U f2-2220
-planetFeatures,Flyua Eaec CG-F d11-10
-planetFeatures,Cyoageou GZ-M d8-90
-planetFeatures,Flyooe Bli QF-C d14-124
-planetFeatures,Col 359 Sector FB-N d7-62
-planetFeatures,Phrae Gria AA-A g2
-planetFeatures,Byooe Thio AA-A g1
-planetFeatures,Byeia Aed WU-X d1-15
-planetFeatures,HIP 18119
-planetFeatures,Juenae NY-Z d7982
-planetFeatures,Cho Eur GZ-O c19-3
-planetFeatures,Myaumia ZF-W d2-30
-planetFeatures,Ootosky UQ-T d4-0
-planetFeatures,Phrae Gria GG-V d3-103
-planetFeatures,Stuemeae XV-C d4579
-planetFeatures,Tr 24 Sector JH-K b38-0
-planetFeatures,Dryaea Flee GC-D d12-3089
-planetFeatures,Bleia Hype IC-T c4-0
-planetFeatures,Pyramoe XR-W c17-9
-planetFeatures,Clookia NK-M d8-431
-planetFeatures,Eephaik HL-X d1-16
-planetFeatures,Phroi Bluae YH-J b39-134
-planetFeatures,Screakiae BM-J d10-423
-planetFeatures,Spoihaae RL-N c23-21
-planetFeatures,Jongoae OX-L d7-0
-planetFeatures,Streau Eop ZP-N c23-0
-planetFeatures,Blaa Phoe JX-T e3-26
-planetFeatures,Myriesly RN-B d13-7492
-planetFeatures,OGLE-TR-211
-planetFeatures,Smootoae VE-R d4-134
-planetFeatures,Prae Phio ZQ-A c2-9
-planetFeatures,Hypuae Audst TT-R e4-567
-planetFeatures,Gria Drye OC-B d1-211
-planetFeatures,Eol Prou KW-L c8-32
-planetFeatures,Braisoea UQ-C d13-6108
-planetFeatures,Blu Thua JS-J d9-1
-planetFeatures,Flyiedgiae QN-T d3-17
-planetFeatures,Ellairb SJ-B b42-10
-planetFeatures,Eord Blou LY-Z d13-2701
-planetFeatures,Slaiyooe RV-P c5-0
-planetFeatures,Pyria Eurl GL-P d5-0
-planetFeatures,Eol Prou QD-S d4-966
-planetFeatures,Blaa Eohn YZ-G d10-0
-planetFeatures,Qiedeae VA-U d4-2
-planetFeatures,Blu Thua GI-B b55-2
-planetFeatures,Syroifae CZ-S c3-1
-planetFeatures,Agnaiw AA-A h49
-planetFeatures,Eol Prou KW-M d7-2351
-planetFeatures,OGLE-05-169L
-planetFeatures,Byae Briae HE-O c20-0
-planetFeatures,Skaudai KI-C b58-1
-planetFeatures,Prooe Flyuae YZ-P d5-100
-planetFeatures,Eembaisk NS-R d5-2857
-planetFeatures,OGLE-05-390L
-planetFeatures,Wredguia CE-W b16-0
-planetFeatures,OGLE2-TR-L9
-planetFeatures,Phroi Bluae FG-Y g0
-planetFeatures,Dryooe Prou FF-Z d696
-planetFeatures,Pha Flaae HT-H d10-56
-planetFeatures,Hypiae Free CS-H d11-1327
-planetFeatures,Choomee HR-N e6-8992
-planetFeatures,Kyloalks DL-Y g17
-planetFeatures,Eok Flyuae AQ-P e5-2798
-planetFeatures,M36 Sector RI-T c3-5
-planetFeatures,OGLE-2006-BLG-109L
-planetFeatures,Nyeajaae IT-M c9-19
-planetFeatures,Hyueths HS-H d11-5
-planetFeatures,OGLE-2007-BLG-368L
-planetFeatures,Bleethuae MI-B d402
-planetFeatures,Eimbaith LW-W e1-290
-planetFeatures,Thailoe UO-A e4
-planetFeatures,Dryao Phyloea BA-A f1573
-planetFeatures,Tr 24 Sector IW-V d2-15
-planetFeatures,Hypuae Briae YF-E d12-2760
-planetFeatures,Pyuefua XO-P b39-1
-planetFeatures,TYC 3319-306-1
-planetFeatures,Bya Freau SO-Z d13-5
-planetFeatures,Eictach ES-I d10-3
-planetFeatures,Qauthe ON-B d13-2
-planetFeatures,Swuenaa NO-O d7-76
-planetFeatures,Praea Euq QD-C b54-0
-planetFeatures,Eoch Pruae UA-E d12-237
-planetFeatures,Prae Pruae TL-B d14-14
-planetFeatures,Chraitaea QP-F b43-0
-planetFeatures,Blua Hypa HT-F d12-1226
-planetFeatures,Blua Hypa DH-J d10-2582
-planetFeatures,Pha Scroi GS-I d10-64
-planetFeatures,Vegnoae BA-A g8
-planetFeatures,HIP 69445
-planetFeatures,Dryio Bloo SJ-Z e2224
-planetFeatures,Froarks GM-D d12-355
-planetFeatures,NGC 5460 Sector DL-Y e6
-planetFeatures,Tr 24 Sector GL-P d5-4
-planetFeatures,Thailoae ZC-Y b44-0
-planetFeatures,Rhuedgie KN-T e3-721
-planetFeatures,Eoch Pruae FG-Y f2444
-planetFeatures,OGLE-2011-BLG-0251
-planetFeatures,Smootiae JF-R d4-26
-planetFeatures,Segnao AA-A h38
-planetFeatures,Speamoea WU-E d12-543
-planetFeatures,Systipa ML-B c2-2
-planetFeatures,Ooch Chrea US-U d2-21
-planetFeatures,Byaa Ain QA-J c11-144
-planetFeatures,Frecku IG-Y d1
 Prasinum Bioluminescent Anemone,S171 12
 Prasinum Bioluminescent Anemone,S171 30
 Prasinum Bioluminescent Anemone,S171 5
@@ -9332,14 +8441,15 @@ Rhizome Pods,Ood Fleau SY-S d3-1
 Rhizome Pods,Nueloae WR-H d11-1
 Rhizome Pods,Ood Fleau SY-S d3-1
 Rhizome Pods,Thainua ZS-U d2-0
-Riese der Spektralklasse F,HR 1124
 Roseum Bioluminescent Anemone,Lysooh ZK-P e5-18
 Roseum Brain Tree,Prua Phoe TS-B d43
+Roseum Brain Tree,Swoilz OC-B d1-97
 Roseum Brain Tree,Graea Hypue KS-S d4-105
 Roseum Brain Tree,Prua Phoe TS-B d43
 Roseum Brain Tree,Graea Hypue AA-A h38
 Roseum Brain Tree,Graea Hypue AA-A h38
 Roseum Brain Tree,Synuefe PB-B b47-1
+Roseum Brain Tree,Graea Hypue AQ-X d1-50
 Roseum Brain Tree,Plio Eurl YK-O d6-13
 Roseum Brain Tree,Graea Hypue KS-S d4-105
 Roseum Brain Tree,Graea Hypue XP-W d2-215
@@ -9492,6 +8602,7 @@ Silicate Crystals,Throefou CY-F d12-84
 Silicate Crystals,Ood Fleau LC-M d7-0
 Silicate Crystals,Ploea Brou SQ-P c5-33
 Silicate Magma Lava Spout,Eaembie ZB-J d10-0
+Silicate Magma Lava Spout,Prua Dryoae JL-O b26-5
 Silicate Magma Lava Spout,Plio Eurl YK-O d6-13
 Silicate Magma Lava Spout,Prooe Drye NO-O b11-0
 Silicate Magma Lava Spout,Phroea Phoe VA-I c12-15
@@ -9500,9 +8611,11 @@ Silicate Magma Lava Spout,Hegua HL-Y d53
 Silicate Magma Lava Spout,Veil West Sector DL-Y d67
 Silicate Magma Lava Spout,Hypoae Aoc IR-C d3060
 Silicate Magma Lava Spout,Veil East Sector DL-Y d51
+Silicate Magma Lava Spout,Prua Dryoae JL-O b26-5
 Silicate Magma Lava Spout,Gria Eork CS-N c9-3
 Silicate Magma Lava Spout,Oochoxt LC-D c15-0
 Silicate Magma Lava Spout,Puekoa OU-T c5-1
+Silicate Magma Lava Spout,Scheau Hypa HD-H d11-1
 Silicate Magma Lava Spout,Nyuena YJ-A c84
 Silicate Magma Lava Spout,Hypoae Aoc IR-C d3060
 Silicate Magma Lava Spout,Col 359 Sector WU-R b7-3
@@ -9523,11 +8636,13 @@ Silicate Magma Lava Spout,Synuefe ML-N c23-32
 Silicate Magma Lava Spout,Wredguia GP-E c25-6
 Silicate Magma Lava Spout,Hypoae Aoc IR-C d3060
 Silicate Magma Lava Spout,Gria Drye TV-C d13-12
+Silicate Magma Lava Spout,Scheau Hypa HD-H d11-1
 Silicate Magma Lava Spout,Phoo Ail KQ-Y d8
 Silicate Magma Lava Spout,Swoiwns GQ-J b1-4
 Silicate Magma Lava Spout,Achenar
 Silicate Magma Lava Spout,CD-25 5215
 Silicate Magma Lava Spout,Pru Eurk MX-U d2-0
+Silicate Vapour Fumarole,IC 2391 Sector BQ-Y d6
 Silicate Vapour Fumarole,Myoideau GR-W d1-0
 Silicate Vapour Fumarole,Phae Phlai WY-R c4-2
 Silicate Vapour Fumarole,Pleiades Sector OI-T c3-1
@@ -9614,6 +8729,7 @@ Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Drokoe LI-S e4-1
 Silicate Vapour Gas Vent,HD 193699
+Silicate Vapour Gas Vent,Prua Dryoae UB-O c9-1
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Whuedaea LJ-F d12-0
@@ -9621,6 +8737,7 @@ Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Scylla
+Silicate Vapour Gas Vent,Scheau Hypa FH-K d9-0
 Silicate Vapour Gas Vent,Synuefe PB-B b47-1
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
@@ -9682,6 +8799,7 @@ Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Drokoe LI-S e4-1
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Synuefue FN-Y c28-0
+Silicate Vapour Gas Vent,Gru Hypue KS-T d3-31
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
@@ -9691,6 +8809,7 @@ Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Plio Eurl FN-J d9-14
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
+Silicate Vapour Gas Vent,HIP 40430
 Silicate Vapour Gas Vent,Scylla
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
@@ -9703,6 +8822,7 @@ Silicate Vapour Gas Vent,Sifi VC-V b2-5
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Drokoe LI-S e4-1
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
+Silicate Vapour Gas Vent,Pencil Sector IR-W d1-146
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
 Silicate Vapour Gas Vent,Myliengooe ZA-E d12-5
@@ -10336,6 +9456,7 @@ Sulphur Dioxide Fumarole,Plaa Eurk WY-I d9-5
 Sulphur Dioxide Fumarole,HIP 80088
 Sulphur Dioxide Fumarole,Swoiwns FZ-B c2-6
 Sulphur Dioxide Fumarole,Hypi Aim VJ-H d10-11
+Sulphur Dioxide Fumarole,HIP 36601
 Sulphur Dioxide Fumarole,Cepheus Dark Region B Sector CQ-Y c5
 Sulphur Dioxide Fumarole,Prooe Drye NO-O b11-0
 Sulphur Dioxide Fumarole,Deciat
@@ -10345,6 +9466,7 @@ Sulphur Dioxide Fumarole,Col 359 Sector TW-I b11-7
 Sulphur Dioxide Fumarole,Veil West Sector DL-Y d68
 Sulphur Dioxide Fumarole,Greou Dryiae IH-T d4-3
 Sulphur Dioxide Fumarole,Heart Sector OI-S b4-1
+Sulphur Dioxide Fumarole,HIP 36601
 Sulphur Dioxide Fumarole,Puelio WB-G c26-9
 Sulphur Dioxide Fumarole,Swoiwns GQ-J b1-4
 Sulphur Dioxide Fumarole,HIP 36601
@@ -10381,13 +9503,16 @@ Sulphur Dioxide Fumarole,Puelio WB-G c26-9
 Sulphur Dioxide Fumarole,IC 1396 Sector DM-K c9-1
 Sulphur Dioxide Fumarole,Puelio WB-G c26-9
 Sulphur Dioxide Fumarole,Gria Eoq CN-H d11-1
+Sulphur Dioxide Fumarole,Pencil Sector IR-W d1-146
 Sulphur Dioxide Fumarole,Bleae Thua OJ-I d9-54
 Sulphur Dioxide Fumarole,Outotz LS-K d8-3
+Sulphur Dioxide Fumarole,Crookaei OE-P d6-61
 Sulphur Dioxide Fumarole,Puekie RH-S c5-17
 Sulphur Dioxide Fumarole,Angosk WJ-R d4-1
 Sulphur Dioxide Fumarole,Plaa Eurk WY-I d9-5
 Sulphur Dioxide Fumarole,Chelgit
 Sulphur Dioxide Fumarole,Clooku UZ-E d12-45
+Sulphur Dioxide Fumarole,HIP 36601
 Sulphur Dioxide Fumarole,Plaa Eurk WY-I d9-5
 Sulphur Dioxide Fumarole,S171 20
 Sulphur Dioxide Fumarole,Synuefai JE-E d13-50
@@ -10396,6 +9521,7 @@ Sulphur Dioxide Fumarole,Prooe Drye JC-B d1-28
 Sulphur Dioxide Fumarole,Deciat
 Sulphur Dioxide Fumarole,Puelio WB-G c26-9
 Sulphur Dioxide Fumarole,NGC 2452 Sector KX-T b3-1
+Sulphur Dioxide Fumarole,Swoilz OC-B d1-97
 Sulphur Dioxide Fumarole,S171 12
 Sulphur Dioxide Fumarole,Blua Hypa HT-F d12-1226
 Sulphur Dioxide Fumarole,HD 213209
@@ -10406,6 +9532,7 @@ Sulphur Dioxide Fumarole,Synuefe UO-P c22-15
 Sulphur Dioxide Fumarole,Plaa Eurk WY-I d9-5
 Sulphur Dioxide Fumarole,Tiefua FK-A d15
 Sulphur Dioxide Fumarole,Prua Phio QF-M d8-85
+Sulphur Dioxide Fumarole,IC 2391 Sector BQ-Y d6
 Sulphur Dioxide Gas Vent,Sifi MM-U b3-0
 Sulphur Dioxide Gas Vent,S171 19
 Sulphur Dioxide Gas Vent,Zunao PE-P c19-1659
@@ -10453,8 +9580,10 @@ Sulphur Dioxide Gas Vent,Synuefe PB-B b47-1
 Sulphur Dioxide Gas Vent,Aucops FU-H c26-2
 Sulphur Dioxide Gas Vent,Sifi VC-V b2-5
 Sulphur Dioxide Gas Vent,Eol Prou US-T d3-2340
+Sulphur Dioxide Gas Vent,Flyiedgiae QN-T d3-17
 Sulphur Dioxide Gas Vent,Qiedea HY-J b53-0
 Sulphur Dioxide Gas Vent,Gludgoea UX-X c28-12
+Sulphur Dioxide Gas Vent,Pencil Sector IR-W d1-146
 Sulphur Dioxide Gas Vent,Gludgoea UX-X c28-12
 Sulphur Dioxide Gas Vent,HIP 12099
 Sulphur Dioxide Gas Vent,Veil West Sector MX-T b3-0
@@ -10464,31 +9593,6 @@ Sulphur Dioxide Gas Vent,Col 359 Sector TW-I b11-7
 Sulphur Dioxide Gas Vent,Dryae Eaewsy KN-J c25-3
 Sulphur Dioxide Gas Vent,Engorshch YA-U d4-0
 Supermassive Black Hole,Sagittarius A*
-surfacePOI,Pyriveae FK-C d14-72
-surfacePOI,Hypuae Briae YP-F d11-2510
-surfacePOI,Fachiae OM-F c26-0
-surfacePOI,Nervi
-surfacePOI,Phroea Phio KB-R b51-1
-surfacePOI,Hypo Aub VP-Y b1-0
-surfacePOI,Chroabs TI-S d4-58
-surfacePOI,Cheia Eoq TJ-U b22-0
-surfacePOI,Floalt WC-C b16-6
-surfacePOI,Ooctarbs CP-E c25-1
-surfacePOI,NGC 4609 Sector VZ-O b23-1
-surfacePOI,Aidohs JI-A d14-0
-surfacePOI,Slege WJ-R c20-0
-surfacePOI,Colonia
-surfacePOI,Smojai IT-P d6-2
-surfacePOI,Trifid Sector OI-S b4-12
-surfacePOI,Qeajo CZ-N c20-15
-surfacePOI,Phipoea WK-E d12-1374
-surfacePOI,Eoch Bli EQ-F c27-2241
-surfacePOI,Glufoa IR-N d6-0
-surfacePOI,Dryaea Phlai IB-P b19-0
-surfacePOI,Gooroa GY-F d12-7
-surfacePOI,Traikaae CH-Y c10
-surfacePOI,Oopailn NP-R c7-3
-surfacePOI,V337 Carinae
 T-Type Anomalies,Agnairy QT-O d7-4003
 T-Type Anomalies,Agnairy HN-D c15-4312
 T-Type Anomalies,Phraa Pra HH-U e3-1354 A
@@ -10499,7 +9603,337 @@ T-Type Anomalies,Agnairy HN-D c15-4142
 T-Type Anomalies,Agnairy HN-D c15-4142
 T-Type Anomalies,Agnairy MN-Q d6-7736
 T-Type Anomalies,Agnairy JH-U e3-2113
-Thailoe RF-B c2-12,2019-11-02T21:57:16.000Z
+Thargoid Barnacle,Merope
+Thargoid Barnacle,Pleione
+Thargoid Barnacle,Merope
+Thargoid Barnacle,Merope
+Thargoid Barnacle,Pleione
+Thargoid Barnacle,California Sector DL-Y d4
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector LY-Q b5-2
+Thargoid Barnacles,Pleiades Sector LY-Q b5-2
+Thargoid Barnacles,Pleiades Sector WK-O b6-1
+Thargoid Barnacles,Pleiades Sector SP-N b7-0
+Thargoid Barnacles,Pleiades Sector CB-N b7-0
+Thargoid Barnacles,Witch Head Sector DL-Y d17
+Thargoid Barnacles,California Sector DL-Y d4
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector WK-O b6-1
+Thargoid Barnacles,Pleiades Sector IX-S b4-4
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Pleiades Sector GH-L b8-0
+Thargoid Barnacles,Pleiades Sector LY-Q b5-2
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector PI-T c3-9
+Thargoid Barnacles,Witch Head Sector XE-Q b5-0
+Thargoid Barnacles,HIP 14405
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,California Sector DL-Y d4
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,Pleiades Sector LY-Q b5-2
+Thargoid Barnacles,Pleiades Sector PI-T c3-9
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,HIP 15823
+Thargoid Barnacles,Pleiades Sector HM-V c2-10
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,HIP 17497
+Thargoid Barnacles,HIP 17225
+Thargoid Barnacles,Pleiades Sector HR-W d1-66
+Thargoid Barnacles,Pleiades Sector LY-Q b5-2
+Thargoid Barnacles,Pleiades Sector VF-N b7-0
+Thargoid Barnacles,Pleiades Sector PI-T c3-9
+Thargoid Barnacles,HIP 17225
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Pleiades Sector OI-T c3-7
+Thargoid Barnacles,Pleiades Sector IX-S b4-4
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Pleiades Sector OI-T c3-7
+Thargoid Barnacles,Pleiades Sector VF-N b7-0
+Thargoid Barnacles,Pleiades Sector LN-S b4-3
+Thargoid Barnacles,Outotz ST-I d9-6
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Witch Head Sector DL-Y d17
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,HIP 14405
+Thargoid Barnacles,Witch Head Sector GW-W c1-4
+Thargoid Barnacles,HIP 15823
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector XE-Q b5-2
+Thargoid Barnacles,California Sector JH-V c2-12
+Thargoid Barnacles,Witch Head Sector GW-W c1-4
+Thargoid Barnacles,Pleiades Sector XE-Q b5-2
+Thargoid Barnacles,Pleiades Sector XE-Q b5-2
+Thargoid Barnacles,Pleiades Sector HR-W d1-66
+Thargoid Barnacles,Witch Head Sector HW-W c1-7
+Thargoid Barnacles,Pleiades Sector XE-Q b5-2
+Thargoid Barnacles,Pleione
+Thargoid Barnacles,Pleiades Sector IR-W d1-37
+Thargoid Barnacles,Witch Head Sector HW-W c1-9
+Thargoid Barnacles,HIP 17497
+Thargoid Barnacles,Pleiades Sector SP-N b7-0
+Thargoid Barnacles,Pleiades Sector RO-Q b5-0
+Thargoid Barnacles,Pleiades Sector OI-T c3-7
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Witch Head Sector HW-W c1-7
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Pleiades Sector LN-T c3-7
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,HIP 17497
+Thargoid Barnacles,HIP 21246
+Thargoid Barnacles,Pleiades Sector HR-W d1-66
+Thargoid Barnacles,Pleiades Sector SP-N b7-0
+Thargoid Barnacles,Witch Head Sector DL-Y d17
+Thargoid Barnacles,California Sector JH-V c2-12
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,Pleiades Sector LY-Q b5-2
+Thargoid Barnacles,California Sector DL-Y d4
+Thargoid Barnacles,Hyades Sector AQ-Y d81
+Thargoid Barnacles,Pleiades Sector XE-Q b5-2
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector SE-P b6-0
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector LN-S b4-3
+Thargoid Barnacles,Pleiades Sector LN-T c3-7
+Thargoid Barnacles,Witch Head Sector GW-W c1-4
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,California Sector HR-W d1-28
+Thargoid Barnacles,Pleiades Sector OI-T c3-7
+Thargoid Barnacles,Witch Head Sector HW-W c1-7
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,Witch Head Sector HW-W c1-9
+Thargoid Barnacles,California Sector LC-V c2-10
+Thargoid Barnacles,Pleiades Sector HR-W d1-66
+Thargoid Barnacles,HIP 16171
+Thargoid Barnacles,Pleiades Sector UK-N b7-3
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Hyades Sector AQ-Y d81
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector HR-W d1-26
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,HIP 17497
+Thargoid Barnacles,California Sector DL-Y d4
+Thargoid Barnacles,Pleiades Sector SE-P b6-0
+Thargoid Barnacles,HIP 15823
+Thargoid Barnacles,Pleiades Sector RO-Q b5-0
+Thargoid Barnacles,Pleiades Sector FB-X c1-10
+Thargoid Barnacles,Pleiades Sector IX-S b4-4
+Thargoid Barnacles,Witch Head Sector FB-X c1-11
+Thargoid Barnacles,California Sector BV-Y c7
+Thargoid Barnacles,Pleiades Sector HM-V c2-10
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector LN-S b4-3
+Thargoid Barnacles,Witch Head Sector DL-Y d17
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,Merope
+Thargoid Barnacles,Pleiades Sector UK-N b7-3
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Witch Head Sector HW-W c1-7
+Thargoid Barnacles,Pleiades Sector SE-P b6-0
+Thargoid Barnacles,Pleiades Sector CB-N b7-0
+Thargoid Barnacles,Pleiades Sector PN-S b4-1
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Witch Head Sector DL-Y d17
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Witch Head Sector DL-Y d17
+Thargoid Barnacles,Pleiades Sector LN-T c3-7
+Thargoid Barnacles,California Sector DL-Y d4
+Thargoid Barnacles,California Sector HR-W d1-28
+Thargoid Barnacles,HIP 17225
+Thargoid Barnacles,Pleiades Sector CL-Y d43
+Thargoid Barnacles,Pleiades Sector SP-N b7-0
+Thargoid Barnacles,Pleiades Sector FB-X c1-10
+Thargoid Barnacles,Pleiades Sector QJ-Q b5-2
+Thargoid Barnacles,Witch Head Sector XE-Q b5-0
+Thargoid Barnacles,Pleiades Sector XU-P b5-1
+Thargoid Barnacles,Pleiades Sector VF-N b7-0
+Thargoid Barnacles,Pleiades Sector LN-S b4-3
+Thargoid Barnacles,Witch Head Sector FB-X c1-11
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector SP-N b7-0
+Thargoid Barnacles,Pleiades Sector VF-N b7-0
+Thargoid Barnacles,Pleiades Sector VF-N b7-0
+Thargoid Barnacles,California Sector BA-A e6
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Witch Head Sector XE-Q b5-0
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Pleiades Sector PI-T c3-9
+Thargoid Barnacles,Pleiades Sector IX-S b4-4
+Thargoid Barnacles,Witch Head Sector HW-W c1-9
+Thargoid Barnacles,Pleiades Sector VF-N b7-0
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector GH-L b8-0
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,Pleiades Sector CL-Y d43
+Thargoid Barnacles,Pleiades Sector LN-S b4-3
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector XE-Q b5-2
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Witch Head Sector HW-W c1-7
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector VF-N b7-0
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Outotz ST-I d9-6
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Pleiades Sector SE-P b6-0
+Thargoid Barnacles,California Sector HR-W d1-28
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Witch Head Sector DL-Y d17
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,California Sector LC-V c2-10
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,California Sector BA-A e6
+Thargoid Barnacles,Witch Head Sector DL-Y d17
+Thargoid Barnacles,Hyades Sector AQ-Y d81
+Thargoid Barnacles,Pleiades Sector CQ-P b5-0
+Thargoid Barnacles,Pleiades Sector XE-Q b5-2
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,HIP 16171
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Pleione
+Thargoid Barnacles,Outotz ST-I d9-6
+Thargoid Barnacles,Pleiades Sector RO-Q b5-0
+Thargoid Barnacles,California Sector LC-V c2-10
+Thargoid Barnacles,Pleione
+Thargoid Barnacles,Hyades Sector AQ-Y d81
+Thargoid Barnacles,Pleiades Sector IX-S b4-4
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Merope
+Thargoid Barnacles,Pleiades Sector LN-S b4-3
+Thargoid Barnacles,Pleiades Sector PI-T c3-9
+Thargoid Barnacles,Pleiades Sector HR-W d1-66
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Witch Head Sector GW-W c1-4
+Thargoid Barnacles,Pleiades Sector EH-U b3-2
+Thargoid Barnacles,Pleiades Sector VF-N b7-0
+Thargoid Barnacles,HIP 16171
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Pleiades Sector HR-W d1-66
+Thargoid Barnacles,Pleiades Sector FR-V c2-7
+Thargoid Barnacles,Pleiades Sector HR-W d1-66
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Witch Head Sector GW-W c1-4
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Witch Head Sector XE-Q b5-0
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,HIP 14405
+Thargoid Barnacles,Merope
+Thargoid Barnacles,Pleiades Sector MS-T b3-1
+Thargoid Barnacles,Pleiades Sector HM-M b7-1
+Thargoid Barnacles,Pleiades Sector LN-T c3-7
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Pleiades Sector LY-Q b5-2
+Thargoid Barnacles,Pleiades Sector UK-N b7-3
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector FR-V c2-2
+Thargoid Barnacles,Pleiades Sector SP-N b7-0
+Thargoid Barnacles,Pleiades Sector OI-T c3-7
+Thargoid Barnacles,Pleiades Sector CQ-P b5-0
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Pleiades Sector KS-S b4-1
+Thargoid Barnacles,Witch Head Sector GW-W c1-4
+Thargoid Barnacles,Pleiades Sector FB-X c1-10
+Thargoid Barnacles,Pleiades Sector NN-T c3-15
+Thargoid Barnacles,Merope
+Thargoid Barnacles,Pleiades Sector VF-N b7-0
+Thargoid Barnacles,California Sector LC-V c2-10
+Thargoid Barnacles,Witch Head Sector HW-W c1-7
+Thargoid Barnacles,Pleiades Sector RO-Q b5-0
+Thargoid Barnacles,Merope
+Thargoid Barnacles,California Sector BA-A e6
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,Witch Head Sector FB-X c1-11
+Thargoid Barnacles,California Sector BA-A e6
+Thargoid Barnacles,Witch Head Sector XE-Q b5-0
+Thargoid Barnacles,Merope
+Thargoid Barnacles,HIP 17225
+Thargoid Barnacles,California Sector BA-A e6
+Thargoid Barnacles,Witch Head Sector DL-Y d17
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,Pleiades Sector XE-Q b5-2
+Thargoid Barnacles,Pleiades Sector XO-A c9
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,California Sector DL-Y d4
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,California Sector DL-Y d4
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Merope
+Thargoid Barnacles,Pleiades Sector XE-Q b5-2
+Thargoid Barnacles,Witch Head Sector FB-X c1-11
+Thargoid Barnacles,Pleiades Sector XU-P b5-1
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector RO-Q b5-0
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Pleiades Sector JC-U b3-2
+Thargoid Barnacles,Pleiades Sector SP-N b7-0
+Thargoid Barnacles,Pleiades Sector LY-Q b5-2
+Thargoid Barnacles,Pleiades Sector OI-T c3-7
+Thargoid Barnacles,Pleiades Sector LY-Q b5-2
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Pleione
+Thargoid Barnacles,California Sector LC-V c2-10
+Thargoid Barnacles,Pleiades Sector QJ-Q b5-2
+Thargoid Barnacles,California Sector BV-Y c7
+Thargoid Barnacles,California Sector DL-Y d4
+Thargoid Barnacles,California Sector DL-Y d4
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,Pleiades Sector LN-S b4-3
+Thargoid Barnacles,HIP 21246
+Thargoid Barnacles,Pleiades Sector GH-L b8-0
+Thargoid Barnacles,Pleione
+Thargoid Barnacles,Pleiades Sector LN-S b4-3
+Thargoid Barnacles,Witch Head Sector HW-W c1-7
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector IH-V c2-16
+Thargoid Barnacles,Pleiades Sector CB-N b7-0
+Thargoid Barnacles,Pleiades Sector PI-T c3-9
+Thargoid Barnacles,Pleiades Sector XU-P b5-1
+Thargoid Barnacles,Pleiades Sector RO-Q b5-0
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,Pleiades Sector OI-T c3-7
+Thargoid Barnacles,Merope
+Thargoid Barnacles,Witch Head Sector HW-W c1-9
+Thargoid Barnacles,Pleiades Sector LN-T c3-7
+Thargoid Barnacles,Witch Head Sector LC-V c2-10
+Thargoid Barnacles,HIP 14405
+Thargoid Barnacles,California Sector DL-Y d4
+Thargoid Barnacles,Witch Head Sector DL-Y d17
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector OI-T c3-7
+Thargoid Barnacles,Pleiades Sector LN-S b4-3
+Thargoid Barnacles,Witch Head Sector HW-W c1-8
+Thargoid Barnacles,Pleiades Sector YZ-Y c9
+Thargoid Barnacles,Pleiades Sector GH-L b8-0
+Thargoid Barnacles,Merope
+Thargoid Barnacles,Pleiades Sector NN-T c3-15
+Thargoid Barnacles,Pleiades Sector LN-T c3-7
+Thargoid Barnacles,Pleiades Sector LY-Q b5-2
+Thargoid Barnacles,Pleiades Sector PN-T b3-0
+Thargoid Barnacles,Pleiades Sector QJ-Q b5-2
+Thargoid Barnacles,HIP 15823
+Thargoid Barnacles,Witch Head Sector DL-Y d17
 Thargoid Interceptor Cyclops,Pleiades Sector HR-W d1-51
 Thargoid Interceptor Cyclops,Asterope
 Thargoid Interceptor Cyclops,HIP 16613
@@ -10606,796 +10040,6 @@ Thargoid Structure,Pleiades Sector OD-S b4-1
 Thargoid Structure,Mel 22 Sector JC-V d2-14
 Thargoid Structure,Pleiades Sector MX-U d2-63
 Thargoid Uplink Device,Outotz ST-I d9-6
-Tourist Beacon,Ross 1057
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Enayex
-Tourist Beacon,Vamm
-Tourist Beacon,Gui Xian
-Tourist Beacon,Apisulfr
-Tourist Beacon,Millcayac
-Tourist Beacon,HIP 88617
-Tourist Beacon,Mayang
-Tourist Beacon,HIP 42455
-Tourist Beacon,Vistaenis
-Tourist Beacon,Ngere
-Tourist Beacon,HIP 42455
-Tourist Beacon,Daibo
-Tourist Beacon,LP 339-7
-Tourist Beacon,LHS 278
-Tourist Beacon,CD-58 4207
-Tourist Beacon,Buzhang Ku
-Tourist Beacon,Gliese 3299
-Tourist Beacon,Malina
-Tourist Beacon,CD-52 557
-Tourist Beacon,Tchernobog
-Tourist Beacon,Tocorii
-Tourist Beacon,Gliese 3299
-Tourist Beacon,Cemiess
-Tourist Beacon,Oppidavasti
-Tourist Beacon,HR 6164
-Tourist Beacon,19 Phi-2 Ceti
-Tourist Beacon,GCRV 3204
-Tourist Beacon,Beta Hydri
-Tourist Beacon,Slaiyooe OX-L d7-0
-Tourist Beacon,Sol
-Tourist Beacon,Tphen Slata
-Tourist Beacon,Njorovices
-Tourist Beacon,Exioce
-Tourist Beacon,HIP 110028
-Tourist Beacon,Miskai
-Tourist Beacon,LP 102-320
-Tourist Beacon,Akonito
-Tourist Beacon,Eoch Flyuae MR-W e1-217
-Tourist Beacon,Lave
-Tourist Beacon,Zearla
-Tourist Beacon,HIP 5623
-Tourist Beacon,Rhea
-Tourist Beacon,Reorte
-Tourist Beacon,Buzhang Ku
-Tourist Beacon,Jardonnere
-Tourist Beacon,S171 34
-Tourist Beacon,Wulgaedia
-Tourist Beacon,Merope
-Tourist Beacon,Tujing
-Tourist Beacon,CD-58 4207
-Tourist Beacon,BD+65 210
-Tourist Beacon,HIP 33287
-Tourist Beacon,T Tauri
-Tourist Beacon,Alioth
-Tourist Beacon,Beditjari
-Tourist Beacon,Veil West Sector GW-W c1-16
-Tourist Beacon,Gabraceni
-Tourist Beacon,Mu Horologii
-Tourist Beacon,He Qiong
-Tourist Beacon,Guanangu
-Tourist Beacon,Ikpenones
-Tourist Beacon,Reorte
-Tourist Beacon,HR 6164
-Tourist Beacon,G 203-47
-Tourist Beacon,IC 1396 Sector RU-F d11-7
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Colonia
-Tourist Beacon,LP 339-7
-Tourist Beacon,Alioth
-Tourist Beacon,Byao Ain GG-Y e7
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Ackwada
-Tourist Beacon,Nortes
-Tourist Beacon,BD+65 210
-Tourist Beacon,Marki
-Tourist Beacon,BD+74 526
-Tourist Beacon,LP 244-47
-Tourist Beacon,Buzhang Ku
-Tourist Beacon,38 Lyncis
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Sol
-Tourist Beacon,HIP 41184
-Tourist Beacon,Indaol
-Tourist Beacon,Assinda
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Malina
-Tourist Beacon,HIP 90246
-Tourist Beacon,61 Cygni
-Tourist Beacon,LP 244-47
-Tourist Beacon,Adenets
-Tourist Beacon,BD+69 530
-Tourist Beacon,Qetesh
-Tourist Beacon,NLTT 46621
-Tourist Beacon,Beta Hydri
-Tourist Beacon,Pangluya
-Tourist Beacon,Manissyet
-Tourist Beacon,Gliese 3258
-Tourist Beacon,Cofan
-Tourist Beacon,Zunuae IU-D d13-363
-Tourist Beacon,Cemiess
-Tourist Beacon,Gliese 3258
-Tourist Beacon,IC 1805 Sector AV-O c6-6
-Tourist Beacon,Gluscheimr
-Tourist Beacon,HIP 11693
-Tourist Beacon,Exioce
-Tourist Beacon,Wolf 497
-Tourist Beacon,Ross 1057
-Tourist Beacon,Kikapu
-Tourist Beacon,Haritanis
-Tourist Beacon,18 Puppis
-Tourist Beacon,Enayex
-Tourist Beacon,Tphen Slata
-Tourist Beacon,BD+65 210
-Tourist Beacon,Ross 1057
-Tourist Beacon,NLTT 6667
-Tourist Beacon,Y Canum Venaticorum
-Tourist Beacon,Enayex
-Tourist Beacon,Cemiess
-Tourist Beacon,Zvoruna
-Tourist Beacon,CL Phoenicis
-Tourist Beacon,Thraskias
-Tourist Beacon,Hofada
-Tourist Beacon,Vishtha
-Tourist Beacon,HD 1740
-Tourist Beacon,Aymiay
-Tourist Beacon,Sol
-Tourist Beacon,Banki
-Tourist Beacon,HR 6164
-Tourist Beacon,Neritus
-Tourist Beacon,Sirius
-Tourist Beacon,17 Beta Piscis Austrini
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Pomeche
-Tourist Beacon,LP 339-7
-Tourist Beacon,Sol
-Tourist Beacon,CD-75 661
-Tourist Beacon,Nortes
-Tourist Beacon,Nortes
-Tourist Beacon,Marki
-Tourist Beacon,61 Cygni
-Tourist Beacon,HIP 35755
-Tourist Beacon,Dijkstra
-Tourist Beacon,18 Camelopardalis
-Tourist Beacon,Eorgh Flyoae AA-A h56
-Tourist Beacon,Phekda
-Tourist Beacon,Meenates
-Tourist Beacon,Col 285 Sector VU-M c8-1
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,HIP 42455
-Tourist Beacon,Sesuyar
-Tourist Beacon,Hajangai
-Tourist Beacon,Achenar
-Tourist Beacon,Pomeche
-Tourist Beacon,241 G. Aquarii
-Tourist Beacon,Lave
-Tourist Beacon,Assinda
-Tourist Beacon,Vequess
-Tourist Beacon,Alpha Centauri
-Tourist Beacon,Pleiades Sector JC-U b3-2
-Tourist Beacon,HR 1597
-Tourist Beacon,Zelada
-Tourist Beacon,K'uanele
-Tourist Beacon,Mu Koji
-Tourist Beacon,Upsilon Phoenicis
-Tourist Beacon,California Sector BA-A e6
-Tourist Beacon,Wolf 1438
-Tourist Beacon,Dassareti
-Tourist Beacon,Apam Napat
-Tourist Beacon,Siksikas
-Tourist Beacon,VVO 19
-Tourist Beacon,Juipedun
-Tourist Beacon,HIP 41184
-Tourist Beacon,Sali'naman
-Tourist Beacon,Wat Yu
-Tourist Beacon,Baukoa WX-O c20-1519
-Tourist Beacon,Agastani
-Tourist Beacon,Ngere
-Tourist Beacon,G 123-16
-Tourist Beacon,G 123-16
-Tourist Beacon,Jardonnere
-Tourist Beacon,Wabayo
-Tourist Beacon,Sirius
-Tourist Beacon,Sol
-Tourist Beacon,HIP 35755
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Sol
-Tourist Beacon,Aapelinja
-Tourist Beacon,Banki
-Tourist Beacon,Pictavul
-Tourist Beacon,LTT 13904
-Tourist Beacon,Outotch SA-U d4-0
-Tourist Beacon,Yalura
-Tourist Beacon,Jardonnere
-Tourist Beacon,LHS 278
-Tourist Beacon,HIP 11263
-Tourist Beacon,Sirius
-Tourist Beacon,Achenar
-Tourist Beacon,Altair
-Tourist Beacon,Epsilon Indi
-Tourist Beacon,Juipedun
-Tourist Beacon,CD-58 4207
-Tourist Beacon,NLTT 21088
-Tourist Beacon,Betelgeuse
-Tourist Beacon,Kambila
-Tourist Beacon,CD-61 1439
-Tourist Beacon,HIP 75762
-Tourist Beacon,Kholhou
-Tourist Beacon,LHS 2265
-Tourist Beacon,Nortes
-Tourist Beacon,Algol
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Hau Ku
-Tourist Beacon,Achenar
-Tourist Beacon,Zeessze
-Tourist Beacon,Lugh
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Exioce
-Tourist Beacon,LTT 4599
-Tourist Beacon,Maia
-Tourist Beacon,HIP 111755
-Tourist Beacon,Struve's Lost Sector NN-T c3-1
-Tourist Beacon,Firdaus
-Tourist Beacon,Bloder
-Tourist Beacon,Nortes
-Tourist Beacon,Ackwada
-Tourist Beacon,CD-26 1339
-Tourist Beacon,Beagle Point
-Tourist Beacon,Koyeris
-Tourist Beacon,BD+74 526
-Tourist Beacon,CD-31 1974
-Tourist Beacon,Carverda
-Tourist Beacon,LHS 278
-Tourist Beacon,Sol
-Tourist Beacon,LP 499-54
-Tourist Beacon,LTT 13904
-Tourist Beacon,Ngere
-Tourist Beacon,Hen 2-23
-Tourist Beacon,Gliese 3299
-Tourist Beacon,Pleiades Sector AB-W b2-4
-Tourist Beacon,Tujing
-Tourist Beacon,Tphen Slata
-Tourist Beacon,Soontill
-Tourist Beacon,Pomeche
-Tourist Beacon,Miromi
-Tourist Beacon,T Tauri
-Tourist Beacon,Coelatuvean
-Tourist Beacon,Liaedin
-Tourist Beacon,HIP 113100
-Tourist Beacon,BD-00 632
-Tourist Beacon,Pleiades Sector IH-V c2-16
-Tourist Beacon,Exphiay
-Tourist Beacon,Laedla
-Tourist Beacon,LHS 6050
-Tourist Beacon,241 G. Aquarii
-Tourist Beacon,Gliese 3002
-Tourist Beacon,LP 499-54
-Tourist Beacon,Tpheirset
-Tourist Beacon,Juipedun
-Tourist Beacon,Cartoi
-Tourist Beacon,BD+65 210
-Tourist Beacon,CD-26 1339
-Tourist Beacon,Cheae Euq ER-L c21-0
-Tourist Beacon,HIP 35755
-Tourist Beacon,Cheae Euq ER-L c21-0
-Tourist Beacon,Grabrigpa
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Luyten 205-128
-Tourist Beacon,He Qiong
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Beditjari
-Tourist Beacon,BD+65 210
-Tourist Beacon,Balaa
-Tourist Beacon,Juipedun
-Tourist Beacon,NLTT 46621
-Tourist Beacon,HIP 38064
-Tourist Beacon,CD-33 8748
-Tourist Beacon,Alioth
-Tourist Beacon,Chul
-Tourist Beacon,LHS 199
-Tourist Beacon,Riedquat
-Tourist Beacon,Alioth
-Tourist Beacon,Tujing
-Tourist Beacon,G 203-47
-Tourist Beacon,Achenar
-Tourist Beacon,Vamm
-Tourist Beacon,Upsilon Phoenicis
-Tourist Beacon,Tocorii
-Tourist Beacon,Juipedun
-Tourist Beacon,Liaedin
-Tourist Beacon,Buzhang Ku
-Tourist Beacon,Eol Prou JM-W f1-751
-Tourist Beacon,BD+65 210
-Tourist Beacon,Achenar
-Tourist Beacon,18 Puppis
-Tourist Beacon,Tphen Slata
-Tourist Beacon,CD-58 4207
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Col 285 Sector NE-G c11-32
-Tourist Beacon,CD-39 4830
-Tourist Beacon,Nu-1 Columbae
-Tourist Beacon,Nespel
-Tourist Beacon,Chick Ek
-Tourist Beacon,Vamm
-Tourist Beacon,Zearla
-Tourist Beacon,17 Cygni
-Tourist Beacon,BD+65 210
-Tourist Beacon,V380 Orionis
-Tourist Beacon,Fortuna
-Tourist Beacon,Malina
-Tourist Beacon,Ndjabog
-Tourist Beacon,G 69-11
-Tourist Beacon,Temba
-Tourist Beacon,Eembaisk DG-O e6-2972
-Tourist Beacon,Tauni
-Tourist Beacon,Exioce
-Tourist Beacon,LHS 278
-Tourist Beacon,Blua Hypue QI-Z d1-4516
-Tourist Beacon,CD-58 4207
-Tourist Beacon,Achenar
-Tourist Beacon,241 G. Aquarii
-Tourist Beacon,Ross 467
-Tourist Beacon,Siksikas
-Tourist Beacon,HIP 38064
-Tourist Beacon,Ackwada
-Tourist Beacon,HIP 19072
-Tourist Beacon,Sugrivik
-Tourist Beacon,HIP 16365
-Tourist Beacon,Col 285 Sector RF-C b14-7
-Tourist Beacon,Tupa
-Tourist Beacon,Andceeth
-Tourist Beacon,Ngardinja
-Tourist Beacon,Yaque
-Tourist Beacon,Gliese 3299
-Tourist Beacon,HR 7221
-Tourist Beacon,Exioce
-Tourist Beacon,Fortuna
-Tourist Beacon,LTT 18046
-Tourist Beacon,Zenus
-Tourist Beacon,HR 1597
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Tphen Slata
-Tourist Beacon,Suijin
-Tourist Beacon,Ngun
-Tourist Beacon,Bedaho
-Tourist Beacon,Exioce
-Tourist Beacon,G 123-16
-Tourist Beacon,HR 7221
-Tourist Beacon,CD-26 1339
-Tourist Beacon,Ayethi
-Tourist Beacon,Amsitia
-Tourist Beacon,GCRV 4981
-Tourist Beacon,Exioce
-Tourist Beacon,HIP 41181
-Tourist Beacon,Upsilon Phoenicis
-Tourist Beacon,LHS 2405
-Tourist Beacon,Synuefe XR-H d11-102
-Tourist Beacon,Xbalamana
-Tourist Beacon,Procyon
-Tourist Beacon,Ch'eng
-Tourist Beacon,BD+34 1378
-Tourist Beacon,Eembaisk NS-R d5-2857
-Tourist Beacon,Temba
-Tourist Beacon,Popontia
-Tourist Beacon,Miwobogi
-Tourist Beacon,Arexack
-Tourist Beacon,Ch'eng
-Tourist Beacon,LP 499-54
-Tourist Beacon,69 G. Carinae
-Tourist Beacon,Pachanwen
-Tourist Beacon,LTT 9164
-Tourist Beacon,Meenates
-Tourist Beacon,Fortuna
-Tourist Beacon,Sali'naman
-Tourist Beacon,Lugh
-Tourist Beacon,Tocorii
-Tourist Beacon,LP 244-47
-Tourist Beacon,Holiacan
-Tourist Beacon,LFT 601
-Tourist Beacon,Zearla
-Tourist Beacon,Tujing
-Tourist Beacon,Mokusa
-Tourist Beacon,Niju
-Tourist Beacon,Synuefe XR-H d11-102
-Tourist Beacon,Synteini
-Tourist Beacon,CD-58 4207
-Tourist Beacon,Obambivas
-Tourist Beacon,LHS 1944
-Tourist Beacon,Indaol
-Tourist Beacon,LTT 13904
-Tourist Beacon,Vamm
-Tourist Beacon,LHS 3167
-Tourist Beacon,Pleiades Sector JC-U b3-2
-Tourist Beacon,Reorte
-Tourist Beacon,Azaleach
-Tourist Beacon,CD-26 1339
-Tourist Beacon,Guttors
-Tourist Beacon,HIP 10123
-Tourist Beacon,Facece
-Tourist Beacon,Epsilon Eridani
-Tourist Beacon,Djuhti
-Tourist Beacon,G 203-47
-Tourist Beacon,HIP 42455
-Tourist Beacon,Dimoco
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Ross 1057
-Tourist Beacon,Xuanebuth
-Tourist Beacon,Velnambe
-Tourist Beacon,Vamm
-Tourist Beacon,Rohini
-Tourist Beacon,Lalande 46867
-Tourist Beacon,Gliese 3299
-Tourist Beacon,Sol
-Tourist Beacon,Zelada
-Tourist Beacon,CD-39 6137
-Tourist Beacon,Anyayahui
-Tourist Beacon,LHS 2405
-Tourist Beacon,Alioth
-Tourist Beacon,Flech
-Tourist Beacon,Lugh
-Tourist Beacon,Exioce
-Tourist Beacon,HR 4062
-Tourist Beacon,IC 289 Sector DL-Y d17
-Tourist Beacon,HIP 57822
-Tourist Beacon,Wregoe TV-L c24-0
-Tourist Beacon,Sol
-Tourist Beacon,Vamm
-Tourist Beacon,HIP 111755
-Tourist Beacon,California Sector BA-A e6
-Tourist Beacon,Any Na
-Tourist Beacon,Zearla
-Tourist Beacon,Bedaho
-Tourist Beacon,G 123-16
-Tourist Beacon,V711 Tauri
-Tourist Beacon,Tujing
-Tourist Beacon,Dassareti
-Tourist Beacon,Wulgaedia
-Tourist Beacon,HR 5156
-Tourist Beacon,CD-58 4207
-Tourist Beacon,LHS 2813
-Tourist Beacon,Grabrigpa
-Tourist Beacon,Pyraleau AA-A h39
-Tourist Beacon,Tau Ceti
-Tourist Beacon,Tionisla
-Tourist Beacon,HIP 17862
-Tourist Beacon,CD-58 4207
-Tourist Beacon,Ienpalang
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,BD+74 526
-Tourist Beacon,Gooheimar
-Tourist Beacon,Ch'eng
-Tourist Beacon,Bunuson
-Tourist Beacon,Mintaka
-Tourist Beacon,Tphen Slata
-Tourist Beacon,Hecate
-Tourist Beacon,VonRictofen's Rescue
-Tourist Beacon,Smethells 173
-Tourist Beacon,Andceeth
-Tourist Beacon,Huveang De
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,36 Andromedae
-Tourist Beacon,Banki
-Tourist Beacon,Alioth
-Tourist Beacon,Ackwada
-Tourist Beacon,Fortuna
-Tourist Beacon,Ladabalbasa
-Tourist Beacon,Alioth
-Tourist Beacon,Epsilon Eridani
-Tourist Beacon,Nortes
-Tourist Beacon,LP 244-47
-Tourist Beacon,CD-58 4207
-Tourist Beacon,LHS 3781
-Tourist Beacon,LP 131-66
-Tourist Beacon,LTT 4599
-Tourist Beacon,Moanza
-Tourist Beacon,Zeaex
-Tourist Beacon,Vish
-Tourist Beacon,G 203-47
-Tourist Beacon,Banki
-Tourist Beacon,Fortuna
-Tourist Beacon,CD-58 4207
-Tourist Beacon,CD-58 4207
-Tourist Beacon,Juipedun
-Tourist Beacon,Kokowar
-Tourist Beacon,Col 285 Sector IX-T d3-43
-Tourist Beacon,Maia
-Tourist Beacon,Gliese 3371
-Tourist Beacon,Banki
-Tourist Beacon,Vamm
-Tourist Beacon,G 203-47
-Tourist Beacon,G 203-47
-Tourist Beacon,Hoji
-Tourist Beacon,Guttors
-Tourist Beacon,HIP 22395
-Tourist Beacon,Tocorii
-Tourist Beacon,Tphen Slata
-Tourist Beacon,BD+40 2208
-Tourist Beacon,Sol
-Tourist Beacon,Siksikas
-Tourist Beacon,Kappa Fornacis
-Tourist Beacon,V380 Orionis
-Tourist Beacon,Ladabalbasa
-Tourist Beacon,He Qiong
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Cheae Euq ER-L c21-0
-Tourist Beacon,Osira
-Tourist Beacon,Tujing
-Tourist Beacon,Sol
-Tourist Beacon,Eafots BP-I d9-35
-Tourist Beacon,Laklano
-Tourist Beacon,Carthage
-Tourist Beacon,Ngere
-Tourist Beacon,Banki
-Tourist Beacon,Djalibara
-Tourist Beacon,Cheng Den
-Tourist Beacon,Ross 151
-Tourist Beacon,Jupanisage
-Tourist Beacon,Cofan
-Tourist Beacon,HR 7221
-Tourist Beacon,HIP 112002
-Tourist Beacon,CN Bootis
-Tourist Beacon,Buzhang Ku
-Tourist Beacon,Facece
-Tourist Beacon,Juipedun
-Tourist Beacon,HIP 35755
-Tourist Beacon,Nortes
-Tourist Beacon,HIP 80243
-Tourist Beacon,Bedaho
-Tourist Beacon,Vamm
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Myrielk QX-X c28-1093
-Tourist Beacon,LTT 13904
-Tourist Beacon,Aucoks OH-D b18-3
-Tourist Beacon,Vamm
-Tourist Beacon,Pallaeni
-Tourist Beacon,Guttors
-Tourist Beacon,HR 8472
-Tourist Beacon,HIP 17862
-Tourist Beacon,Chi Orionis
-Tourist Beacon,Marki
-Tourist Beacon,HIP 41181
-Tourist Beacon,LHS 3675
-Tourist Beacon,Buzhang Ku
-Tourist Beacon,Malina
-Tourist Beacon,Tujing
-Tourist Beacon,39 Serpentis
-Tourist Beacon,HR 1597
-Tourist Beacon,Sothis
-Tourist Beacon,NLTT 46621
-Tourist Beacon,HR 7221
-Tourist Beacon,Sol
-Tourist Beacon,Amenili
-Tourist Beacon,LTT 13904
-Tourist Beacon,Exioce
-Tourist Beacon,Epsilon Eridani
-Tourist Beacon,Juipedun
-Tourist Beacon,LTT 13904
-Tourist Beacon,Indaol
-Tourist Beacon,BD-02 4304
-Tourist Beacon,Upsilon Phoenicis
-Tourist Beacon,LP 339-7
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Ackwada
-Tourist Beacon,LTT 4599
-Tourist Beacon,Millcayac
-Tourist Beacon,Leesti
-Tourist Beacon,G 203-47
-Tourist Beacon,Gateway
-Tourist Beacon,HIP 17862
-Tourist Beacon,Ch'eng
-Tourist Beacon,Gyvatices
-Tourist Beacon,Makum
-Tourist Beacon,Vak
-Tourist Beacon,LHS 278
-Tourist Beacon,BD+22 3579
-Tourist Beacon,Luyten's Star
-Tourist Beacon,HIP 111755
-Tourist Beacon,LP 244-47
-Tourist Beacon,LP 131-66
-Tourist Beacon,Synuefe XR-H d11-102
-Tourist Beacon,HR 5529
-Tourist Beacon,Fortuna
-Tourist Beacon,BD+74 526
-Tourist Beacon,Facece
-Tourist Beacon,LP 339-7
-Tourist Beacon,Phracani
-Tourist Beacon,Praea Euq RD-R d5-9
-Tourist Beacon,IC 1805 Sector AV-O c6-6
-Tourist Beacon,HIP 16094
-Tourist Beacon,Lugh
-Tourist Beacon,Te Kaha
-Tourist Beacon,Indaol
-Tourist Beacon,Andceeth
-Tourist Beacon,G 123-16
-Tourist Beacon,Tphen Slata
-Tourist Beacon,Beditjari
-Tourist Beacon,Nortes
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Tphen Slata
-Tourist Beacon,Pleiades Sector JC-U b3-2
-Tourist Beacon,Traikoa FL-P e5-4
-Tourist Beacon,Hen 2-23
-Tourist Beacon,HIP 17403
-Tourist Beacon,Jambin
-Tourist Beacon,Cofan
-Tourist Beacon,HIP 6978
-Tourist Beacon,LHS 3447
-Tourist Beacon,Ackwada
-Tourist Beacon,Tujing
-Tourist Beacon,VY Canis Majoris
-Tourist Beacon,Maia
-Tourist Beacon,Nganji
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,Siksikas
-Tourist Beacon,LP 542-33
-Tourist Beacon,LP 499-54
-Tourist Beacon,Sol
-Tourist Beacon,Ngbatobii
-Tourist Beacon,HIP 41181
-Tourist Beacon,LP 102-320
-Tourist Beacon,Gliese 105.2
-Tourist Beacon,Tau Ceti
-Tourist Beacon,Kathans
-Tourist Beacon,i Bootis
-Tourist Beacon,Assinda
-Tourist Beacon,Jardonnere
-Tourist Beacon,Juipedun
-Tourist Beacon,Tphen Slata
-Tourist Beacon,HIP 35755
-Tourist Beacon,BD+74 526
-Tourist Beacon,G 123-16
-Tourist Beacon,Buzhang Ku
-Tourist Beacon,Malina
-Tourist Beacon,BD+74 526
-Tourist Beacon,Kelie
-Tourist Beacon,Velnambang
-Tourist Beacon,Olgrea
-Tourist Beacon,Kyloalks DL-Y g17
-Tourist Beacon,Pleiades Sector JC-U b3-2
-Tourist Beacon,Brulenjan
-Tourist Beacon,Akualanu
-Tourist Beacon,Diso
-Tourist Beacon,Exioce
-Tourist Beacon,Buzhang Ku
-Tourist Beacon,Flyua Eaec CG-F d11-10
-Tourist Beacon,HR 4062
-Tourist Beacon,Andceeth
-Tourist Beacon,LP 825-559
-Tourist Beacon,Nortes
-Tourist Beacon,VESPER-M4
-Tourist Beacon,Cemiess
-Tourist Beacon,HIP 111755
-Tourist Beacon,Alioth
-Tourist Beacon,Shanhauls
-Tourist Beacon,Wulgaedia
-Tourist Beacon,Elli
-Tourist Beacon,Cofan
-Tourist Beacon,Tujing
-Tourist Beacon,Beditjari
-Tourist Beacon,Tphen Slata
-Tourist Beacon,Marki
-Tourist Beacon,Alioth
-Tourist Beacon,BD+22 3878
-Tourist Beacon,LP 339-7
-Tourist Beacon,Achenar
-Tourist Beacon,LP 244-47
-Tourist Beacon,Anlave
-Tourist Beacon,HIP 42455
-Tourist Beacon,HIP 41181
-Tourist Beacon,Great Annihilator
-Tourist Beacon,Latugara
-Tourist Beacon,StKM 1-1341
-Tourist Beacon,VY Canis Majoris
-Tourist Beacon,Cemiess
-Tourist Beacon,Brohman
-Tourist Beacon,Temba
-Tourist Beacon,Luyten 205-128
-Tourist Beacon,Jardonnere
-Tourist Beacon,HIP 35755
-Tourist Beacon,HIP 10175
-Tourist Beacon,Alioth
-Tourist Beacon,Ch'eng
-Tourist Beacon,Clayakarma
-Tourist Beacon,Cofan
-Tourist Beacon,Flyai Gruia RN-K c11-7
-Tourist Beacon,Tocorii
-Tourist Beacon,LTT 4599
-Tourist Beacon,Mintaka
-Tourist Beacon,Hariates
-Tourist Beacon,T Tauri
-Tourist Beacon,LP 581-36
-Tourist Beacon,47 Ceti
-Tourist Beacon,Ngere
-Tourist Beacon,Guttors
-Tourist Beacon,Achenar
-Tourist Beacon,LHS 6050
-Tourist Beacon,Achenar
-Tourist Beacon,HIP 111755
-Tourist Beacon,Phekda
-Tourist Beacon,18 Puppis
-Tourist Beacon,Ch'eng
-Tourist Beacon,Shrogea MH-V e2-1763
-Tourist Beacon,Sali'naman
-Tourist Beacon,Prism
-Tourist Beacon,Sagittarius A*
-Tourist Beacon,Beditjari
-Tourist Beacon,Sol
-Tourist Beacon,Lugh
-Tourist Beacon,Tsu
-Tourist Beacon,HR 1597
-Tourist Beacon,Gliese 3258
-Tourist Beacon,Ilya Nigh
-Tourist Beacon,Greae Phio DL-Y e9
-Tourist Beacon,BD+22 3579
-Tourist Beacon,Luyten 205-128
-Tourist Beacon,V492 Lyrae
-Tourist Beacon,Furbaide
-Tourist Beacon,Achenar
-Tourist Beacon,LFT 367
-Tourist Beacon,Zaonce
-Tourist Beacon,HIP 44811
-Tourist Beacon,Artemis
-Tourist Beacon,Tphen Slata
-Tourist Beacon,Beditjari
-Tourist Beacon,Upsilon Phoenicis
-Tourist Beacon,LHS 3931
-Tourist Beacon,G 123-16
-Tourist Beacon,LP 499-54
-Tourist Beacon,Antanyamai
-Tourist Beacon,Ladabalbasa
-Tourist Beacon,Skaude AA-A h294
-Tourist Beacon,BD+22 3579
-Tourist Beacon,Delta Pavonis
-Tourist Beacon,Quince
-Tourist Beacon,Beditjari
-Tourist Beacon,Irandan
-Tourist Beacon,HR 7451
-Tourist Beacon,Epsilon Eridani
-Tourist Beacon,Voqooe JC-K d9-95
-Tourist Beacon,Durius
-Tourist Beacon,Eotienses
-Tourist Beacon,Ackwada
-Tourist Beacon,Achenar
-Tourist Beacon,Fawaol
-Tourist Beacon,BD+30 623
-Tourist Beacon,BD+74 526
-Tourist Beacon,Epsilon Eridani
-Tourist Beacon,Shinrarta Dezhra
-Tourist Beacon,HIP 14619
-Tourist Beacon,Ither
-Tourist Beacon,Prism
-Tourist Beacon,Indaol
-Tourist Beacon,Buzhang Ku
-Tourist Beacon,Aurgel
-Tourist Beacon,He Qiong
-Tourist Beacon,Kuk
-Tourist Beacon,Sorbago
-Tourist Beacon,LHS 2405
-Tourist Beacon,Louguala
-Tourist Beacon,Pleiades Sector JC-U b3-2
-Tourist Beacon,Jardonnere
-Tourist Beacon,Tujing
-Tourist Beacon,Biamebitoto
-Tourist Beacon,Nyuena RO-Z d184
-Tourist Beacon,Sirius
-Tourist Beacon,Kashyapa
-Tourist Beacon,HIP 493
-Tourist Beacon,HR 7925
-Tourist Beacon,Epsilon Eridani
-Tourist Beacon,Csi+47-21046
-Tourist Beacon,LP 244-47
-Tourist Beacon,HIP 17225
-Tourist Beacon,49 Serpentis
-Tourist Beacon,HR 7221
-Tourist Beacon,G 203-47
-Tourist Beacon,Beditjari
-Tourist Beacon,Siksikas
-Tourist Beacon,Synuefe XR-H d11-102
-Tourist Beacon,Tphen Slata
-Tourist Beacon,Exioce
-Tourist Beacon,HIP 118311
-Tourist Beacon,Beditjari
-Tourist Beacon,Punuri
-Tourist Beacon,Gamma Leporis
-Tourist Beacon,Reorte
-Tourist Beacon,Laklano
-Tourist Beacon,Mulayo
 Tube Worms,Juenae LD-A d1-4951
 Tube Worms,Phroi Pri LC-B d1-6200
 Tube Worms,Juenae HG-P a5-11
@@ -16041,7 +14685,6 @@ Volcanism,Byoi Ain NJ-K b50-35
 Volcanism,Bleethuae YV-C c372
 Volcanism,Bleethuae ES-S d4-123
 Volcanism,Boewnst TG-J d10-505
-Volcanism,Traikaae AR-L d8-9
 Volcanism,Shinrarta Dezhra
 Volcanism,Lysoosms RD-K d8-221
 Volcanism,Pro Chruia VW-A c27-4
@@ -16202,6 +14845,7 @@ Volcanism,Bleae Thua IJ-R c5-5
 Volcanism,Syrivai KC-R c6-0
 Volcanism,Zunuae XP-O e6-3599
 Volcanism,102 Iota Tauri
+Volcanism,HIP 23759
 Volcanism,HR 1243
 Volcanism,Omega Sector LC-V c2-26
 Volcanism,Eephaim DQ-L b51-3
@@ -17926,6 +16570,7 @@ Water Ice Fumarole,Sol
 Water Ice Fumarole,Wredguia FU-V c16-1
 Water Ice Fumarole,Scylla
 Water Ice Fumarole,Schafaei AR-M c7-2
+Water Ice Fumarole,NGC 3532 Sector KS-T c3-11
 Water Ice Fumarole,Gru Hypue CX-J c9-1
 Water Ice Fumarole,Blooe Flyao UA-H c13-2
 Water Ice Fumarole,Blooe Flyao UA-H c13-2
@@ -17946,9 +16591,11 @@ Water Ice Fumarole,Plaa Thua CA-Y c1-1
 Water Ice Fumarole,Scheau Hypue IU-H c26-0
 Water Ice Fumarole,Blaea Thio TY-I c9-3
 Water Ice Fumarole,Plaa Thua CA-Y c1-1
+Water Ice Fumarole,Pencil Sector EL-Y d118
 Water Ice Fumarole,Hypiae Aescs JI-A c14-0
 Water Ice Fumarole,Gludgaa QW-U c16-11
 Water Ice Geyser,Pyraleau UM-M c23-24
+Water Ice Geyser,Fe 1 Sector GT-G b11-2
 Water Ice Geyser,Aucoks RY-S c3-0
 Water Ice Geyser,Flyiedgiae SZ-V c16-1
 Water Ice Geyser,Col 359 Sector MH-F b14-0
@@ -17956,6 +16603,7 @@ Water Ice Geyser,Wredguia HW-R b45-0
 Water Ice Geyser,Crescent Sector FB-O b6-0
 Water Ice Geyser,Aucoks RY-S c3-0
 Water Ice Geyser,HIP 21991
+Water Ice Geyser,Fe 1 Sector GT-G b11-2
 Water Ice Geyser,Wredguia MY-Z b42-1
 Water Ice Geyser,Wredguia HW-R b45-0
 Water Ice Geyser,HIP 21991
@@ -17965,13 +16613,16 @@ Water Ice Geyser,HIP 21991
 Water Ice Geyser,Swoiwns FZ-B c2-6
 Water Ice Geyser,Wredguia XQ-D b41-0
 Water Ice Geyser,Greou Eoq UD-Z d1-35
+Water Ice Geyser,Synuefe OS-E b59-7
 Water Ice Geyser,Veil East Sector DL-Y d51
 Water Ice Geyser,Shrogeau TC-E c14-176
 Water Ice Geyser,HIP 21991
+Water Ice Geyser,Fe 1 Sector GT-G b11-2
 Water Ice Geyser,Veil East Sector HM-V c2-6
 Water Ice Geyser,Aucoks RY-S c3-0
 Water Ice Geyser,Aucoks RY-S c3-0
 Water Ice Geyser,HIP 21991
+Water Ice Geyser,Pencil Sector IR-W d1-146
 Water Ice Geyser,Wredguia HW-R b45-0
 Water Ice Geyser,Aucoks RY-S c3-0
 Water Ice Geyser,HIP 21991
@@ -17986,6 +16637,7 @@ Water Ice Geyser,HIP 21991
 Water Ice Geyser,Wredguia HW-R b45-0
 Water Ice Geyser,Wredguia HW-R b45-0
 Water Ice Geyser,Wredguia HW-R b45-0
+Water Ice Geyser,Prua Dryoae HC-E b18-3
 Water Ice Geyser,Flyiedgiae UA-T c18-3
 Water Ice Geyser,Blanco 1 Sector SS-S b4-0
 Water Ice Geyser,Veil West Sector QD-S b4-0
@@ -17998,80 +16650,3 @@ Water Ice Geyser,Skaude MP-S b35-7
 Water Ice Geyser,Wredguia HW-R b45-0
 Water Ice Geyser,Aucoks RY-S c3-0
 Water Ice Geyser,Skaude MP-S b35-7
-Wrecked Ship,Belu
-Wrecked Ship,Kao Wanga
-Wrecked Ship,Medzistine
-Wrecked Ship,Andonnus
-Wrecked Ship,Los
-Wrecked Ship,HIP 16613
-Wrecked Ship,Col 285 Sector TY-O b20-6
-Wrecked Ship,Arietis Sector OS-T b3-0
-Wrecked Ship,Alpha Centauri
-Wrecked Ship,HIP 32001
-Wrecked Ship,Shui Wei Sector PI-S b4-8
-Wrecked Ship,Mang
-Wrecked Ship,Brokutsu
-Wrecked Ship,10 Kappa Pegasi
-Wrecked Ship,Col 285 Sector XW-Y b15-1
-Wrecked Ship,10 Kappa Pegasi
-Wrecked Ship,Pegasi Sector IR-W d1-90
-Wrecked Ship,Crucis Sector LX-T b3-2
-Wrecked Ship,Meretrida
-Wrecked Ship,Tucanae Sector HH-U b3-0
-Wrecked Ship,Sol
-Wrecked Ship,Col 285 Sector ZW-X b16-3
-Wrecked Ship,Canis Subridens
-Wrecked Ship,Wattunukam
-Wrecked Ship,Orrere
-Wrecked Ship,10 Kappa Pegasi
-Wrecked Ship,Col 285 Sector NA-S b19-6
-Wrecked Ship,Meretrida
-Wrecked Ship,LHS 2725
-Wrecked Ship,Liu Baja
-Wrecked Ship,Negrito
-Wrecked Ship,Xuan Chelg
-Wrecked Ship,Zeta Horologii
-Wrecked Ship,Khontam
-Wrecked Ship,Renet
-Wrecked Ship,Einheriar
-Wrecked Ship,Ra' Takakhan
-Wrecked Ship,Epsilon Indi
-Wrecked Ship,Col 285 Sector LP-G a40-3
-Wrecked Ship,Lyncis Sector TZ-P b5-1
-Wrecked Ship,Karsuki Ti
-Wrecked Ship,Motie
-Wrecked Ship,Col 285 Sector QD-P b20-1
-Wrecked Ship,Hyades Sector AS-I b10-5
-Wrecked Ship,Nayahun
-Wrecked Ship,Belu
-Wrecked Ship,DT Virginis
-Wrecked Ship,Dhruva
-Wrecked Ship,CX Com
-Wrecked Ship,Vagho
-Wrecked Ship,Xolotl
-Wrecked Ship,Blest
-Wrecked Ship,Balte
-Wrecked Ship,Colonia
-Wrecked Ship,Canonnia
-Wrecked Ship,Apadecavi
-Wrecked Ship,Coeus
-Wrecked Ship,Koli Discii
-Wrecked Ship,Raman
-Wrecked Ship,Luyten 674-15
-Wrecked Ship,Almana
-Wrecked Ship,Bakawa
-Wrecked Ship,Monoto
-Wrecked Ship,Raidal
-Wrecked Ship,Crucis Sector HX-T b3-5
-Wrecked Ship,Chechehet
-Wrecked Ship,Pyemsito
-Wrecked Ship,Haisienet
-Wrecked Ship,Athena
-Wrecked Ship,Alrai Sector BQ-Y d72
-Wrecked Ship,Shui Wei Sector XU-P b5-1
-Wrecked Ship,Gletichua
-Wrecked Ship,MCC 515
-Wrecked Ship,Carichilo
-Wrecked Ship,Canonnia
-Wrecked Ship,10 Kappa Pegasi
-Wrecked Ship,Amahu
