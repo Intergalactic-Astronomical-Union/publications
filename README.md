@@ -1,5 +1,5 @@
 # publications
-Official Publications and research data from The Intergalactic Astronomical Union
+Official publications and research data from The Intergalactic Astronomical Union
 
 
 /ATEL/ - Archive of submitted discovery "telegram" notices.
