@@ -1,1 +1,0 @@
-At time index: 2020-05-26T16:32:05Z, Shnyrik reports K13-Type Anomaly in system Iorady EI-B d13-0 via ATEL-EDMC ( Version 1.32 ).

@@ -1,1 +1,0 @@
-At time index: 2020-01-20T21:42:11Z, Ali_W reports Silicate Vapour Gas Vent in system Dumbaa UC-Y b15-122 via ATEL-EDMC ( Version 1.23 ).
