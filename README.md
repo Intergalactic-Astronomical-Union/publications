@@ -7,5 +7,7 @@ Official publications and research data from The Intergalactic Astronomical Unio
 - 
 
 **Raw Data:**
+
 /Boxel_Data/ - CSV formatted tables of Boxel coordinates, sorted by sector layer. Useful for "grid" surveys.
+
 /Raw_Data/ - Collection of data collected from various projects and expeditions.
