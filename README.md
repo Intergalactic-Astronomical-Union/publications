@@ -6,13 +6,13 @@ Official publications and research data from The Intergalactic Astronomical Unio
 https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/IGAU_Codex.csv.gz
 
 - E:D System Identification: 
-https://github.com/Elite-IGAU/publications/blob/master/ED_System_identifiers_notes_-_Rev1.pdf
+https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/ED_System_identifiers_notes_-_Rev1.pdf
 
 - Spectral Class Distribution of Galactic Phenomena: 
-https://github.com/Elite-IGAU/publications/blob/master/Spectral-Class-Distribution-of-Galactic-Phenomena.pdf
+https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/Spectral-Class-Distribution-of-Galactic-Phenomena.pdf
 
 - Systems Near Hen 2-333 in Graea Hypue:
-https://github.com/Elite-IGAU/publications/blob/master/systems-graea-hypue-near-hen_2-333.jsonl.gz
+https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/systems-graea-hypue-near-hen_2-333.jsonl.gz
 
 **Raw Data:**
 
