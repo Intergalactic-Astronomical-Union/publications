@@ -11,6 +11,9 @@ https://github.com/Elite-IGAU/publications/blob/master/ED_System_identifiers_not
 - Spectral Class Distribution of Galactic Phenomena: 
 https://github.com/Elite-IGAU/publications/blob/master/Spectral-Class-Distribution-of-Galactic-Phenomena.pdf
 
+- Systems Near Hen 2-333 in Graea Hypue:
+https://github.com/Elite-IGAU/publications/blob/master/systems-graea-hypue-near-hen_2-333.jsonl.gz
+
 **Raw Data:**
 
 /Boxel_Data/ - CSV formatted tables of Boxel coordinates, sorted by sector layer. Useful for "grid" surveys.
