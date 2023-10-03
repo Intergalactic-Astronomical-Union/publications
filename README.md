@@ -16,9 +16,9 @@ https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/sys
 
 **Raw Data:**
 
-/Boxel_Data/ - CSV formatted tables of Boxel coordinates, sorted by sector layer. Useful for "grid" surveys.
+- /Boxel_Data/ - CSV formatted tables of Boxel coordinates, sorted by sector layer. Useful for "grid" surveys.
 
-/Raw_Data/ - Collection of data collected from various projects and expeditions.
+- /Raw_Data/ - Collection of data collected from various projects and expeditions.
 
 
 
