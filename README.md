@@ -2,7 +2,7 @@
 Official publications and research data from The Intergalactic Astronomical Union
 
 **Publications:**
-- Codex Discoveries: 
+- Codex Discoveries (Discontinued on 1/3/2024): 
 https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/IGAU_Codex.csv.gz
 
 - E:D System Identification: 
@@ -19,3 +19,8 @@ https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/sys
 /Boxel_Data/ - CSV formatted tables of Boxel coordinates, sorted by sector layer. Useful for "grid" surveys.
 
 /Raw_Data/ - Collection of data collected from various projects and expeditions.
+
+**NOTE:** IGAU will no longer update the codex CSV after January 3rd, 2024. 
+Spansh and EDSM provide galaxy dump files, and the IGAU Codex CSV is no longer necessary. 
+-- https://www.spansh.co.uk/dumps
+-- https://www.edsm.net/en/nightly-dumps
