@@ -21,6 +21,7 @@ https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/sys
 /Raw_Data/ - Collection of data collected from various projects and expeditions.
 
 **NOTE:** IGAU will no longer update the codex CSV after January 3rd, 2024. 
+
 Spansh and EDSM provide galaxy dump files, and the IGAU Codex CSV is no longer necessary. 
 
 -- https://www.spansh.co.uk/dumps
