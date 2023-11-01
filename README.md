@@ -28,9 +28,11 @@ https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/sys
 IGAU will no longer update the codex CSV after January 3rd, 2024. 
 
 
-Spansh and EDSM provide galaxy dump files, the IGAU Codex CSV is no longer necessary. 
+Spansh. EDAstro, and EDSM provide galaxy dump files. The IGAU Codex CSV is no longer necessary. 
 
 
 - https://www.spansh.co.uk/dumps
+
+- https://edastro.com/mapcharts/files/codex-data.csv
 
 - https://www.edsm.net/en/nightly-dumps
