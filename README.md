@@ -3,8 +3,7 @@ Official publications and research data from The Intergalactic Astronomical Unio
 
 **Publications:**
 - Codex Discoveries (Discontinued on 1/3/2024): 
-https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/IGAU_Codex.csv.gz
-
+https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/IGAU_Codex_2023-final.zip
 - E:D System Identification: 
 https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/ED_System_identifiers_notes_-_Rev1.pdf
 
