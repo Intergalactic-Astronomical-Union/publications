@@ -10,6 +10,9 @@ https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/ED_
 - Spectral Class Distribution of Galactic Phenomena: 
 https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/Spectral-Class-Distribution-of-Galactic-Phenomena.pdf
 
+- Heart of the Galaxy Expedition:
+https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/White%20Paper_%20The%20_Heart%20of%20the%20Galaxy_%20Expedition.pdf
+
 - Systems Near Hen 2-333 in Graea Hypue:
 https://github.com/Intergalactic-Astronomical-Union/publications/blob/master/systems-graea-hypue-near-hen_2-333.jsonl.gz
 
